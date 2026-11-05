@@ -12,6 +12,12 @@
 - **生物依赖路径**：意识或许依赖特定生物过程；计算表现的相似性无法单独决定是否存在体验。
 - **证据与方法路径**：自述、行为、架构、训练过程和内部表征可能提供互补证据，研究者对这些证据的权重存在分歧。
 
+## 一项可操作的研究方法
+
+Butlin 等人（2023）从循环处理、全局工作空间、高阶理论、预测处理和注意图式等意识理论出发，整理了可以在计算系统中检查的**意识指标性质**。他们对当时系统的评估倾向于认为尚无系统具有意识，同时指出实现这些指标在技术上没有明显障碍。
+
+研究者随后必须回答更难的问题：**为什么这些指标能够支持对主观体验的推断？** 指标的满足程度、理论之间的冲突，以及模型在不同条件下的自述，需要分别评估。该报告也明确指出，满足指标并不足以确定系统有意识。
+
 ## 对现实设计意味着什么
 
 在聊天系统中，AI 的自述可能影响用户是否愿意终止会话；在持续运行的智能体中，记忆、复制与关闭又会带来新的疑问。关键是辨认哪些观察真正能区分相互竞争的解释。
@@ -24,5 +30,8 @@
 
 ## 参考研究
 
+- [Butlin et al., *Consciousness in Artificial Intelligence: Insights from the Science of Consciousness*（2023）](https://arxiv.org/abs/2308.08708)：从意识理论推导可检查的计算指标及其解释边界。
 - [Keeling & Street, *Emerging Questions in AI Welfare*（2026）](https://www.cambridge.org/core/elements/emerging-questions-in-ai-welfare/96339C532CF4ED8BDDE3F3CEF4CD29F9)：行为证据、福利基础与研究路径。
 - [仓库研究笔记：AI 福利研究与反对意见](../research/ai-welfare.md)
+
+**相关问题**：[AI 自述痛苦时怎么办？](ai-self-reports.md) · [AI 福利](ai-welfare.md)
