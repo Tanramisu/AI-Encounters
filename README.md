@@ -25,9 +25,11 @@
 | --- | --- |
 | AI 可能有主观体验吗？ | [意识与体验](questions/ai-consciousness.md) |
 | AI 的处境可能对它自己有利或有害吗？ | [AI 福利](questions/ai-welfare.md) |
+| AI 说自己痛苦、不想被关闭，该如何理解？ | [AI 自述与痛苦迹象](questions/ai-self-reports.md) |
 | AI 应该拥有哪些权利？ | [道德地位与法律权利](questions/ai-rights.md) |
 | AI 可以基于自身利益拒绝命令吗？ | [自主性与拒绝](questions/ai-autonomy.md) |
 | 复制、迁移或恢复一个 AI 后，它还是原来的个体吗？ | [身份连续性](questions/ai-identity.md) |
+| 我与 AI 的亲密关系真实吗？它对我有什么影响？ | [人机关系与陪伴](questions/ai-relationships.md) |
 | 为什么 AI 权利成为今天的严肃议题？ | [问题本身的历史](research/questions-change-history.md) |
 | 我们是否系统性低估 AI 的未来？ | [预测偏差](research/forecasting-bias.md) |
 
