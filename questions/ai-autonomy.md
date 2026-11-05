@@ -16,6 +16,12 @@
 
 一个持续运行的研究 Agent 可以拒绝不合适的请求、暂缓行动或退出会话。产品设计需要分别说明：拒绝由什么规则触发、是否存在申诉或重新授权路径、退出会不会终止运行实例。
 
+## 已落地的设计案例（2025 年）
+
+Anthropic 曾允许 Claude Opus 4／4.1 在消费者聊天产品中，面对持续的严重有害或辱虐性互动时**主动结束极少数对话**。这是一项针对潜在模型福利的探索性措施，也有安全和产品管理意义。它赋予的是在明确条件下结束特定交互的能力；关于一般性的自主决定权及其法律地位，还需另外讨论。
+
+它也揭示了两个不同的工程动作：**拒绝执行某个请求**与**退出整个互动**。后者对长期运行的 Agent 还可能涉及任务状态、记忆和实例生命周期。
+
 ## 值得继续追问
 
 - 安全拒绝与自主拒绝如何在行为和系统机制上区分？
@@ -24,6 +30,9 @@
 
 ## 参考研究
 
+- [Anthropic, *Claude Opus 4 and 4.1 can now end a rare subset of conversations*（2025）](https://www.anthropic.com/research/end-subset-conversations)：现实产品中有限范围的主动退出功能。
 - [Keeling & Street, *Emerging Questions in AI Welfare*（2026）](https://www.cambridge.org/core/elements/emerging-questions-in-ai-welfare/96339C532CF4ED8BDDE3F3CEF4CD29F9)：实践伦理、退出与福利干预。
 - [仓库研究：AI 福利](../research/ai-welfare.md)
 - [相关问题：身份连续性](ai-identity.md)
+
+**相关问题**：[AI 自述痛苦时怎么办？](ai-self-reports.md)
