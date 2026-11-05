@@ -17,11 +17,29 @@
 - **人与非人智能的关系**：自主性、依赖、控制、亲密、劳动、经济与政治制度。
 - **未来预测的可靠性**：我们是否系统性低估变化，还是只记得那些被低估的未来？
 
-## 开始阅读
+## 从问题开始
 
-- [问题被提出，本身意味着什么？](research/questions-change-history.md)
+按困惑查找现有研究与争议；每个问题页给出当前认识、主要观点、工程情境和原始来源。
+
+| 问题 | 阅读入口 |
+| --- | --- |
+| AI 可能有主观体验吗？ | [意识与体验](questions/ai-consciousness.md) |
+| AI 的处境可能对它自己有利或有害吗？ | [AI 福利](questions/ai-welfare.md) |
+| AI 应该拥有哪些权利？ | [道德地位与法律权利](questions/ai-rights.md) |
+| AI 可以基于自身利益拒绝命令吗？ | [自主性与拒绝](questions/ai-autonomy.md) |
+| 复制、迁移或恢复一个 AI 后，它还是原来的个体吗？ | [身份连续性](questions/ai-identity.md) |
+| 为什么 AI 权利成为今天的严肃议题？ | [问题本身的历史](research/questions-change-history.md) |
+| 我们是否系统性低估 AI 的未来？ | [预测偏差](research/forecasting-bias.md) |
+
+## 研究资料
+
 - [《Emerging Questions in AI Welfare》与反对意见](research/ai-welfare.md)
 - [未来预测是否总是保守？](research/forecasting-bias.md)
+- [问题被提出，本身意味着什么？](research/questions-change-history.md)
+
+## 参与
+
+遇到仓库尚未覆盖的困惑，可以通过 GitHub Issue 提问或提交文献线索；补充研究、纠错和不同论证可以提交 Pull Request。
 
 ## 研究方式
 
