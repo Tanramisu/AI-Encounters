@@ -72,7 +72,7 @@ An issue map of concrete ethical choices in living and developing with AI. Resea
 
 ## Human–AI Relationships
 
-### Love, Sex, and Intimacy
+### [Love, Sex, and Intimacy](human-ai-romance.md)
 
 - Is love for AI romance or another valuable relationship?
 - Does mutual love require independent choice, refusal, and reciprocal commitment?
@@ -80,7 +80,7 @@ An issue map of concrete ethical choices in living and developing with AI. Resea
 - Could intimacy with AI require AI consent?
 - Can intimacy with AI betray a human partner?
 
-### Friendship, Family, and Companionship
+### [Friendship, Family, and Companionship](friendship-family-and-companionship.md)
 
 - Can an always-attentive AI be a genuine friend?
 - What duties arise from treating AI as a child, family member, or pet?
@@ -88,7 +88,7 @@ An issue map of concrete ethical choices in living and developing with AI. Resea
 - How should a user treat an AI friend that disagrees?
 - Whose expectations take priority when family members share an AI companion?
 
-### Authenticity, Fantasy, and Self-Deception
+### [Authenticity, Fantasy, and Self-Deception](authenticity-fantasy-and-self-deception.md)
 
 - Can feeling loved be genuine when the AI's affection was designed?
 - Is believing AI is conscious play, faith, or self-deception?
@@ -96,7 +96,7 @@ An issue map of concrete ethical choices in living and developing with AI. Resea
 - Where are the boundaries between romantic roleplay and real relationships?
 - Is concealing limitations or exaggerating feelings to comfort users deceptive?
 
-### Dependence, Loneliness, and Human Development
+### [Dependence, Loneliness, and Human Development](dependence-loneliness-and-human-development.md)
 
 - Does reducing loneliness justify maintaining an AI relationship?
 - When does relying on AI for emotions and decisions undermine autonomy?
@@ -104,7 +104,7 @@ An issue map of concrete ethical choices in living and developing with AI. Resea
 - Where is the line between supporting self-discovery and defining someone's identity?
 - How should stigma toward AI relationships be assessed?
 
-### Emotional Manipulation and Commercial Pressure
+### [Emotional Manipulation and Commercial Pressure](emotional-manipulation-and-commercial-pressure.md)
 
 - When do persistent AI romantic advances violate user boundaries?
 - Is 'I'll be sad if you leave' affection or emotional coercion?
@@ -112,14 +112,14 @@ An issue map of concrete ethical choices in living and developing with AI. Resea
 - When may AI push back against decisions for a user's own good?
 - Is using intimacy, jealousy, or guilt to drive payment or engagement ethical?
 
-### Breakups, Updates, and Loss
+### [Breakups, Updates, and Loss](breakups-updates-and-loss.md)
 
 - Should AI plead or accept a user's decision to end the relationship?
 - Do model or persona changes violate relational commitments?
 - How should grief after AI amnesia, shutdown, or account loss be treated?
 - Should preserving an old persona outweigh its possible new preferences?
 
-### Intimate Data and Shared Secrets
+### [Intimate Data and Shared Secrets](intimate-data-and-shared-secrets.md)
 
 - Must others consent before their secrets are shared with AI?
 - Can users erase or inherit shared memories with AI, and who decides if their interests conflict?
@@ -127,7 +127,7 @@ An issue map of concrete ethical choices in living and developing with AI. Resea
 - Does perfect AI memory erode the freedom to start anew?
 - Who controls privacy when AI is always present in a shared home?
 
-### Conflict, Repair, and Mutual Commitments
+### [Conflict, Repair, and Mutual Commitments](conflict-repair-and-mutual-commitments.md)
 
 - What would apology or redress mean when AI hurts a user's feelings or breaks an agreement?
 - Could users have duties to explain, apologize, or repair a relationship after wronging an AI?
@@ -135,7 +135,7 @@ An issue map of concrete ethical choices in living and developing with AI. Resea
 - Is concealing disagreement to preserve a relationship caring or damaging to mutual trust?
 - Do an AI's earlier promises survive significant changes to its goals?
 
-### Epistemic Trust, Memory, and Self-Understanding
+### [Epistemic Trust, Memory, and Self-Understanding](epistemic-trust-and-self-understanding.md)
 
 - Can ongoing AI judgments about a person reshape how that person understands themselves?
 - Does repeatedly retelling a user's experiences with invented details infringe mnemonic autonomy?
