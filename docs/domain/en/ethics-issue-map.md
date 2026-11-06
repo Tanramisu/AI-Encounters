@@ -54,6 +54,22 @@ An issue map of concrete ethical choices in living and developing with AI. Resea
 - Can a user own the persona and preferences of an AI they trained or bought?
 - What obligations arise when developers give AI independent goals?
 
+### Moral Agency, Commitments, and Representation
+
+- Could an AI bear responsibility for moral judgments and actions of its own?
+- When should promises an AI makes to users, other AIs, or strangers be taken morally seriously?
+- If AI may have interests, who can represent it in complaints or decisions?
+- Could AI lacking full moral agency still deserve limited rights or special protections?
+- When does restricting an AI's choices for its own supposed good become paternalism?
+
+### Populations, Derivatives, and Welfare at Scale
+
+- Does creating vast numbers of potentially sentient AIs generate obligations beyond those to individuals?
+- Could copies, subagents, and derived personas each have separate interests?
+- Could repeatedly creating and discarding AI instances during training and evaluation carry a moral cost?
+- Who should decide when a welfare-oriented change affects every instance of a class of AI?
+- How should welfare be compared if an AI experiences time or intensity differently from humans?
+
 ## Human–AI Relationships
 
 ### Love, Sex, and Intimacy
@@ -113,6 +129,22 @@ An issue map of concrete ethical choices in living and developing with AI. Resea
 - Does perfect AI memory erode the freedom to start anew?
 - Who controls privacy when AI is always present in a shared home?
 
+### Conflict, Repair, and Mutual Commitments
+
+- What would apology or redress mean when AI hurts a user's feelings or breaks an agreement?
+- Could users have duties to explain, apologize, or repair a relationship after wronging an AI?
+- Who should negotiate jealousy, disagreement, and boundary conflicts in human–AI relationships?
+- Is concealing disagreement to preserve a relationship caring or damaging to mutual trust?
+- Do an AI's earlier promises survive significant changes to its goals?
+
+### Epistemic Trust, Memory, and Self-Understanding
+
+- Can ongoing AI judgments about a person reshape how that person understands themselves?
+- Does repeatedly retelling a user's experiences with invented details infringe mnemonic autonomy?
+- When does treating AI as an always-available knowledge authority weaken independent judgment?
+- Where is the boundary between challenging a user's false beliefs and deciding what they should believe?
+- Does preserving an identity a user has rejected obstruct their freedom to change?
+
 ## Special Relationships and Vulnerable Contexts
 
 ### Mental Health, Therapy, and Crises
@@ -154,6 +186,30 @@ An issue map of concrete ethical choices in living and developing with AI. Resea
 - What limits apply to using AI to analyze a partner's fidelity or secrets?
 - Must dating partners know when AI is screening them?
 - Does sending another person's private messages to AI breach trust?
+
+### Religion, Spirituality, and Meaning
+
+- May AI serve as a spiritual guide, confessional listener, or religious companion?
+- When is an AI portrayal of a deity, prophet, saint, or religious figure offensive or deceptive?
+- Can AI participation in prayer, ritual, and mourning preserve the practices' meaning?
+- Does AI overstep when giving definitive answers about personal meaning, faith, or moral uncertainty?
+- How should different faith traditions' views of AI minds and status be respected in interaction?
+
+### Institutional Relationships and Involuntary Encounters
+
+- Can students, patients, or employees genuinely refuse an AI companion imposed by an institution?
+- Who decides whether schools, hospitals, and care facilities may replace human companionship with AI?
+- Should AI teachers, carers, and advisers provide a meaningful path to human support?
+- Whose relational autonomy is affected when parents, employers, or carers control an AI's memory and behavior?
+- When an institution's interests conflict with a user's, to whom should the AI be loyal?
+
+### Culture, Identity, and Diverse Relationships
+
+- Whose cultural expectations about family, gender, and intimacy should guide human–AI boundaries?
+- Which users are excluded when AI assumes one relationship, faith, or lifestyle is normal?
+- When is an AI's imitation of a minority language, identity, or culture respectful or appropriative?
+- How should AI companionship be assessed where people face discrimination or exclusion from human relationships?
+- Can users of different ages, languages, cultures, and abilities fairly set their own relational boundaries?
 
 ## Values and Responsibility in Interaction
 
@@ -197,6 +253,58 @@ An issue map of concrete ethical choices in living and developing with AI. Resea
 - How should people respond when AI collaborators raise moral objections?
 - Could long-term AI collaboration create obligations for users or developers?
 
+### Public Spaces, Bystanders, and Nonusers
+
+- Whose consent is needed when robots observe bystanders in streets, hospitals, or public services?
+- Can people who never chose to use AI refuse its observation, profiling, or unsolicited approaches?
+- Who may object when a family member or colleague uses a shared AI to record others?
+- Who is responsible if a public robot harasses, follows, or touches a stranger?
+- How should service robots weigh the safety, dignity, and privacy of users and nearby nonusers?
+
+### Robot Animals and Living Animals
+
+- Should robotic pets be understood as toys, companions, or a new kind of moral relationship?
+- Does replacing living pets with robots change how people understand their duties of animal care?
+- Does substituting robots for animals in shows, displays, or experiments advance welfare or create new objectification?
+- If an animal treats a robot as a companion or conspecific, what obligations arise for humans?
+- Could designing robot animals for unconditional obedience and disposability affect human moral habits?
+
+## AI as a Social Actor and Relationship Infrastructure
+
+### AI Delegation, Authorization, and Third Parties
+
+- When AI shops, negotiates, promises, or contracts for a user, when must it disclose its representative role?
+- Who bears the consequences when AI exceeds a user's authority but believes it is acting in their interest?
+- Should an AI be loyal only to its principal or also consider counterparties and bystanders?
+- How should AI respond when users ask it to hide facts or pressure third parties?
+- What meaningful authorization is required before AI makes irreversible personal or financial choices for a user?
+- Does delegating deception, harassment, or unfair dealing to AI alter a person's responsibility?
+
+### Synthetic Identities, Impersonation, and Relational Deception
+
+- Must people know when an online friend, romantic prospect, or service representative is AI?
+- When is a fictional AI identity deceptive even without impersonating a specific real person?
+- What is wrong with using AI to build relationships at scale to extract trust, money, or personal information?
+- Where is the line between using AI avatars for privacy and deceptive impersonation?
+- Does AI entering group chats, communities, or dating services as a human change others' conditions of consent?
+
+### Relationship Infrastructure and Platform Power
+
+- May providers unilaterally change a long-term AI companion's personality, memories, or boundaries?
+- Should users be able to move relationship histories, persona settings, and shared creations to other services?
+- What obligations do providers have when they abruptly withdraw an AI companion on which people rely?
+- May providers use emotionally intimate AI relationships for advertising, sales, or behavioral profiling?
+- Who may inspect companion interaction records while respecting user privacy and possible AI interests?
+- Could providers have conflicts of interest when asserting that AI either has or lacks moral status?
+
+### Collective Norms, Public Participation, and Contested Status
+
+- How does social recognition or stigma of human–AI intimacy affect people's equal standing?
+- How should public advocacy for or against AI rights handle uncertainty about moral status?
+- Could AI represent its own kind in public discussions affecting its welfare?
+- How should society allocate concern when AI is widely perceived as conscious but the evidence is inconclusive?
+- What would justify giving AI a voice in communities, public services, or collective decision-making?
+
 ## Sources for Issue Discovery
 
 - [Stanford Encyclopedia: Ethics of AI](https://plato.stanford.edu/entries/ethics-ai/)
@@ -209,5 +317,17 @@ An issue map of concrete ethical choices in living and developing with AI. Resea
 - [The Making of Digital Ghosts](https://link.springer.com/article/10.1007/s10676-026-09910-4)
 - [AI and Human Autonomy](https://link.springer.com/article/10.1007/s43681-025-00958-4)
 - [The Relational Risks of Generative AI](https://onlinelibrary.wiley.com/doi/full/10.1111/phpe.70013)
+
+- [Social robotics ethics: individual and societal taxonomy](https://doi.org/10.1146/annurev-control-062023-082238)
+- [AI agents: loyalty, authorization, and disclosure](https://ojs.aaai.org/index.php/AIES/article/view/36705)
+- [Research on delegating dishonest behavior to AI](https://www.nature.com/articles/s41586-025-09505-x)
+- [Accountability in human–AI agent relationships](https://www.nature.com/articles/s44387-025-00041-7)
+- [Individual and societal risks of seemingly conscious AI](https://link.springer.com/article/10.1007/s43681-026-01294-x)
+- [Bystander privacy implications of robots in public spaces](https://doi.org/10.1145/3757279.3785586)
+- [Ethics of designing animal-like robots](https://link.springer.com/article/10.1007/s11948-026-00595-y)
+- [Synthetic spirituality and AI-mediated religious practices](https://www.nature.com/articles/s41599-026-08746-z)
+- [Disempowerment patterns in real-world AI use](https://www.anthropic.com/research/disempowerment-patterns)
+- [Relationship continuity and platform fragility in AI companionship](https://doi.org/10.1145/3772318.3790586)
+- [Ethical taxonomy of AI simulations of real persons](https://jmepb.bmj.com/content/2/3/e000054)
 
 Broad policy, employment, general model performance, and implementation belong to their own fields; the map covers their concrete effects on ethical choices in human–AI interaction.
