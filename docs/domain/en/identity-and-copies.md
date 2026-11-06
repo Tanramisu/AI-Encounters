@@ -25,3 +25,15 @@ For users' sense of relational continuity, see [Human–AI Companionship](human-
 - **Reasoning:** Even supposing artificial moral patients are possible, multiple instances of the same model may be one patient or many. Existing identity accounts do not settle the boundaries of consciousness, information sharing, physical implementation, and levels of abstraction.
 - **Conditions:** If any instance has moral interests, its individuation bears directly on survival, counting patients, trade-offs, and bodily integrity.
 - **Objection:** The difficulty of individuation neither proves that every copied instance has interests nor requires treating every copy as a separate patient.
+
+## Conditional responsibility across copies
+
+**Nick Bostrom and Carl Shulman (2022) | [Propositions Concerning Digital Minds and Society](https://nickbostrom.com/papers/propositions-concerning-digital-minds-and-society/)**
+
+- **Reasoning:** Related AI instances could sometimes share collective rights and responsibilities. Their ability to reproduce may magnify the problem of engineered consent.
+- **Conditions:** These are conditional claims about future digital minds with morally significant interests, not evidence that ordinary present-day copies are moral patients.
+- **Objection:** Collective responsibilities need not imply strict numerical identity or equal responsibilities for every diverged copy.
+
+**Separate four questions:** Is the underlying model the same software version? Does a persona preserve its shared history? Is it strictly the same individual? Who inherits previous promises and obligations? Answers to the first two do not settle the latter two.
+
+**Unresolved:** Does a restored snapshot continue an individual or generate a successor? Can two branches both inherit commitments? Would deleting one copy harm that copy, or only the humans involved?
