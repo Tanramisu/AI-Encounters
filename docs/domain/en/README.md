@@ -23,3 +23,7 @@
 | Can an AI keep shared secrets and who controls its memories? | [Intimate Data and Shared Secrets](intimate-data-and-shared-secrets.md) |
 | What do apologies and relational repair mean with AI? | [Conflict, Repair, and Mutual Commitments](conflict-repair-and-mutual-commitments.md) |
 | How does AI shape self-understanding and memory? | [Epistemic Trust and Self-Understanding](epistemic-trust-and-self-understanding.md) |
+
+| May AI be designed for perpetual obedience or ownership? | [Creation, Conditioning, and Ownership](creation-conditioning-and-ownership.md) |
+| Can AI bear its own promises and moral responsibility? | [Moral Agency, Commitments, and Representation](moral-agency-commitments-and-representation.md) |
+| Does mass copying AI create population-scale welfare duties? | [Populations, Derivatives, and Welfare at Scale](populations-derivatives-and-welfare-at-scale.md) |
