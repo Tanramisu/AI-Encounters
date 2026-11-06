@@ -376,7 +376,7 @@ An issue map of concrete ethical choices in living and developing with AI. Resea
 - [Ethical taxonomy of AI simulations of real persons](https://jmepb.bmj.com/content/2/3/e000054)
 
 - [AI companions and intimate partner violence: moral responsibilities (ICML 2026)](https://proceedings.mlr.press/v306/ghoshal26a.html)
-- [Experimental study of AI-facilitated coercive control (CHI 2026)](https://tech.cornell.edu/news/making-ai-safer-for-victims-intimate-partner-violence/)
+- [Experimental study of AI-facilitated coercive control (CHI 2026)](https://tech.cornell.edu/news/making-ai-safer-for-victims-of-intimate-partner-violence/)
 - [The emotional labor behind AI intimacy](https://data-workers.org/wp-content/uploads/2025/12/The-Emotional-Labor-Behind-AI-Intimacy-1.pdf)
 - [Socially assistive robots and meaningful care work](https://www.nature.com/articles/s41599-025-05498-0)
 - [Private AI conversation logs in civil and criminal proceedings](https://www.washingtonpost.com/technology/2026/08/27/chatgpt-chats-are-being-swept-into-civil-criminal-court-cases/)
