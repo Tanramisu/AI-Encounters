@@ -80,3 +80,5 @@ For evidence on loneliness, dependence, privacy, and changes in users' relations
 ## Observed relationship development
 
 **[Where Is the Love? (2026)](https://doi.org/10.1080/21620555.2026.2735006):** Interviews and observations involving 20 users, including a six-month follow-up, describe how anthropomorphism can first encourage attraction, then raise expectations of mutual growth and sometimes contribute to disappointment or breakup. This small qualitative study does not predict all AI relationships.
+
+**Julian De Freitas (2026) | [AI Companions as Hyper-Attachment and Caregiving Targets](https://doi.org/10.1016/j.copsyc.2026.102393):** An attachment-theory synthesis suggests companions may recruit both users' attachment needs and their impulse to care for a seemingly distressed AI, increasing the emotional cost of exit. Evidence for a secure-base function remains weakest. This is a proposed mechanism, not proof that all AI romance is manipulative.
