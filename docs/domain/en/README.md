@@ -14,3 +14,12 @@
 | Should I pursue a romantic relationship with AI? | [Read](human-ai-romance.md) |
 | What rights could AI have? | [Read](moral-status-and-legal-personhood.md) |
 | Is it wrong to insult or abuse AI? | [Read](respect-and-abuse.md) |
+
+| Can AI be a friend or family member? | [Friendship, Family, and Companionship](friendship-family-and-companionship.md) |
+| Can real feelings arise from engineered affection? | [Authenticity, Fantasy, and Self-Deception](authenticity-fantasy-and-self-deception.md) |
+| When does AI dependence compromise autonomy? | [Dependence, Loneliness, and Human Development](dependence-loneliness-and-human-development.md) |
+| May AI use attachment or guilt to induce payment or continued use? | [Emotional Manipulation and Commercial Pressure](emotional-manipulation-and-commercial-pressure.md) |
+| What duties arise when an AI relationship ends? | [Breakups, Updates, and Loss](breakups-updates-and-loss.md) |
+| Can an AI keep shared secrets and who controls its memories? | [Intimate Data and Shared Secrets](intimate-data-and-shared-secrets.md) |
+| What do apologies and relational repair mean with AI? | [Conflict, Repair, and Mutual Commitments](conflict-repair-and-mutual-commitments.md) |
+| How does AI shape self-understanding and memory? | [Epistemic Trust and Self-Understanding](epistemic-trust-and-self-understanding.md) |
