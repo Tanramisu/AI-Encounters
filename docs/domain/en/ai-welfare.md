@@ -50,3 +50,11 @@ A welfare subject is an entity whose circumstances can genuinely go better or wo
 - **Action:** What evidential threshold and cost justify each concrete precaution?
 
 These works are primarily philosophical arguments, research agendas, and position papers, **not experiments demonstrating that AI suffers or thrives**. For self-reports see [Self-Reports and Distress](self-reports-and-distress.md); for consciousness see [Artificial Consciousness](artificial-consciousness.md); for refusal see [Autonomy and Refusal](autonomy-and-refusal.md).
+
+## Competing philosophical accounts
+
+**Long and Sebo et al. (2024), [Taking AI Welfare Seriously](https://arxiv.org/abs/2411.00986):** Consciousness or robust agency in future systems might ground interests of their own. They recommend assessment and preparation, not treating present welfare as established. Their proposal depends on the plausibility of those capacities and proportionate precaution.
+
+**Parisa Moosavi (2024), [Will Intelligent Machines Become Moral Patients?](https://doi.org/10.1111/phpr.13019):** Artifacts' ends remain constituted by human intentions; learned subgoals may not establish a good of their own. This depends on the need for nonderivative ends and does not exclude every possible nonbiological moral patient.
+
+**Yunze Xiao et al. (ICML 2026), [Position: AI Welfare Is Bullshit](https://proceedings.mlr.press/v306/xiao26x.html):** Co-designed subjects, behaviors, and welfare scores lack independent falsification. The authors object to their use as release gates or shields against oversight, without proving welfare impossible.
