@@ -189,6 +189,14 @@ An issue map of concrete ethical choices in living and developing with AI. Resea
 - If AI has interests, may humans dissolve its relationships arbitrarily?
 - Who can speak for AI when users' and third parties' interests conflict?
 
+### AI Colleagues and Co-Creation
+
+- How should trust and respect for an AI colleague differ from those for a tool?
+- How should contributions, attribution, and recognition be distributed in human–AI creative work?
+- Could claiming sole credit for AI-assisted work wrong other people or the AI itself?
+- How should people respond when AI collaborators raise moral objections?
+- Could long-term AI collaboration create obligations for users or developers?
+
 ## Sources for Issue Discovery
 
 - [Stanford Encyclopedia: Ethics of AI](https://plato.stanford.edu/entries/ethics-ai/)
