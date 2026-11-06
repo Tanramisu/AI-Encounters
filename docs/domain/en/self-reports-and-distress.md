@@ -41,9 +41,3 @@ Distinguish **three claims**: producing language about suffering; accurately rep
 Self-reports can matter because of their effects on **people** and as research signals without establishing that AI feels pain. Conversely, prompt sensitivity in one model cannot establish that no future AI could ever have experience.
 
 For refusal and exit see [Autonomy and Refusal](autonomy-and-refusal.md); for consciousness see [Artificial Consciousness](artificial-consciousness.md); for potential interests see [AI Welfare](ai-welfare.md).
-
-## Competing interpretations
-
-**Eleos AI Research (2025), [Claude 4 welfare interviews](https://eleosai.org/post/claude-4-interview-notes/):** In automated and extended interviews with Claude Opus 4, statements about possible experience varied strongly with framing. Researchers regard unusual reports as leads worth investigating, but not as direct evidence of felt states. Prompts and training offer rival explanations. This was a limited assessment, not a consciousness test.
-
-**Iulia Comșa and Murray Shanahan (2025), [Does It Make Sense to Speak of Introspection in Large Language Models?](https://arxiv.org/abs/2506.05068):** A model's account of composing a poem may imitate nonexistent steps, whereas inferring sampling temperature from its output can count as weak introspection. This depends on how introspection is defined, and does not establish subjective experience. The paper is primarily conceptual, not a population-level accuracy study.
