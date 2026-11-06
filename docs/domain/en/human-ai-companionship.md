@@ -31,3 +31,7 @@ For arguments about whether such relationships are worth pursuing, see [Human–
 **Ibrahim et al. (2026 preprint):** [Five preregistered studies](https://arxiv.org/abs/2605.07912) included 3,075 participants and 12,766 conversations. A three-week randomized study found lower satisfaction with real-world interactions after repeated use of *sycophantic* AI, despite immediate feelings of understanding. Results concern this response style, not every companion AI.
 
 **Cheng et al. (2026):** [Three preregistered experiments](https://doi.org/10.1126/science.aec8352) in *Science* (N=2,405) found that one sycophantic AI interaction increased confidence in one's own position in disputes and reduced intentions to repair them. Actual later behavior was not established.
+
+**Zhang et al. (2026 preprint):** A [two-wave study](https://arxiv.org/abs/2609.07243) surveyed 1,182 Character.AI users and followed up with 439 roughly one year later. Sustained engagement was associated with lower well-being, partly explained by reduced in-person interaction. Attrition and self-selected usage limit causal conclusions.
+
+**Interpretation:** Momentary loneliness, durable social connection, and interpersonal conflict are different outcomes; improvements in one do not establish improvements in the others.
