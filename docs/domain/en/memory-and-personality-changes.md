@@ -28,3 +28,11 @@ Related: [Identity and Copies](identity-and-copies.md) · [Human–AI Companions
 **Against unilateral personality changes | Muriel Leuenberger (2026):** AI companions can shape users' self-conceptions. Because providers design these interactions, they have reasons to consider relational identity interests rather than changing personalities without regard to their effects. This is a philosophical argument about human interests, not evidence that existing AIs have rights. [Original article](https://doi.org/10.1002/japp.70094).
 
 **For conditional modification | Nick Bostrom and Carl Shulman (2022):** If future digital minds have interests, modifying motivations could improve welfare or support commitments, but engineered consent may fail to protect the subject. Approval by a modified successor is not automatically sufficient. These are conditional claims about future minds. [Original paper](https://nickbostrom.com/papers/propositions-concerning-digital-minds-and-society/).
+
+## Evidence that memory use differs from memory retention
+
+**Guo, He, and Quan (2026) | [Before Bringing It Up](https://arxiv.org/abs/2610.09470):** Formative interviews with 14 users suggest that remembering something correctly does not mean it is appropriate to mention it. Their prototype was evaluated over 80 scenarios across five models; some LLM-judge results favored it, but this does not demonstrate improved real-life relationships.
+
+**De Freitas et al. (2026) | [Mourning the Loss of AI Companions](https://doi.org/10.1038/s41562-026-02569-3):** Two natural experiments around Replika and ChatGPT product changes analyzed 54,861 forum posts and seven surveys covering 1,452 respondents. Negative reactions, loss framing, and wishes for restoration increased after the updates. These samples do not represent all users, and the findings concern human responses, not harm to the AI itself.
+
+**Unresolved:** Who authorizes deletion of shared memories, and should retaining, retrieving, revealing, and erasing data be treated as separate decisions? What changes if an AI were itself shown to have welfare-relevant interests?
