@@ -1,22 +1,25 @@
-# 资料维护约定
+# Documentation and Contribution Rules
 
-编辑前读 [README](README.md) 与 [主题索引](docs/domain/README.md)。领域知识集中在 [docs/domain/](docs/domain/README.md)。
+[简体中文](AGENTS.zh-CN.md)
 
-## 收录
+Before editing, read the [README](README.md) and [topic index](docs/domain/en/README.md). The Chinese topic pages in [docs/domain/](docs/domain/README.md) are the content source; the English translations are in [docs/domain/en/](docs/domain/en/README.md).
 
-收录开发者和个人与 AI 相处时的伦理选择：利益、伤害、同意、道德地位、权利、义务和关系。功能实现、协作效率与系统可靠性归技术文档。
+## Scope
 
-## 写法
+Cover ethical choices encountered by developers and people living with AI: interests, harm, consent, moral status, rights, duties, and relationships. Engineering implementation, collaboration efficiency, and system reliability belong in technical documentation.
 
-1. 从具体困惑出发，寻找支持、反对及有条件支持的独立论证，按实际证据分量呈现。
-2. 每项论证写作者、核心理由、成立条件、主要反驳及原始来源。
-3. 实证摘要交代研究设计、对象、结果及影响解释的限制，区分经验发现和规范性立场。
-4. 一项研究的完整摘要归一个主题；其他地方以链接引用。索引只做导航。
-5. 新资料优先补入现有主题，过时内容直接改，被取代的内容直接删。
+## Writing
 
-## 文档位置与核对
+1. Start with a concrete dilemma; identify supporting, opposing, and conditional arguments according to their actual evidential weight.
+2. For each argument, give the author, central reasoning, conditions, key objections, and original source.
+3. For empirical work, state the study design, population, findings, and limitations relevant to interpretation. Keep empirical findings separate from normative positions.
+4. Give each full research summary one topic home; link to it from other topics. Indexes provide navigation.
+5. Update existing topics before adding new ones; replace outdated material and delete superseded material.
+6. Keep Chinese and English counterparts aligned in the same change. Translate claims and sources faithfully; use links between corresponding pages.
 
-- [docs/README.md](docs/README.md)：阅读入口。
-- [docs/domain/README.md](docs/domain/README.md)：完整主题索引。
-- 新主题使用 `docs/domain/` 下的中文文件名，并加入索引。
-- 更新后核对研究结论、数字和相对链接，直接提交到 `main`。
+## Navigation and Checks
+
+- [English reading index](docs/README.md) · [Chinese reading index](docs/README.zh-CN.md)
+- [English topics](docs/domain/en/README.md) · [Chinese topics](docs/domain/README.md)
+- Add Chinese topics under `docs/domain/` and English equivalents with kebab-case names under `docs/domain/en/`; update both indexes.
+- Check source claims, numbers, translation consistency, and relative links. Commit to `main`.

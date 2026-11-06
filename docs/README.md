@@ -1,3 +1,5 @@
-# 阅读入口
+# Reading Guide
 
-[人与 AI 相处的伦理问题索引](domain/README.md) — 按具体困惑查找不同立场的论证及来源。
+[简体中文](README.zh-CN.md)
+
+[AI ethics questions and arguments](domain/en/README.md) — Find competing ethical positions and their sources by the dilemma you're facing.

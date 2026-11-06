@@ -1,0 +1,5 @@
+# 阅读入口
+
+[English](README.md)
+
+[人与 AI 相处的伦理问题索引](domain/README.md) — 按具体困惑查找不同立场的论证及来源。
