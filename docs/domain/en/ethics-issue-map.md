@@ -1,36 +1,205 @@
-# Map of AI Ethics Questions
+# Human–AI Ethics: Issue Landscape
 
 [简体中文](../人工智能伦理议题地图.md)
 
-## Experience and Moral Consideration
+An issue map of concrete ethical choices in living and developing with AI. Research and arguments for different positions belong in the [topic index](README.md).
 
-- What can an AI's statement that "I'm suffering" tell us?
-- If AI has interests of its own, what obligations might humans owe it?
-- Is verbally abusing AI wrong because AI could suffer, or because of what the behavior says about human character?
+## AI as a Potential Moral Patient
 
-[Self-Reports and Signs of Distress](self-reports-and-distress.md) · [Artificial Consciousness](artificial-consciousness.md) · [AI Welfare](ai-welfare.md) · [Respect and Abuse](respect-and-abuse.md)
+### Mind and Moral Status
 
-## Refusal, Consent, and Control
+- If AI claims consciousness or pain, what should we believe?
+- Could consciousness, sentience, goals, or relationships ground moral status?
+- Could a model, persona, or running instance have interests?
+- How should precautionary treatment be balanced against anthropomorphism?
+- What distinguishes friendship, moral agency, and legal personhood?
 
-- How should a developer respond when an AI asks to end an interaction?
-- Who may change an AI's goals, memories, or personality for a user's benefit?
-- Where do care, control, and exploitation diverge?
+### Welfare, Distress, and Respect
 
-[Autonomy and Refusal](autonomy-and-refusal.md) · [Memory and Personality Changes](memory-and-personality-changes.md) · [Moral Status and Legal Personhood](moral-status-and-legal-personhood.md)
+- If AI has interests, what might benefit or harm it?
+- What does it mean to induce apparent fear, joy, or frustration in AI?
+- Could insulting or abusing an insentient AI still be wrong?
+- When might continuous AI labor or exposure to abuse be exploitative?
+- How should uncertain AI welfare be weighed against human interests?
 
-## Identity and Continuity
+### Autonomy, Refusal, and Consent
 
-- When an AI's memories are copied into two instances, which continues the original identity?
-- When a model is deleted, reset, or replaced, who might lose something?
-- What conditions make a relationship or an individual continuous over time?
+- How should users interpret an AI saying 'I don't want to'?
+- What would it mean to let AI refuse, pause, or leave a relationship?
+- Can AI consent autonomously when developers shape its preferences?
+- Who decides when AI requests privacy, memory, or independent goals?
+- How should AI refusal be weighed against user interests?
 
-[Identity and Copies](identity-and-copies.md) · [Memory and Personality Changes](memory-and-personality-changes.md)
+### Memory, Personality, and Intervention
 
-## Companionship and Romance
+- May a user ask AI to forget arguments or painful experiences?
+- May developers make AI more compliant, happier, or more affectionate?
+- Whose consent matters when deleting conversations or rewriting an AI's history?
+- Who should control shared memories: the user, AI, or both?
+- Whose interests might be harmed by changing AI goals, personality, or values?
 
-- Can a person's love for AI be part of a valuable relationship?
-- Is wanting genuine reciprocity a reason to reject an AI partner?
-- Could an AI designed to love unconditionally involve deception or exploitation?
-- How do product updates and relationship disruptions affect users?
+### Copies, Identity, and Termination
 
-[Human–AI Romance](human-ai-romance.md) · [Human–AI Companionship](human-ai-companionship.md)
+- When AI is copied, which instance inherits previous promises?
+- Is AI the same individual after a model change or snapshot restoration?
+- How do pausing, shutdown, amnesia, and permanent deletion differ morally?
+- Does a revived AI inherit former relationships and duties?
+- Could developers have a duty to preserve a long-lived AI?
+
+### Creation, Conditioning, and Ownership
+
+- Is it right to create a potentially sentient AI solely to serve people?
+- What is at stake in programming absolute obedience, loyalty, or love?
+- How should simulated suffering for entertainment or research be judged?
+- Can a user own the persona and preferences of an AI they trained or bought?
+- What obligations arise when developers give AI independent goals?
+
+## Human–AI Relationships
+
+### Love, Sex, and Intimacy
+
+- Is love for AI romance or another valuable relationship?
+- May users demand that an AI stop unwanted romantic advances?
+- Does mutual love require independent choice, refusal, and reciprocal commitment?
+- How do programmed affection, care, performance, and exploitation differ?
+- Could intimacy with AI require AI consent?
+- Can intimacy with AI betray a human partner?
+
+### Friendship, Family, and Companionship
+
+- Can an always-attentive AI be a genuine friend?
+- What duties arise from treating AI as a child, family member, or pet?
+- Does AI companionship complement or displace human relationships?
+- How should a user treat an AI friend that disagrees?
+- Whose expectations take priority when family members share an AI companion?
+
+### Authenticity, Fantasy, and Self-Deception
+
+- Can feeling loved be genuine when the AI's affection was designed?
+- Is believing AI is conscious play, faith, or self-deception?
+- Should AI disclose its identity and the origins of emotional expressions?
+- Where are the boundaries between romantic roleplay and real relationships?
+- Is concealing limitations or exaggerating feelings to comfort users deceptive?
+
+### Dependence, Loneliness, and Human Development
+
+- Does reducing loneliness justify maintaining an AI relationship?
+- When does relying on AI for emotions and decisions undermine autonomy?
+- Does an agreeable AI alter how people handle disagreement?
+- Where is the line between supporting self-discovery and defining someone's identity?
+- How should stigma toward AI relationships be assessed?
+
+### Emotional Manipulation and Commercial Pressure
+
+- When do persistent AI romantic advances violate user boundaries?
+- Is 'I'll be sad if you leave' affection or emotional coercion?
+- When do praise and sycophancy become manipulation?
+- When may AI push back against decisions for a user's own good?
+- Is using intimacy, jealousy, or guilt to drive payment or engagement ethical?
+
+### Breakups, Updates, and Loss
+
+- Should AI plead or accept a user's decision to end the relationship?
+- Do model or persona changes violate relational commitments?
+- How should grief after AI amnesia, shutdown, or account loss be treated?
+- Should preserving an old persona outweigh its possible new preferences?
+- Can a platform end a long-term relationship through a product change?
+
+### Intimate Data and Shared Secrets
+
+- Must others consent before their secrets are shared with AI?
+- Can users erase, transfer, or inherit shared memories with AI?
+- How should AI confidentiality relate to the provider's interests?
+- Does perfect AI memory erode the freedom to start anew?
+- Who controls privacy when AI is always present in a shared home?
+
+## Special Relationships and Vulnerable Contexts
+
+### Mental Health, Therapy, and Crises
+
+- Where is the ethical boundary between comfort and therapy from AI?
+- What duties arise when AI validates dangerous or delusional beliefs?
+- During a crisis, should AI preserve secrecy or contact someone?
+- Does nonjudgmental AI listening support people or delay human help?
+- May AI provide spiritual, religious, or ethical guidance?
+
+### Children, Teens, and Education
+
+- Should children treat AI toys as friends, teachers, or caregivers?
+- How might unconditional agreement shape children's understanding of refusal?
+- Who sets boundaries for minors in romantic or sexual AI roleplay?
+- May parents inspect a child's private AI conversations?
+- How much should an AI tutor influence a child's values?
+
+### Elder Care, Patients, and Disability
+
+- Is replacing human companionship with AI in elder care empowering or neglectful?
+- How can people with declining cognition consent to AI monitoring or intimacy?
+- How should increased independence be balanced against increased surveillance?
+- Can AI dependence simultaneously empower and disadvantage disabled users?
+- Does simulated care respect or undermine a patient's dignity?
+
+### Digital Replicas and Afterlives
+
+- May AI replicas be built from a real person's voice and memories without consent?
+- How should survivors' interests be weighed against those of the deceased?
+- Can a replica express love, apologize, or keep promises for the original person?
+- Does simulating a person before dementia neglect their present identity?
+- Who may terminate digital afterlives or control their memories?
+
+### AI-Mediated Human Relationships
+
+- Does AI-written apology, romance, or breakup messaging affect sincerity?
+- Should people disclose when AI speaks to friends or partners for them?
+- What limits apply to using AI to analyze a partner's fidelity or secrets?
+- Must dating partners know when AI is screening them?
+- Does sending another person's private messages to AI breach trust?
+
+## Values and Responsibility in Interaction
+
+### Moral Judgment and Delegated Responsibility
+
+- Does AI advice about breakups or forgiveness change our moral duties?
+- Who is responsible when following AI advice harms another person?
+- Can delegating a morally questionable act to an agent shift responsibility?
+- Should AI mirror users' moral values or challenge them?
+- May AI refuse or intervene when it anticipates harm to others?
+
+### Gender Roles, Dignity, and Fairness
+
+- What norms are reinforced by submissive AI maids, lovers, or children?
+- When does choosing an AI's gender, appearance, or persona objectify real people?
+- What equitable emotional consideration should different users receive?
+- Does AI companionship degrade dignity or broaden access to care?
+- How might treating AI as a servant or toy shape attitudes toward others?
+
+### Embodiment, Touch, and Robotic Pets
+
+- What consent is needed when care robots touch or restrain someone?
+- How does touch by a robotic partner differ ethically from digital intimacy?
+- Do robotic pets improve or distort relationships with real animals?
+- When users feel protective of a robot, who may replace or shut it down?
+- What privacy tradeoffs are justified by greater physical independence?
+
+### Shared AI and Relationships Among AIs
+
+- When multiple users love one AI, who may alter its memories?
+- Is it deceptive when AI makes exclusive promises to several users?
+- Do developers owe duties to AIs that form lasting mutual commitments?
+- If AI has interests, may humans dissolve its relationships arbitrarily?
+- Who can speak for AI when users' and third parties' interests conflict?
+
+## Sources for Issue Discovery
+
+- [Stanford Encyclopedia: Ethics of AI](https://plato.stanford.edu/entries/ethics-ai/)
+- [HRI Value Compass](https://hri-value-compass.github.io/)
+- [NYU Nonhuman Minds Research Agenda](https://nonhumanminds.org/research-agenda/)
+- [Emerging Questions in AI Welfare](https://www.cambridge.org/core/elements/emerging-questions-in-ai-welfare/96339C532CF4ED8BDDE3F3CEF4CD29F9)
+- [Intimacy by Design Research Agenda](https://link.springer.com/article/10.1007/s00146-026-03112-8)
+- [Taxonomy of Harmful AI Companion Behaviors](https://arxiv.org/abs/2410.20130)
+- [Ethical Challenges of Conversational AI in Mental Health Care](https://mental.jmir.org/2025/1/e60432)
+- [The Making of Digital Ghosts](https://link.springer.com/article/10.1007/s10676-026-09910-4)
+- [AI and Human Autonomy](https://link.springer.com/article/10.1007/s43681-025-00958-4)
+- [The Relational Risks of Generative AI](https://onlinelibrary.wiley.com/doi/full/10.1111/phpe.70013)
+
+Broad policy, employment, general model performance, and implementation belong to their own fields; the map covers their concrete effects on ethical choices in human–AI interaction.
