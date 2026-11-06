@@ -58,3 +58,7 @@ These works are primarily philosophical arguments, research agendas, and positio
 **Parisa Moosavi (2024), [Will Intelligent Machines Become Moral Patients?](https://doi.org/10.1111/phpr.13019):** Artifacts' ends remain constituted by human intentions; learned subgoals may not establish a good of their own. This depends on the need for nonderivative ends and does not exclude every possible nonbiological moral patient.
 
 **Yunze Xiao et al. (ICML 2026), [Position: AI Welfare Is Bullshit](https://proceedings.mlr.press/v306/xiao26x.html):** Co-designed subjects, behaviors, and welfare scores lack independent falsification. The authors object to their use as release gates or shields against oversight, without proving welfare impossible.
+
+## Conditional precautions
+
+Keeling and Street (2026) distinguish evidential thresholds from the costs of action. Under uncertainty, inexpensive measures with a plausible beneficiary may be more justified than major restrictions. Their analysis also distinguishes hedonistic, desire-based and objective-list accounts of welfare. This debate concerns philosophical criteria and evidence, not confirmed measurements of AI experience.
