@@ -74,3 +74,5 @@ For evidence on loneliness, dependence, privacy, and changes in users' relations
 ## Distinguishing felt love from reciprocal love
 
 **Lior Gazit (2026) | [When No One Laughs Back](https://doi.org/10.1007/s00146-026-03331-z):** Responsive interaction differs from co-experience. A friend brings discoveries from an independent life; current user-conditioned AI may function as a relational mirror. The argument assumes reciprocity needs an independently experiencing other. It does not deny that AI companionship can have value.
+
+**Micah Lott and William Hasselberger (2025) | [With Friends Like These](https://doi.org/10.1007/s11245-025-10247-8):** True friendship, they argue, requires caring about the other's good for its own sake; if AI has no good of its own, it cannot be a friend in that sense. This is a philosophical argument about friendship, not proof that all romantic experiences with AI are valueless. Its premise about AI welfare is contested.
