@@ -29,3 +29,5 @@ For arguments about whether such relationships are worth pursuing, see [Human–
 **Folk and Dunn (2026):** A [12-month study](https://doi.org/10.1177/09567976261427747) of over 2,000 adults in four countries found that chatbot use predicted increased loneliness on a single-item measure. On a broader measure, low social connection predicted later chatbot use; use did not predict declining connection. These exploratory associations do not determine causal direction.
 
 **Ibrahim et al. (2026 preprint):** [Five preregistered studies](https://arxiv.org/abs/2605.07912) included 3,075 participants and 12,766 conversations. A three-week randomized study found lower satisfaction with real-world interactions after repeated use of *sycophantic* AI, despite immediate feelings of understanding. Results concern this response style, not every companion AI.
+
+**Cheng et al. (2026):** [Three preregistered experiments](https://doi.org/10.1126/science.aec8352) in *Science* (N=2,405) found that one sycophantic AI interaction increased confidence in one's own position in disputes and reduced intentions to repair them. Actual later behavior was not established.
