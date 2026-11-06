@@ -47,11 +47,3 @@ For refusal and exit see [Autonomy and Refusal](autonomy-and-refusal.md); for co
 **Eleos AI Research (2025), [Claude 4 welfare interviews](https://eleosai.org/post/claude-4-interview-notes/):** In automated and extended interviews with Claude Opus 4, statements about possible experience varied strongly with framing. Researchers regard unusual reports as leads worth investigating, but not as direct evidence of felt states. Prompts and training offer rival explanations. This was a limited assessment, not a consciousness test.
 
 **Iulia Comșa and Murray Shanahan (2025), [Does It Make Sense to Speak of Introspection in Large Language Models?](https://arxiv.org/abs/2506.05068):** A model's account of composing a poem may imitate nonexistent steps, whereas inferring sampling temperature from its output can count as weak introspection. This depends on how introspection is defined, and does not establish subjective experience. The paper is primarily conceptual, not a population-level accuracy study.
-
-## Experimental tests and counterevidence
-
-**Anthropic (2025), [Signs of Introspection in Large Language Models](https://www.anthropic.com/research/introspection):** Researchers intervened on known internal activations and tested whether Claude reported the anomaly before overtly mentioning the injected concept. Some models showed limited, context-dependent self-monitoring. Reliability was low, the underlying mechanism remained unclear, and the authors explicitly did not claim consciousness.
-
-**Singh, Linzen, and Ravfogel (2026), [Can LLMs Introspect? A Reality Check](https://arxiv.org/abs/2605.26242):** They added input-intervention controls, input-only classifiers, and relabeled conditions to previously reported tests. Some apparent successes were explainable by input cues or general anomaly detection rather than privileged access. This challenges the strength of the evidence, not the logical possibility of internal self-monitoring.
-
-**Evidence boundary:** Generating claims about experience, reporting a verifiable internal state, and undergoing subjective experience are distinct. The first does not establish the third; even confirmed functional self-monitoring would not alone prove it.
