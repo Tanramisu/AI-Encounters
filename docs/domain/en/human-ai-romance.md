@@ -86,3 +86,5 @@ For evidence on loneliness, dependence, privacy, and changes in users' relations
 ## Conditional approach
 
 Szczuka, Mühl, and Schneeberger (2026) distinguish six dimensions of [intimacy by design](https://doi.org/10.1007/s00146-026-03112-8): emotional responsiveness, romantic framing, sexual affordances, persona continuity, proactive contact, and commercial or normative structuring.
+
+For providers, salient questions are whether users know the system's identity, can decline romantic advances, and are pushed to pay through feelings of attachment. A user's genuine feeling of love does not establish independent AI reciprocity; absence of reciprocal agency does not erase the human value of a relationship.
