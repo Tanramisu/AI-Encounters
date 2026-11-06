@@ -28,7 +28,7 @@ For users' sense of relational continuity, see [Human–AI Companionship](human-
 
 ## Conditional responsibility across copies
 
-**Nick Bostrom and Carl Shulman (2022) | [Propositions Concerning Digital Minds and Society](https://nickbostrom.com/papers/propositions-concerning-digital-minds-and-society/)**
+**Nick Bostrom and Carl Shulman (2023 revision) | [Propositions Concerning Digital Minds and Society](https://nickbostrom.com/papers/propositions-concerning-digital-minds-and-society/)**
 
 - **Reasoning:** Related AI instances could sometimes share collective rights and responsibilities. Their ability to reproduce may magnify the problem of engineered consent.
 - **Conditions:** These are conditional claims about future digital minds with morally significant interests, not evidence that ordinary present-day copies are moral patients.
