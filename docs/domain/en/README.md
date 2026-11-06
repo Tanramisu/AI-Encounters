@@ -39,3 +39,15 @@
 | May institutions require AI relationships? | [Institutional Relationships and Involuntary Encounters](institutional-relationships-and-involuntary-encounters.md) |
 | How should AI adapt to cultural and identity differences? | [Culture, Identity, and Diverse Relationships](culture-identity-and-diverse-relationships.md) |
 | What duties arise from AI-enabled coercion or abuse? | [Coercive Control, Abuse, and Help-Seeking](coercive-control-abuse-and-help-seeking.md) |
+
+## Values and Responsibility in Interaction
+
+| Moral Decisions and Delegated Responsibility | [Moral Decisions and Delegated Responsibility](moral-decisions-and-delegated-responsibility.md) |
+| Gender Roles, Dignity, and Fairness | [Gender Roles, Dignity, and Fairness](gender-roles-dignity-and-fairness.md) |
+| Embodiment, Touch, and Bodily Autonomy | [Embodiment, Touch, and Bodily Autonomy](embodiment-touch-and-bodily-autonomy.md) |
+| Shared AI and AI-to-AI Relationships | [Shared AI and AI-to-AI Relationships](shared-ai-and-ai-to-ai-relationships.md) |
+| AI Coworkers and Co-Creation | [AI Coworkers and Co-Creation](ai-coworkers-and-co-creation.md) |
+| Public Space, Bystanders, and Nonusers | [Public Space, Bystanders, and Nonusers](public-space-bystanders-and-nonusers.md) |
+| Robotic and Living Animals | [Robotic and Living Animals](robotic-and-living-animals.md) |
+| Hidden Human Labor and AI Intimacy | [Hidden Human Labor and AI Intimacy](hidden-human-labor-and-ai-intimacy.md) |
+| Secrets, Testimony, and Compelled Disclosure | [Secrets, Testimony, and Compelled Disclosure](secrets-testimony-and-compelled-disclosure.md) |
