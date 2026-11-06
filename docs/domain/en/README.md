@@ -27,3 +27,15 @@
 | May AI be designed for perpetual obedience or ownership? | [Creation, Conditioning, and Ownership](creation-conditioning-and-ownership.md) |
 | Can AI bear its own promises and moral responsibility? | [Moral Agency, Commitments, and Representation](moral-agency-commitments-and-representation.md) |
 | Does mass copying AI create population-scale welfare duties? | [Populations, Derivatives, and Welfare at Scale](populations-derivatives-and-welfare-at-scale.md) |
+
+## Special Relationships and Vulnerable Contexts
+
+| May AI offer therapy and crisis support? | [Mental Health, Therapy, and Crises](mental-health-therapy-and-crises.md) |
+| How should children and teens relate to AI? | [Children, Teens, and Education](children-teens-and-education.md) |
+| Does robotic care empower or replace people? | [Elder, Patient, and Disability Care](elder-patient-and-disability-care.md) |
+| May AI recreate real people and the deceased? | [Digital Replicas and Afterlives](digital-replicas-and-afterlives.md) |
+| When must AI-mediated communication be disclosed? | [AI-Mediated Human Relationships](ai-mediated-human-relationships.md) |
+| Can AI provide spiritual or religious guidance? | [Religion, Spirituality, and Meaning](religion-spirituality-and-meaning.md) |
+| May institutions require AI relationships? | [Institutional Relationships and Involuntary Encounters](institutional-relationships-and-involuntary-encounters.md) |
+| How should AI adapt to cultural and identity differences? | [Culture, Identity, and Diverse Relationships](culture-identity-and-diverse-relationships.md) |
+| What duties arise from AI-enabled coercion or abuse? | [Coercive Control, Abuse, and Help-Seeking](coercive-control-abuse-and-help-seeking.md) |
