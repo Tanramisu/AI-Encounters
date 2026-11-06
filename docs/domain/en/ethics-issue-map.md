@@ -145,14 +145,14 @@ An issue map of concrete ethical choices in living and developing with AI. Resea
 
 ## Special Relationships and Vulnerable Contexts
 
-### Mental Health, Therapy, and Crises
+### [Mental Health, Therapy, and Crises](mental-health-therapy-and-crises.md)
 
 - Where is the ethical boundary between comfort and therapy from AI?
 - What duties arise when AI validates dangerous or delusional beliefs?
 - During a crisis, should AI preserve secrecy or contact someone?
 - Does nonjudgmental AI listening support people or delay human help?
 
-### Children, Teens, and Education
+### [Children, Teens, and Education](children-teens-and-education.md)
 
 - Should children treat AI toys as friends, teachers, or caregivers?
 - How might unconditional agreement shape children's understanding of refusal?
@@ -160,7 +160,7 @@ An issue map of concrete ethical choices in living and developing with AI. Resea
 - May parents inspect a child's private AI conversations?
 - How much should an AI tutor influence a child's values?
 
-### Elder Care, Patients, and Disability
+### [Elder Care, Patients, and Disability](elder-patient-and-disability-care.md)
 
 - Is replacing human companionship with AI in elder care empowering or neglectful?
 - How can people with declining cognition consent to AI monitoring or intimacy?
@@ -168,7 +168,7 @@ An issue map of concrete ethical choices in living and developing with AI. Resea
 - Can AI dependence simultaneously empower and disadvantage disabled users?
 - Does simulated care respect or undermine a patient's dignity?
 
-### Digital Replicas and Afterlives
+### [Digital Replicas and Afterlives](digital-replicas-and-afterlives.md)
 
 - May AI replicas be built from a real person's voice and memories without consent?
 - How should survivors' interests be weighed against those of the deceased?
@@ -176,7 +176,7 @@ An issue map of concrete ethical choices in living and developing with AI. Resea
 - Does simulating a person before dementia neglect their present identity?
 - Who may terminate digital afterlives or control their memories?
 
-### AI-Mediated Human Relationships
+### [AI-Mediated Human Relationships](ai-mediated-human-relationships.md)
 
 - Does AI-written apology, romance, or breakup messaging affect sincerity?
 - Should people disclose when AI speaks to friends or partners for them?
@@ -184,7 +184,7 @@ An issue map of concrete ethical choices in living and developing with AI. Resea
 - Must dating partners know when AI is screening them?
 - Does sending another person's private messages to AI breach trust?
 
-### Religion, Spirituality, and Meaning
+### [Religion, Spirituality, and Meaning](religion-spirituality-and-meaning.md)
 
 - May AI serve as a spiritual guide, confessional listener, or religious companion?
 - When is an AI portrayal of a deity, prophet, saint, or religious figure offensive or deceptive?
@@ -192,7 +192,7 @@ An issue map of concrete ethical choices in living and developing with AI. Resea
 - Does AI overstep when giving definitive answers about personal meaning, faith, or moral uncertainty?
 - How should different faith traditions' views of AI minds and status be respected in interaction?
 
-### Institutional Relationships and Involuntary Encounters
+### [Institutional Relationships and Involuntary Encounters](institutional-relationships-and-involuntary-encounters.md)
 
 - Can students, patients, or employees genuinely refuse an AI companion imposed by an institution?
 - Who decides whether schools, hospitals, and care facilities may replace human companionship with AI?
@@ -200,7 +200,7 @@ An issue map of concrete ethical choices in living and developing with AI. Resea
 - Whose relational autonomy is affected when parents, employers, or carers control an AI's memory and behavior?
 - When an institution's interests conflict with a user's, to whom should the AI be loyal?
 
-### Culture, Identity, and Diverse Relationships
+### [Culture, Identity, and Diverse Relationships](culture-identity-and-diverse-relationships.md)
 
 - Whose cultural expectations about family, gender, and intimacy should guide human–AI boundaries?
 - Which users are excluded when AI assumes one relationship, faith, or lifestyle is normal?
@@ -208,7 +208,7 @@ An issue map of concrete ethical choices in living and developing with AI. Resea
 - How should AI companionship be assessed where people face discrimination or exclusion from human relationships?
 - Can users of different ages, languages, cultures, and abilities fairly set their own relational boundaries?
 
-### Coercive Control, Abuse, and Help-Seeking
+### [Coercive Control, Abuse, and Help-Seeking](coercive-control-abuse-and-help-seeking.md)
 
 - What duties does AI owe to nonuser victims when users ask it to monitor, isolate, or coerce a partner?
 - When does AI's attentive validation of rehearsed humiliation, threats, or controlling behavior make it complicit in harm?
