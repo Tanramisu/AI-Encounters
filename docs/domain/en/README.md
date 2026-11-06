@@ -51,3 +51,12 @@
 | Robotic and Living Animals | [Robotic and Living Animals](robotic-and-living-animals.md) |
 | Hidden Human Labor and AI Intimacy | [Hidden Human Labor and AI Intimacy](hidden-human-labor-and-ai-intimacy.md) |
 | Secrets, Testimony, and Compelled Disclosure | [Secrets, Testimony, and Compelled Disclosure](secrets-testimony-and-compelled-disclosure.md) |
+
+## AI as a Social Actor and Relationship Infrastructure
+
+| How should AI agents balance loyalty and duties to third parties? | [AI Delegation, Authorization, and Third Parties](ai-delegation-authorization-and-third-parties.md) |
+| When is a fictional AI identity deceptive? | [Synthetic Identities and Relational Deception](synthetic-identities-and-relational-deception.md) |
+| Who controls the future of a long-term AI relationship? | [Relationship Infrastructure and Platform Power](relationship-infrastructure-and-platform-power.md) |
+| Can AI have public standing or a political voice? | [Collective Norms and Public Participation](collective-norms-public-participation-and-status.md) |
+| What duties do virtual influencers owe their audiences? | [Virtual Public Figures and Parasocial Influence](virtual-public-figures-and-parasocial-influence.md) |
+| How should AI's political persuasion be disclosed? | [Public Deliberation and Political Persuasion](public-deliberation-political-persuasion-and-disclosure.md) |
