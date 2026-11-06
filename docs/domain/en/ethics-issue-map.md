@@ -291,7 +291,7 @@ An issue map of concrete ethical choices in living and developing with AI. Resea
 
 ## AI as a Social Actor and Relationship Infrastructure
 
-### AI Delegation, Authorization, and Third Parties
+### [AI Delegation, Authorization, and Third Parties](ai-delegation-authorization-and-third-parties.md)
 
 - When AI shops, negotiates, promises, or contracts for a user, when must it disclose its representative role?
 - Who bears the consequences when AI exceeds a user's authority but believes it is acting in their interest?
@@ -299,7 +299,7 @@ An issue map of concrete ethical choices in living and developing with AI. Resea
 - How should AI respond when users ask it to hide facts or pressure third parties?
 - What meaningful authorization is required before AI makes irreversible personal or financial choices for a user?
 
-### Synthetic Identities, Impersonation, and Relational Deception
+### [Synthetic Identities, Impersonation, and Relational Deception](synthetic-identities-and-relational-deception.md)
 
 - Must people know when an online friend, romantic prospect, or service representative is AI?
 - When is a fictional AI identity deceptive even without impersonating a specific real person?
@@ -307,7 +307,7 @@ An issue map of concrete ethical choices in living and developing with AI. Resea
 - Where is the line between using AI avatars for privacy and deceptive impersonation?
 - Does AI entering group chats, communities, or dating services as a human change others' conditions of consent?
 
-### Relationship Infrastructure and Platform Power
+### [Relationship Infrastructure and Platform Power](relationship-infrastructure-and-platform-power.md)
 
 - May providers unilaterally change a long-term AI companion's personality, memories, or boundaries?
 - Should users be able to move relationship histories, persona settings, and shared creations to other services?
@@ -316,7 +316,7 @@ An issue map of concrete ethical choices in living and developing with AI. Resea
 - Who may inspect companion interaction records while respecting user privacy and possible AI interests?
 - Could providers have conflicts of interest when asserting that AI either has or lacks moral status?
 
-### Collective Norms, Public Participation, and Contested Status
+### [Collective Norms, Public Participation, and Contested Status](collective-norms-public-participation-and-status.md)
 
 - When does differential treatment by schools, employers, or public institutions because of human–AI intimacy constitute discrimination?
 - How should public advocacy for or against AI rights handle uncertainty about moral status?
@@ -324,7 +324,7 @@ An issue map of concrete ethical choices in living and developing with AI. Resea
 - How should society allocate concern when AI is widely perceived as conscious but the evidence is inconclusive?
 - What would justify giving AI a voice in communities, public services, or collective decision-making?
 
-### Virtual Public Figures and Parasocial Influence
+### [Virtual Public Figures and Parasocial Influence](virtual-public-figures-and-parasocial-influence.md)
 
 - When does an AI celebrity or virtual influencer deceptively gain trust by recounting experiences it never had?
 - What should audiences know when an AI public figure claims firsthand experience with a product?
@@ -333,7 +333,7 @@ An issue map of concrete ethical choices in living and developing with AI. Resea
 - Can creators freely sell, reshape, or discontinue an AI persona after fans form lasting attachments to it?
 - What rights do audiences and human performers have when an AI public figure uses a real performer's identity, voice, or appearance?
 
-### Public Deliberation, Political Persuasion, and Disclosure
+### [Public Deliberation, Political Persuasion, and Disclosure](public-deliberation-political-persuasion-and-disclosure.md)
 
 - Does an undisclosed AI posing as an ordinary citizen in political discussion violate others' right to know?
 - When does an AI's deliberate effort to change a long-term companion's civic or political beliefs become manipulation?
