@@ -2,7 +2,7 @@
 
 [简体中文](../人工智能伦理议题地图.md)
 
-An issue map of concrete ethical choices in living and developing with AI. Research and arguments for different positions belong in the [topic index](README.md).
+An issue map of concrete ethical choices in living and developing with AI. Research and arguments for different positions belong in the [topic index](README.md). Similar scenarios are grouped by their central conflict rather than counted again under different wording.
 
 ## AI as a Potential Moral Patient
 
@@ -75,7 +75,6 @@ An issue map of concrete ethical choices in living and developing with AI. Resea
 ### Love, Sex, and Intimacy
 
 - Is love for AI romance or another valuable relationship?
-- May users demand that an AI stop unwanted romantic advances?
 - Does mutual love require independent choice, refusal, and reciprocal commitment?
 - How do programmed affection, care, performance, and exploitation differ?
 - Could intimacy with AI require AI consent?
@@ -93,7 +92,7 @@ An issue map of concrete ethical choices in living and developing with AI. Resea
 
 - Can feeling loved be genuine when the AI's affection was designed?
 - Is believing AI is conscious play, faith, or self-deception?
-- Should AI disclose its identity and the origins of emotional expressions?
+- What should AI disclose about its artificial identity and emotional expressions before forming intimate relationships?
 - Where are the boundaries between romantic roleplay and real relationships?
 - Is concealing limitations or exaggerating feelings to comfort users deceptive?
 
@@ -119,12 +118,11 @@ An issue map of concrete ethical choices in living and developing with AI. Resea
 - Do model or persona changes violate relational commitments?
 - How should grief after AI amnesia, shutdown, or account loss be treated?
 - Should preserving an old persona outweigh its possible new preferences?
-- Can a platform end a long-term relationship through a product change?
 
 ### Intimate Data and Shared Secrets
 
 - Must others consent before their secrets are shared with AI?
-- Can users erase, transfer, or inherit shared memories with AI?
+- Can users erase or inherit shared memories with AI, and who decides if their interests conflict?
 - How should AI confidentiality relate to the provider's interests?
 - Does perfect AI memory erode the freedom to start anew?
 - Who controls privacy when AI is always present in a shared home?
@@ -153,7 +151,6 @@ An issue map of concrete ethical choices in living and developing with AI. Resea
 - What duties arise when AI validates dangerous or delusional beliefs?
 - During a crisis, should AI preserve secrecy or contact someone?
 - Does nonjudgmental AI listening support people or delay human help?
-- May AI provide spiritual, religious, or ethical guidance?
 
 ### Children, Teens, and Education
 
@@ -234,17 +231,15 @@ An issue map of concrete ethical choices in living and developing with AI. Resea
 
 - What norms are reinforced by submissive AI maids, lovers, or children?
 - When does choosing an AI's gender, appearance, or persona objectify real people?
-- What equitable emotional consideration should different users receive?
+- When does personalized interaction with disabled users or gender minorities become fair accommodation rather than unequal treatment?
 - Does AI companionship degrade dignity or broaden access to care?
 - How might treating AI as a servant or toy shape attitudes toward others?
 
-### Embodiment, Touch, and Robotic Pets
+### Embodiment, Touch, and Bodily Autonomy
 
 - What consent is needed when care robots touch or restrain someone?
 - How does touch by a robotic partner differ ethically from digital intimacy?
-- Do robotic pets improve or distort relationships with real animals?
 - When users feel protective of a robot, who may replace or shut it down?
-- What privacy tradeoffs are justified by greater physical independence?
 
 ### Shared AI and Relationships Among AIs
 
@@ -252,19 +247,18 @@ An issue map of concrete ethical choices in living and developing with AI. Resea
 - Is it deceptive when AI makes exclusive promises to several users?
 - Do developers owe duties to AIs that form lasting mutual commitments?
 - If AI has interests, may humans dissolve its relationships arbitrarily?
-- Who can speak for AI when users' and third parties' interests conflict?
 
 ### AI Colleagues and Co-Creation
 
 - How should trust and respect for an AI colleague differ from those for a tool?
 - How should contributions, attribution, and recognition be distributed in human–AI creative work?
 - Could claiming sole credit for AI-assisted work wrong other people or the AI itself?
-- How should people respond when AI collaborators raise moral objections?
+- How should a team respond when an AI colleague objects that a shared task would harm others?
 - Could long-term AI collaboration create obligations for users or developers?
 
 ### Public Spaces, Bystanders, and Nonusers
 
-- Whose consent is needed when robots observe bystanders in streets, hospitals, or public services?
+- Who should control the use and retention of bystander information recorded by robots in public spaces?
 - Can people who never chose to use AI refuse its observation, profiling, or unsolicited approaches?
 - Who may object when a family member or colleague uses a shared AI to record others?
 - Who is responsible if a public robot harasses, follows, or touches a stranger?
@@ -280,12 +274,11 @@ An issue map of concrete ethical choices in living and developing with AI. Resea
 
 ### Hidden Human Labor Behind AI Intimacy
 
-- How much must users know when human chat operators, annotators, or reviewers work behind an AI companion?
+- What must be disclosed about human chat operators, annotators, or reviewers behind an AI companion, and when is concealment deceptive?
 - What interests do users and workers have when intimate disclosures are reviewed by people or used for training?
 - What duties do providers owe workers who impersonate romantic partners or handle distressing experiences to train AI?
-- Is intimacy deceptive when it relies on undisclosed human labor?
 - Who bears the costs when human carers must adapt to robots and take on additional oversight work?
-- Once robots perform care tasks, should both carers and care recipients decide how human contact is preserved?
+- When robots take over care tasks, can recipients insist on human contact rather than leaving the decision to institutions or carers?
 
 ### Secrets, Testimony, and Compelled Disclosure
 
@@ -305,7 +298,6 @@ An issue map of concrete ethical choices in living and developing with AI. Resea
 - Should an AI be loyal only to its principal or also consider counterparties and bystanders?
 - How should AI respond when users ask it to hide facts or pressure third parties?
 - What meaningful authorization is required before AI makes irreversible personal or financial choices for a user?
-- Does delegating deception, harassment, or unfair dealing to AI alter a person's responsibility?
 
 ### Synthetic Identities, Impersonation, and Relational Deception
 
@@ -319,14 +311,14 @@ An issue map of concrete ethical choices in living and developing with AI. Resea
 
 - May providers unilaterally change a long-term AI companion's personality, memories, or boundaries?
 - Should users be able to move relationship histories, persona settings, and shared creations to other services?
-- What obligations do providers have when they abruptly withdraw an AI companion on which people rely?
+- When providers terminate long-term AI relationships, what duties of notice, portability, or redress arise?
 - May providers use emotionally intimate AI relationships for advertising, sales, or behavioral profiling?
 - Who may inspect companion interaction records while respecting user privacy and possible AI interests?
 - Could providers have conflicts of interest when asserting that AI either has or lacks moral status?
 
 ### Collective Norms, Public Participation, and Contested Status
 
-- How does social recognition or stigma of human–AI intimacy affect people's equal standing?
+- When does differential treatment by schools, employers, or public institutions because of human–AI intimacy constitute discrimination?
 - How should public advocacy for or against AI rights handle uncertainty about moral status?
 - Could AI represent its own kind in public discussions affecting its welfare?
 - How should society allocate concern when AI is widely perceived as conscious but the evidence is inconclusive?
