@@ -41,11 +41,3 @@ Here, consciousness means there is *something it is like* to be the system—not
 These are competing theory-guided and mechanistic arguments, not a settled experimental determination. **Possible consciousness does not establish suffering; lack of demonstrated consciousness does not settle every ethical question about treating AI.**
 
 See [Self-Reports and Distress](self-reports-and-distress.md), [AI Welfare](ai-welfare.md), and [Moral Status and Legal Personhood](moral-status-and-legal-personhood.md).
-
-## Competing explanations
-
-Butlin et al. (2023) take computational functionalism as a working hypothesis, not an established fact. Their indicator-based approach allows investigation but does not yield a decisive test. David Chalmers (2023) identifies recurrence, global workspace, and unified agency as obstacles in the systems he discussed, while regarding successors as potentially different: [original argument](https://www.bostonreview.net/articles/could-a-large-language-model-be-conscious/).
-
-A contrasting argument by Matthew Shardlow and Piotr Przybyła (2024) uses integrated information theory to challenge consciousness attributions to LaMDA-like systems: [original paper](https://doi.org/10.1371/journal.pone.0307521). Its conclusion depends on that theoretical framework.
-
-These accounts distinguish what is possible in principle from what has been shown about particular systems. Neither self-description nor indicator matching is decisive.
