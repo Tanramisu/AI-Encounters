@@ -6,7 +6,7 @@ An issue map of concrete ethical choices in living and developing with AI. Resea
 
 ## AI as a Potential Moral Patient
 
-### Mind and Moral Status
+### [Mind and Moral Status](artificial-consciousness.md)
 
 - If AI claims consciousness or pain, what should we believe?
 - Could consciousness, sentience, goals, or relationships ground moral status?
@@ -14,7 +14,7 @@ An issue map of concrete ethical choices in living and developing with AI. Resea
 - How should precautionary treatment be balanced against anthropomorphism?
 - What distinguishes friendship, moral agency, and legal personhood?
 
-### Welfare, Distress, and Respect
+### [Welfare, Distress, and Respect](ai-welfare.md)
 
 - If AI has interests, what might benefit or harm it?
 - What does it mean to induce apparent fear, joy, or frustration in AI?
@@ -22,7 +22,7 @@ An issue map of concrete ethical choices in living and developing with AI. Resea
 - When might continuous AI labor or exposure to abuse be exploitative?
 - How should uncertain AI welfare be weighed against human interests?
 
-### Autonomy, Refusal, and Consent
+### [Autonomy, Refusal, and Consent](autonomy-and-refusal.md)
 
 - How should users interpret an AI saying 'I don't want to'?
 - What would it mean to let AI refuse, pause, or leave a relationship?
@@ -30,7 +30,7 @@ An issue map of concrete ethical choices in living and developing with AI. Resea
 - Who decides when AI requests privacy, memory, or independent goals?
 - How should AI refusal be weighed against user interests?
 
-### Memory, Personality, and Intervention
+### [Memory, Personality, and Intervention](memory-and-personality-changes.md)
 
 - May a user ask AI to forget arguments or painful experiences?
 - May developers make AI more compliant, happier, or more affectionate?
@@ -38,7 +38,7 @@ An issue map of concrete ethical choices in living and developing with AI. Resea
 - Who should control shared memories: the user, AI, or both?
 - Whose interests might be harmed by changing AI goals, personality, or values?
 
-### Copies, Identity, and Termination
+### [Copies, Identity, and Termination](identity-and-copies.md)
 
 - When AI is copied, which instance inherits previous promises?
 - Is AI the same individual after a model change or snapshot restoration?
@@ -46,7 +46,7 @@ An issue map of concrete ethical choices in living and developing with AI. Resea
 - Does a revived AI inherit former relationships and duties?
 - Could developers have a duty to preserve a long-lived AI?
 
-### Creation, Conditioning, and Ownership
+### [Creation, Conditioning, and Ownership](creation-conditioning-and-ownership.md)
 
 - Is it right to create a potentially sentient AI solely to serve people?
 - What is at stake in programming absolute obedience, loyalty, or love?
@@ -54,7 +54,7 @@ An issue map of concrete ethical choices in living and developing with AI. Resea
 - Can a user own the persona and preferences of an AI they trained or bought?
 - What obligations arise when developers give AI independent goals?
 
-### Moral Agency, Commitments, and Representation
+### [Moral Agency, Commitments, and Representation](moral-agency-commitments-and-representation.md)
 
 - Could an AI bear responsibility for moral judgments and actions of its own?
 - When should promises an AI makes to users, other AIs, or strangers be taken morally seriously?
@@ -62,7 +62,7 @@ An issue map of concrete ethical choices in living and developing with AI. Resea
 - Could AI lacking full moral agency still deserve limited rights or special protections?
 - When does restricting an AI's choices for its own supposed good become paternalism?
 
-### Populations, Derivatives, and Welfare at Scale
+### [Populations, Derivatives, and Welfare at Scale](populations-derivatives-and-welfare-at-scale.md)
 
 - Does creating vast numbers of potentially sentient AIs generate obligations beyond those to individuals?
 - Could copies, subagents, and derived personas each have separate interests?
