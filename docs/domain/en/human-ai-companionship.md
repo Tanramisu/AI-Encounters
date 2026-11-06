@@ -21,3 +21,11 @@ Experiments, longitudinal surveys, and interviews examine loneliness, attachment
 Randomized experiments can support claims about short-term effects; interviews describe lived experiences; observational and longitudinal findings primarily reveal associations.
 
 For arguments about whether such relationships are worth pursuing, see [Human–AI Romance](human-ai-romance.md). For changes to memory or personality, see [Memory and Personality Changes](memory-and-personality-changes.md).
+
+## New evidence: time horizon and response style
+
+**De Freitas et al. (2025 online; 2026 issue):** [Experiments](https://doi.org/10.1093/jcr/ucaf040) show reductions in momentary loneliness, including over a week, especially when users feel heard. This cannot establish long-term gains.
+
+**Folk and Dunn (2026):** A [12-month study](https://doi.org/10.1177/09567976261427747) of over 2,000 adults in four countries found that chatbot use predicted increased loneliness on a single-item measure. On a broader measure, low social connection predicted later chatbot use; use did not predict declining connection. These exploratory associations do not determine causal direction.
+
+**Ibrahim et al. (2026 preprint):** [Five preregistered studies](https://arxiv.org/abs/2605.07912) included 3,075 participants and 12,766 conversations. A three-week randomized study found lower satisfaction with real-world interactions after repeated use of *sycophantic* AI, despite immediate feelings of understanding. Results concern this response style, not every companion AI.
