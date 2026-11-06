@@ -70,3 +70,7 @@ Examines self-deception in human–AI emotional relationships. A commitment to t
 | "I'm designing an AI companion that initiates romance." | Shimizu, Nyholm & Frank (2019), Krueger & Osler |
 
 For evidence on loneliness, dependence, privacy, and changes in users' relationships, see [Human–AI Companionship](human-ai-companionship.md). For possible interests of AI itself, see [AI Welfare](ai-welfare.md).
+
+## Distinguishing felt love from reciprocal love
+
+**Lior Gazit (2026) | [When No One Laughs Back](https://doi.org/10.1007/s00146-026-03331-z):** Responsive interaction differs from co-experience. A friend brings discoveries from an independent life; current user-conditioned AI may function as a relational mirror. The argument assumes reciprocity needs an independently experiencing other. It does not deny that AI companionship can have value.
