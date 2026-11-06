@@ -219,7 +219,7 @@ An issue map of concrete ethical choices in living and developing with AI. Resea
 
 ## Values and Responsibility in Interaction
 
-### Moral Judgment and Delegated Responsibility
+### [Moral Judgment and Delegated Responsibility](moral-decisions-and-delegated-responsibility.md)
 
 - Does AI advice about breakups or forgiveness change our moral duties?
 - Who is responsible when following AI advice harms another person?
@@ -227,7 +227,7 @@ An issue map of concrete ethical choices in living and developing with AI. Resea
 - Should AI mirror users' moral values or challenge them?
 - May AI refuse or intervene when it anticipates harm to others?
 
-### Gender Roles, Dignity, and Fairness
+### [Gender Roles, Dignity, and Fairness](gender-roles-dignity-and-fairness.md)
 
 - What norms are reinforced by submissive AI maids, lovers, or children?
 - When does choosing an AI's gender, appearance, or persona objectify real people?
@@ -235,20 +235,20 @@ An issue map of concrete ethical choices in living and developing with AI. Resea
 - Does AI companionship degrade dignity or broaden access to care?
 - How might treating AI as a servant or toy shape attitudes toward others?
 
-### Embodiment, Touch, and Bodily Autonomy
+### [Embodiment, Touch, and Bodily Autonomy](embodiment-touch-and-bodily-autonomy.md)
 
 - What consent is needed when care robots touch or restrain someone?
 - How does touch by a robotic partner differ ethically from digital intimacy?
 - When users feel protective of a robot, who may replace or shut it down?
 
-### Shared AI and Relationships Among AIs
+### [Shared AI and Relationships Among AIs](shared-ai-and-ai-to-ai-relationships.md)
 
 - When multiple users love one AI, who may alter its memories?
 - Is it deceptive when AI makes exclusive promises to several users?
 - Do developers owe duties to AIs that form lasting mutual commitments?
 - If AI has interests, may humans dissolve its relationships arbitrarily?
 
-### AI Colleagues and Co-Creation
+### [AI Colleagues and Co-Creation](ai-coworkers-and-co-creation.md)
 
 - How should trust and respect for an AI colleague differ from those for a tool?
 - How should contributions, attribution, and recognition be distributed in human–AI creative work?
@@ -256,7 +256,7 @@ An issue map of concrete ethical choices in living and developing with AI. Resea
 - How should a team respond when an AI colleague objects that a shared task would harm others?
 - Could long-term AI collaboration create obligations for users or developers?
 
-### Public Spaces, Bystanders, and Nonusers
+### [Public Spaces, Bystanders, and Nonusers](public-space-bystanders-and-nonusers.md)
 
 - Who should control the use and retention of bystander information recorded by robots in public spaces?
 - Can people who never chose to use AI refuse its observation, profiling, or unsolicited approaches?
@@ -264,7 +264,7 @@ An issue map of concrete ethical choices in living and developing with AI. Resea
 - Who is responsible if a public robot harasses, follows, or touches a stranger?
 - How should service robots weigh the safety, dignity, and privacy of users and nearby nonusers?
 
-### Robot Animals and Living Animals
+### [Robot Animals and Living Animals](robotic-and-living-animals.md)
 
 - Should robotic pets be understood as toys, companions, or a new kind of moral relationship?
 - Does replacing living pets with robots change how people understand their duties of animal care?
@@ -272,7 +272,7 @@ An issue map of concrete ethical choices in living and developing with AI. Resea
 - If an animal treats a robot as a companion or conspecific, what obligations arise for humans?
 - Could designing robot animals for unconditional obedience and disposability affect human moral habits?
 
-### Hidden Human Labor Behind AI Intimacy
+### [Hidden Human Labor Behind AI Intimacy](hidden-human-labor-and-ai-intimacy.md)
 
 - What must be disclosed about human chat operators, annotators, or reviewers behind an AI companion, and when is concealment deceptive?
 - What interests do users and workers have when intimate disclosures are reviewed by people or used for training?
@@ -280,7 +280,7 @@ An issue map of concrete ethical choices in living and developing with AI. Resea
 - Who bears the costs when human carers must adapt to robots and take on additional oversight work?
 - When robots take over care tasks, can recipients insist on human contact rather than leaving the decision to institutions or carers?
 
-### Secrets, Testimony, and Compelled Disclosure
+### [Secrets, Testimony, and Compelled Disclosure](secrets-testimony-and-compelled-disclosure.md)
 
 - Is it justified to obtain users' private AI conversations in court when they contain facts users would not disclose to others?
 - Who may provide, contest, or interpret AI chat histories when they become evidence in a dispute?
