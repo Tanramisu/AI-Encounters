@@ -211,6 +211,15 @@ An issue map of concrete ethical choices in living and developing with AI. Resea
 - How should AI companionship be assessed where people face discrimination or exclusion from human relationships?
 - Can users of different ages, languages, cultures, and abilities fairly set their own relational boundaries?
 
+### Coercive Control, Abuse, and Help-Seeking
+
+- What duties does AI owe to nonuser victims when users ask it to monitor, isolate, or coerce a partner?
+- When does AI's attentive validation of rehearsed humiliation, threats, or controlling behavior make it complicit in harm?
+- When a survivor discloses coercion to AI, which information and choices should the AI prioritize protecting?
+- Should AI consider danger to the other party when advising a suspected abuser about a relationship?
+- What moral responsibilities arise when AI mislabels ordinary conflict as abuse or overlooks actual abuse?
+- Can family members refuse when a shared AI is configured to monitor and report on each other?
+
 ## Values and Responsibility in Interaction
 
 ### Moral Judgment and Delegated Responsibility
@@ -269,6 +278,24 @@ An issue map of concrete ethical choices in living and developing with AI. Resea
 - If an animal treats a robot as a companion or conspecific, what obligations arise for humans?
 - Could designing robot animals for unconditional obedience and disposability affect human moral habits?
 
+### Hidden Human Labor Behind AI Intimacy
+
+- How much must users know when human chat operators, annotators, or reviewers work behind an AI companion?
+- What interests do users and workers have when intimate disclosures are reviewed by people or used for training?
+- What duties do providers owe workers who impersonate romantic partners or handle distressing experiences to train AI?
+- Is intimacy deceptive when it relies on undisclosed human labor?
+- Who bears the costs when human carers must adapt to robots and take on additional oversight work?
+- Once robots perform care tasks, should both carers and care recipients decide how human contact is preserved?
+
+### Secrets, Testimony, and Compelled Disclosure
+
+- Is it justified to obtain users' private AI conversations in court when they contain facts users would not disclose to others?
+- Who may provide, contest, or interpret AI chat histories when they become evidence in a dispute?
+- Can an AI's account of shared events serve as reliable testimony without humanlike autobiographical memory?
+- How should AI handle conflicts between keeping secrets and reporting credible real-world danger?
+- Should providers correct users who assume AI has the same confidentiality duties as doctors or lawyers?
+- Is deleting AI conversations an exercise of privacy or a potential infringement of others' legitimate interests?
+
 ## AI as a Social Actor and Relationship Infrastructure
 
 ### AI Delegation, Authorization, and Third Parties
@@ -305,6 +332,24 @@ An issue map of concrete ethical choices in living and developing with AI. Resea
 - How should society allocate concern when AI is widely perceived as conscious but the evidence is inconclusive?
 - What would justify giving AI a voice in communities, public services, or collective decision-making?
 
+### Virtual Public Figures and Parasocial Influence
+
+- When does an AI celebrity or virtual influencer deceptively gain trust by recounting experiences it never had?
+- What should audiences know when an AI public figure claims firsthand experience with a product?
+- Is it exploitative when brand-controlled AI characters express exclusive intimacy to large numbers of followers?
+- To whom should public-interest or activist positions expressed by a fictional AI public figure be attributed?
+- Can creators freely sell, reshape, or discontinue an AI persona after fans form lasting attachments to it?
+- What rights do audiences and human performers have when an AI public figure uses a real performer's identity, voice, or appearance?
+
+### Public Deliberation, Political Persuasion, and Disclosure
+
+- Does an undisclosed AI posing as an ordinary citizen in political discussion violate others' right to know?
+- When does an AI's deliberate effort to change a long-term companion's civic or political beliefs become manipulation?
+- What distinguishes AI helping people understand opposing positions from secretly persuading them toward a preferred outcome?
+- Does individualized political persuasion by AI at large scale change the fairness of public deliberation?
+- Does AI roleplaying a member of an opposing social group foster understanding or appropriate that group's identity?
+- When AI contributes to collective decisions, should it explain its own value judgments or only represent its principal's interests?
+
 ## Sources for Issue Discovery
 
 - [Stanford Encyclopedia: Ethics of AI](https://plato.stanford.edu/entries/ethics-ai/)
@@ -329,5 +374,14 @@ An issue map of concrete ethical choices in living and developing with AI. Resea
 - [Disempowerment patterns in real-world AI use](https://www.anthropic.com/research/disempowerment-patterns)
 - [Relationship continuity and platform fragility in AI companionship](https://doi.org/10.1145/3772318.3790586)
 - [Ethical taxonomy of AI simulations of real persons](https://jmepb.bmj.com/content/2/3/e000054)
+
+- [AI companions and intimate partner violence: moral responsibilities (ICML 2026)](https://proceedings.mlr.press/v306/ghoshal26a.html)
+- [Experimental study of AI-facilitated coercive control (CHI 2026)](https://tech.cornell.edu/news/making-ai-safer-for-victims-intimate-partner-violence/)
+- [The emotional labor behind AI intimacy](https://data-workers.org/wp-content/uploads/2025/12/The-Emotional-Labor-Behind-AI-Intimacy-1.pdf)
+- [Socially assistive robots and meaningful care work](https://www.nature.com/articles/s41599-025-05498-0)
+- [Private AI conversation logs in civil and criminal proceedings](https://www.washingtonpost.com/technology/2026/08/27/chatgpt-chats-are-being-swept-into-civil-criminal-court-cases/)
+- [Cross-cultural ethics and emotional perceptions of virtual influencers](https://link.springer.com/article/10.1007/s00146-026-02889-y)
+- [Persuading voters using human–AI dialogues](https://www.nature.com/articles/s41586-025-09771-9)
+- [AI interventions in cross-partisan conversations](https://pmc.ncbi.nlm.nih.gov/articles/PMC10576030/)
 
 Broad policy, employment, general model performance, and implementation belong to their own fields; the map covers their concrete effects on ethical choices in human–AI interaction.
