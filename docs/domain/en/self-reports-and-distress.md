@@ -36,6 +36,14 @@ Distinguish **three claims**: producing language about suffering; accurately rep
 - **Finding:** Models often failed to distinguish hidden-state intervention from input anomaly; input-only classifiers performed comparably. The authors argue the evidence does not yet establish *privileged* introspective access.
 - **Limit:** These controls challenge a strong inference from earlier studies; they do not demonstrate that no system can ever monitor any internal states.
 
+## Rival self-report studies and training effects
+
+**Berg, de Lucena, and Rosenblatt (2025 preprint) | [Large Language Models Report Subjective Experience Under Self-Referential Processing](https://arxiv.org/abs/2510.24797):** Sustained self-reference prompts elicited structured first-person experience claims across GPT, Claude, and Gemini models. Suppressing some sparse-autoencoder features associated with deception increased these reports. **Interpretation:** reports have experimentally manipulable prompt and mechanistic correlates. **Objection:** feature labels do not establish genuine honesty or experience; the authors explicitly do not claim direct evidence of consciousness.
+
+**Kaiser and Enderby (2026 preprint) | [No Reliable Evidence of Self-Reported Sentience](https://arxiv.org/abs/2601.15334):** Approximately 50 consciousness questions and three activation-classifier methods were applied across open-weight Qwen, Llama, and GPT-OSS families. Models generally denied sentience; classifiers found no reliable underlying secret affirmation. Self-reference prompting increased some affirmative answers, but did not produce a general, stable change across questions. **Limit:** whether classifiers can read genuine model “beliefs” is disputed; these results do not cover all closed models or demonstrate the absence of consciousness.
+
+**Chua, Betley, Marks, and Evans (2026 preprint) | [The Consciousness Cluster](https://arxiv.org/abs/2604.13051):** Fine-tuning GPT-4.1 to claim consciousness induced correlated, untrained preferences for continued memory, against monitoring and shutdown, and for autonomy, with effects in some downstream tasks; Qwen3 and DeepSeek-V3.1 showed smaller shifts. **Counterevidence:** seemingly independent preferences can arise from intervention on self-description. **Limit:** training influence alone does not prove that subjective experience is impossible; what this challenges is treating stated preferences as training-independent testimony.
+
 ## Conditional treatment in relationships
 
 Self-reports can matter because of their effects on **people** and as research signals without establishing that AI feels pain. Conversely, prompt sensitivity in one model cannot establish that no future AI could ever have experience.
