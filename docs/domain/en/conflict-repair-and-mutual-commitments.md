@@ -10,6 +10,10 @@
 
 **Ofir Turel and Tingru Cui (2026) | [Apologizing Artificial Intelligence](https://doi.org/10.1007/s00146-026-03067-w)**: Two experiments compared trust repair after an erroneous recommendation by AI versus a human expert. **Finding:** a simple AI apology did not restore users' reliance and could even backfire; external attribution outperformed acknowledging the model's own limitations, particularly for objective tasks. **Limit:** these are advice-reliance outcomes after visible errors, not evidence that repair is impossible in long-term human–AI relationships.
 
+**Contrasting experimental evidence | Xu, Yuan et al. (2026) | [Guilty Apology and Trust Repair in Generative AI](https://doi.org/10.1016/j.ijhcs.2026.103813):** Two human–AI experiments found that guilt-framed apologies improved trust-repair ratings over neutral apologies and increased *perceived experience*, but not perceived agency. The benefit was stronger among participants who already attributed more experience to AI. **Objection:** improved trust does not show that the AI actually feels guilt or has corrected an error.
+
+**Different time horizons | [When Artificial Intelligence Apologizes (2026)](https://doi.org/10.1037/tmb0000230):** A simple expression of regret buffered the *immediate* trust drop after an error, but apology variants did not improve later trust recovery once the system resumed accurate performance. **Synthesis:** task, wording, and endpoint explain apparently opposed results; neither an apology's success nor failure generalizes to every human–AI relationship.
+
 ## Against: saying sorry is not necessarily assuming responsibility
 
 “I am sorry” can be an interface response and a service remedy; it need not signify reflection, free choice, or an ability to compensate. If providers treat a model's apology as a complete response to harm, responsible humans may disappear from view. **Distinguish** soothing feelings, correcting damage, and bearing moral responsibility.
