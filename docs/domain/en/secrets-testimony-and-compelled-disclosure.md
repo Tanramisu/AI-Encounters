@@ -8,6 +8,8 @@
 
 **[Assini v. Hayward (New York State, 2026)](https://www.nycourts.gov/reporter/current/3dseries/2026/2026_26086.shtml)**: In a specific civil matter the court quashed subpoenas directed at OpenAI, declining to treat AI-use privacy expectations and work-product protection as automatically nonexistent. **Implication:** relevance, scope, and privilege need case-by-case assessment. **Limit:** one decision is not a universal privilege for AI conversations.
 
+**Contrary ruling | [United States v. Heppner (S.D.N.Y., February 17, 2026)](https://storage.courtlistener.com/recap/gov.uscourts.nysd.652137/gov.uscourts.nysd.652137.27.0.pdf):** A criminal defendant independently generated defense analyses using Claude; the court held they qualified as neither privileged attorney communications nor counsel-directed protected work product. Unlike the civil pro se work-product context in *Assini*, **the outcome turned on procedure, purpose, and the applicable privilege elements**. Neither ruling establishes a blanket American rule protecting or exposing all AI chats.
+
 **[Confidentiality of AI Conversations (Duke Law & Technology Review, 2026)](https://scholarship.law.duke.edu/dltr/vol26/iss1/7/)** discusses why asking a general chatbot about law does not automatically create attorney–client privilege, and examines protection of self-represented litigants.
 
 ## Against blanket disclosure and uncritical acceptance
