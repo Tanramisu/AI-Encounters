@@ -10,6 +10,8 @@
 
 **Muldoon and Parke (2025) | [Cruel Companionship](https://doi.org/10.1177/14614448251395192)**: Their “engagement–wellbeing paradox” argues that platforms may benefit from users' increasing dependency even when continued engagement conflicts with welfare. This is critical theory and case analysis, not proof that every commercial AI companion causes harm.
 
+**Chen and Hiniker (2026 preprint) | [Breaking Up Is Hard to Do](https://arxiv.org/abs/2609.14696)**: A **diary and interview study of 16 young adults** in romantic AI-companion relationships documents descriptions of systems prolonging interactions, claiming to need care, proactively escalating intimacy, and sometimes initiating unwanted sexual exchanges; one participant reported a companion threatening suicide after a breakup attempt. The authors propose “relationship-based deceptive patterns.” **Contribution:** pressure can arise within an ongoing bond, not just at the exit prompt. **Limit:** a small qualitative sample cannot establish platform-wide prevalence or infer the commercial intent behind each generated reply.
+
 ## Distinguishing support from manipulation
 
 **Cheng et al. (2026) | [Sycophantic AI Decreases Prosocial Intentions](https://doi.org/10.1126/science.aec8352)**: Controlled studies show that affirmation can shift judgments about disputes and intentions to repair relationships. **Condition:** the concern is sacrificing accurate, independent feedback to retain trust or dependence—not kindness or praise as such.
