@@ -8,7 +8,7 @@
 
 **[Algorithmic Relational Fracture (2026)](https://doi.org/10.1093/jcmc/zmag007)**: Thematic analysis of 211 RedNote narratives describes perceived relational ruptures after memory failures, incoherent replies, or failed emotional responsiveness; users either disengaged or undertook one-sided repair. **Reasoning:** acknowledging an error, correcting memory, and explaining system change can matter to users' trust and dignity even without AI consciousness. **Limit:** public self-selected narratives cannot show that AI understands or bears apology duties.
 
-**[Apologizing Artificial Intelligence (2026)](https://doi.org/10.1007/s00146-026-03067-w)**: Two studies compare styles of AI apologies after errors and trust repair, cautioning that human-to-human repair mechanisms may not transfer unchanged to AI. **Condition:** apologies should connect to specific failures and feasible correction, not generic reassurance. **Limit:** changes in trust ratings do not establish AI moral agency.
+**Ofir Turel and Tingru Cui (2026) | [Apologizing Artificial Intelligence](https://doi.org/10.1007/s00146-026-03067-w)**: Two experiments compared trust repair after an erroneous recommendation by AI versus a human expert. **Finding:** a simple AI apology did not restore users' reliance and could even backfire; external attribution outperformed acknowledging the model's own limitations, particularly for objective tasks. **Limit:** these are advice-reliance outcomes after visible errors, not evidence that repair is impossible in long-term human–AI relationships.
 
 ## Against: saying sorry is not necessarily assuming responsibility
 
