@@ -2,6 +2,8 @@
 
 [简体中文](../README.md) · [Issue map](ethics-issue-map.md)
 
+## Core Questions
+
 | Your question | Arguments and sources |
 | --- | --- |
 | AI says it is suffering. What should I make of it? | [Read](self-reports-and-distress.md) |
@@ -14,7 +16,6 @@
 | Should I pursue a romantic relationship with AI? | [Read](human-ai-romance.md) |
 | What rights could AI have? | [Read](moral-status-and-legal-personhood.md) |
 | Is it wrong to insult or abuse AI? | [Read](respect-and-abuse.md) |
-
 | Can AI be a friend or family member? | [Friendship, Family, and Companionship](friendship-family-and-companionship.md) |
 | Can real feelings arise from engineered affection? | [Authenticity, Fantasy, and Self-Deception](authenticity-fantasy-and-self-deception.md) |
 | When does AI dependence compromise autonomy? | [Dependence, Loneliness, and Human Development](dependence-loneliness-and-human-development.md) |
@@ -23,13 +24,14 @@
 | Can an AI keep shared secrets and who controls its memories? | [Intimate Data and Shared Secrets](intimate-data-and-shared-secrets.md) |
 | What do apologies and relational repair mean with AI? | [Conflict, Repair, and Mutual Commitments](conflict-repair-and-mutual-commitments.md) |
 | How does AI shape self-understanding and memory? | [Epistemic Trust and Self-Understanding](epistemic-trust-and-self-understanding.md) |
-
 | May AI be designed for perpetual obedience or ownership? | [Creation, Conditioning, and Ownership](creation-conditioning-and-ownership.md) |
 | Can AI bear its own promises and moral responsibility? | [Moral Agency, Commitments, and Representation](moral-agency-commitments-and-representation.md) |
 | Does mass copying AI create population-scale welfare duties? | [Populations, Derivatives, and Welfare at Scale](populations-derivatives-and-welfare-at-scale.md) |
 
 ## Special Relationships and Vulnerable Contexts
 
+| Topic | Arguments and sources |
+| --- | --- |
 | May AI offer therapy and crisis support? | [Mental Health, Therapy, and Crises](mental-health-therapy-and-crises.md) |
 | How should children and teens relate to AI? | [Children, Teens, and Education](children-teens-and-education.md) |
 | Does robotic care empower or replace people? | [Elder, Patient, and Disability Care](elder-patient-and-disability-care.md) |
@@ -42,6 +44,8 @@
 
 ## Values and Responsibility in Interaction
 
+| Topic | Arguments and sources |
+| --- | --- |
 | Moral Decisions and Delegated Responsibility | [Moral Decisions and Delegated Responsibility](moral-decisions-and-delegated-responsibility.md) |
 | Gender Roles, Dignity, and Fairness | [Gender Roles, Dignity, and Fairness](gender-roles-dignity-and-fairness.md) |
 | Embodiment, Touch, and Bodily Autonomy | [Embodiment, Touch, and Bodily Autonomy](embodiment-touch-and-bodily-autonomy.md) |
@@ -54,6 +58,8 @@
 
 ## AI as a Social Actor and Relationship Infrastructure
 
+| Topic | Arguments and sources |
+| --- | --- |
 | How should AI agents balance loyalty and duties to third parties? | [AI Delegation, Authorization, and Third Parties](ai-delegation-authorization-and-third-parties.md) |
 | When is a fictional AI identity deceptive? | [Synthetic Identities and Relational Deception](synthetic-identities-and-relational-deception.md) |
 | Who controls the future of a long-term AI relationship? | [Relationship Infrastructure and Platform Power](relationship-infrastructure-and-platform-power.md) |
