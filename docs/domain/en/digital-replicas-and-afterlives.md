@@ -6,7 +6,7 @@
 
 ## For continued remembrance
 
-**[Can Chatbots Preserve Our Relationships with the Dead? (2025)](https://www.cambridge.org/core/journals/journal-of-the-american-philosophical-association/article/can-chatbots-preserve-our-relationships-with-the-dead/39D6678681758F555A5F8C6F6F34C8D9)**: Philosophical analysis considers whether relationships with deceased people continue through memory, commitments, and remembrance. A digital conversation might contribute without claiming literal resurrection. **Condition:** users recognize the simulation and retain independent memories. **Objection:** generated novel statements could distort the original person's remembered identity.
+**Stephen M. Campbell, Pengbo Liu, and Sven Nyholm (2025) | [Can Chatbots Preserve Our Relationships with the Dead?](https://doi.org/10.1017/apa.2025.1)** argue that a thanabot relationship **cannot literally continue the prior relationship with the deceased**, since the bot is not the same individual, though its use may help a survivor sustain a continuing *bond with the person who died*. They also argue that a thanabot relationship **cannot equal the intrinsic value of a rewarding human intimate relationship**, while it may provide instrumental benefits. **Limits:** these are metaphysical and ethical arguments, not clinical findings that all memorial chatbots are harmful.
 
 **[On Grief and Griefbots (2024)](https://www.cambridge.org/core/journals/think/article/on-grief-and-griefbots/56DF2D4A7195C96209F35EC99671A755)** explores how conversational replicas might support or impede grieving. **Limit:** normative and conceptual reasoning, not trial evidence of therapeutic benefit.
 
