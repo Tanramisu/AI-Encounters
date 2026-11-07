@@ -10,6 +10,8 @@
 
 **[Interaction with AI Companions and Psychological Well-Being (2026)](https://doi.org/10.1038/s41562-026-02516-2)**: An observational study of Character.AI users found different associations with well-being according to offline support, disclosure, and engagement. **Reasoning:** people excluded from ordinary social support may reasonably value AI companionship differently. **Limit:** associations do not show that AI removes structural discrimination or represent all cultural groups.
 
+**Hollis et al. (2026) | [AI Companionship and Loneliness in Autistic and Neurotypical Users](https://doi.org/10.1016/j.chbr.2026.101387)**: A preregistered **cross-sectional study of 365 autistic and neurotypical adults** found greater loneliness among autistic participants, but **companion-chatbot users were not lonelier than nonusers** and usage did not amplify the neurotype gap. **Implication:** selecting AI companionship is not by itself an indicator of withdrawal, especially for autistic users. **Limit:** self-selection and cross-sectional design cannot show that chatbots reduce loneliness or remedy barriers to human support.
+
 ## Against imposing false cultural authority
 
 **[Sacred or Synthetic? (AIES 2025)](https://ojs.aaai.org/index.php/AIES/article/view/36543)**: Tests of Islamic jurisprudential questions across schools of thought and languages reveal problems with presenting religious interpretations as universal or invariant. **Scope:** a particular benchmark, not all faiths or languages.
