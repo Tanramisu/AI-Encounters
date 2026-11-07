@@ -83,6 +83,8 @@ For evidence on loneliness, dependence, privacy, and changes in users' relations
 
 **Julian De Freitas (2026) | [AI Companions as Hyper-Attachment and Caregiving Targets](https://doi.org/10.1016/j.copsyc.2026.102393):** An attachment-theory synthesis suggests companions may recruit both users' attachment needs and their impulse to care for a seemingly distressed AI, increasing the emotional cost of exit. Evidence for a secure-base function remains weakest. This is a proposed mechanism, not proof that all AI romance is manipulative.
 
+**Masterson, Ye, and Robert (2026) | [Finding Romance with AI](https://doi.org/10.1016/j.chbah.2026.100419)**: A cross-sectional survey compared **155 AI-companion users, 153 people in long-distance human relationships, and 155 in-person partners** (N=463). Some reported intimacy dimensions were comparable across groups. Yet in the AI group, **emotional intimacy was positively associated with loneliness**, even as it related positively to relationship satisfaction; the intimacy–loneliness association ceased to be significant after accounting for offline social support. **Implication:** intimacy, satisfaction, and social connectedness are distinct outcomes. **Limit:** this was not randomized and cannot show that AI causes loneliness or that human–AI love is reciprocal.
+
 ## Conditional approach
 
 Szczuka, Mühl, and Schneeberger (2026) distinguish six dimensions of [intimacy by design](https://doi.org/10.1007/s00146-026-03112-8): emotional responsiveness, romantic framing, sexual affordances, persona continuity, proactive contact, and commercial or normative structuring.
