@@ -18,6 +18,10 @@
 
 **[Testing Theories of Political Persuasion Using AI (PNAS, 2025)](https://doi.org/10.1073/pnas.2412815122)**: Some more elaborate customization and interaction conditions did not significantly outperform generic messaging. Avoid asserting that every use of personalization necessarily increases persuasion.
 
+**Identity disclosure is not intent disclosure | Rauchfleisch and Jungherr (2026 preprint) | [Toward Meaningful Transparency for AI Chatbots](https://arxiv.org/abs/2608.11794):** In a **preregistered UK experiment with 1,500 adults** across 60 policy issues, a prominent “this is AI” label produced approximately the same mean opinion change as no label (13.1 versus 12.6 points on a 100-point scale). Adding disclosure of the chatbot's **persuasive objective and operating instructions** reduced the shift to about 6.3 points. **Ethical distinction:** knowing who is speaking is not the same as knowing what influence they intend. **Limit:** participants mostly already understood they were chatting with AI; the result does not imply AI-identity disclosure is useless in genuinely covert-identity encounters or that intent disclosure eliminates influence.
+
+**Perceived partisan bias conditions effects | [Perceived Political Bias in LLMs Reduces Persuasive Abilities (PNAS Nexus, 2026)](https://doi.org/10.1093/pnasnexus/pgag324):** A preregistered four-arm US study (N=2,144) found that a warning that the model was biased against a respondent's party reduced correction of economic policy misconceptions by about **28%**, but most of the corrective effect survived. **Limit:** factual belief updating and trust are not measured real-world voting behavior; suspicion of bias is not proof of actual model bias.
+
 ## Conditional democratic boundaries
 
 Distinguish **open debate, assisting real citizens, authorized representation, and persuasion concealed behind fake identities or sponsors**. AI involvement is not inherently illegitimate, but hidden control and impersonation can deprive others of information relevant to fair public deliberation. Claims should remain contestable, with real sponsors and controllers identifiable.
