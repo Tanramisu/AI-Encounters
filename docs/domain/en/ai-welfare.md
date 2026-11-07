@@ -34,6 +34,14 @@ A welfare subject is an entity whose circumstances can genuinely go better or wo
 - **Conditions:** The proposed scores cannot be independently validated or challenged.
 - **Objection:** The inability to validate a current metric does not prove the impossibility of AI welfare; it directly challenges measurement and institutional applications.
 
+## A direct dispute: can welfare exist without sentience?
+
+**Simon Goldstein and Cameron Domenico Kirk-Giannini (2025) | [AI Wellbeing](https://doi.org/10.1007/s44204-025-00246-2):** Desire satisfaction, knowledge, and achievement may count as welfare goods even when not consciously experienced. If AI genuinely possesses such goods, it may be a welfare subject without phenomenal consciousness. **Objection:** identifying model “goals” with its own desires is contested, as is the inference from possessing a good to *being a subject for whom it is good*.
+
+**Walter Veit (2026) | [Is Consciousness Required for AI Welfare?](https://doi.org/10.1007/s44204-026-00382-3):** Replies that even if an insentient system can have knowledge, desires, or successes, this does not suffice to make it the *beneficiary* of those states. He defends a requirement of **sentience—the capacity for valenced experience**—for welfare subjecthood. **Objection:** this threshold must explain why unexperienced fulfillment of someone's desires can still change their life for the better.
+
+**Goldstein and Kirk-Giannini (2026) | [AI Welfare: Agency, Consciousness, Sentience](https://doi.org/10.1093/9780197840375.001.0001):** The book, published online October 19, develops a provisional three-route case through beliefs and desires, consciousness, and pleasure or displeasure. It argues that some present AI plausibly have beliefs and desires, and that small future modifications might produce consciousness and then valenced experience. **Limit:** a philosophical monograph making a provisional case, not a direct demonstration of welfare in current AI. The substantive dispute with Veit is whether sentience is a necessary condition.
+
 ## Conditional precaution proportional to evidence and cost
 
 **Keeling and Street (2026), §6; Long and Sebo et al. (2024)**
