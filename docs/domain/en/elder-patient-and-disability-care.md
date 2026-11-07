@@ -6,7 +6,7 @@
 
 ## For targeted assistance
 
-**[Care Robots as Emerging Health Technologies (JMIR, 2026)](https://www.jmir.org/2026/1/e95232)**: A systematic review and meta-analysis included 34 randomized studies with 2,476 participants across 17 countries. Care robots may benefit particular outcomes in particular settings. **Limit:** interventions, platforms, populations, and durations vary considerably; average effects do not establish that arbitrary deployment works.
+**Kim and Jeon (2026) | [Care Robots as Emerging Health Technologies](https://www.jmir.org/2026/1/e95232)**: A systematic review included 34 randomized studies with 2,476 participants across 17 countries; 20 entered meta-analysis. Under Hartung–Knapp small-sample corrections, **only 1 of 7 prespecified outcomes was statistically significant** (neuropsychiatric symptoms, Hedges g=0.44, 95% CI 0.03–0.84), and significance disappeared when one study with ambiguous data interpretation was removed. The other six domains were nonsignificant; certainty was low or very low and every trial raised risk-of-bias concerns. **For:** facilitator-supported adjunctive use may still help in selected cases. **Against wholesale substitution:** the evidence does not yet justify routine clinical adoption.
 
 **Mihailov and Wangmo (2025) | [Does Humanness Matter?](https://doi.org/10.1007/s11948-025-00547-y)**: Qualitative interviews with Swiss older adults, family caregivers, and care professionals suggest that robots may preserve dignity in some intimate assistance and hygiene tasks. **Condition:** ask the recipient what forms of help feel dignified. **Limit:** interviews about preferences are not equivalent to comparative clinical outcomes.
 
