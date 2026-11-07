@@ -8,7 +8,7 @@
 
 **[Virtual Influencers vs. Human Influencers (2025)](https://doi.org/10.1080/10447318.2024.2374100)**: In a 130-person online between-subject experiment, some virtual influencers were perceived as more authentic than human ones. **Implication:** virtual identity need not destroy audience value. **Limit:** perceived authenticity is not proof that product endorsements are accurate; sample and context matter.
 
-**[Virtual Influencer Marketing: A Meta-Analytic Review (2026)](https://doi.org/10.1007/s11747-026-01186-w)** synthesizes heterogeneous findings on how virtual and human influencers affect persuasion. **Objection to a categorical rule:** virtual influencers are neither uniformly more effective nor necessarily deceptive merely because they are synthetic.
+**Barari, Eisend, and Kulczynski (2026) | [Virtual Influencer Marketing: A Meta-Analytic Review](https://doi.org/10.1007/s11747-026-01186-w)**: The meta-analysis finds that virtual influencers are **perceived as more novel and achieve broadly comparable consumer engagement, but underperform human influencers on credibility, advertising/brand attitudes, and behavioral intentions**. Anthropomorphism and fit with brand, product, and message explain some variation. **Ethical boundary:** engagement does not authenticate claims of firsthand product experience, but reduced average credibility does not make all fictional-persona relationships valueless.
 
 ## Against manufactured firsthand claims
 
