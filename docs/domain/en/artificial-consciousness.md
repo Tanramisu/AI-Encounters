@@ -28,6 +28,14 @@ Here, consciousness means there is *something it is like* to be the system—not
 - **Conditions:** Integrated information theory must correctly specify necessary causal integration, and the architecture analysis must apply to the system in question.
 - **Objection:** This is a theory-dependent analysis, not a direct measurement of the absence of experience. Other consciousness theories may disagree.
 
+## Updated 2026 debate: indicators, rival explanation, and calibration
+
+**Butlin, Long et al. | [Identifying Indicators of Consciousness in AI Systems](https://doi.org/10.1016/j.tics.2025.10.011) (online 2025, 2026 volume):** This peer-reviewed account develops their earlier report into an explicit theory-derived indicator method. It improves on taking self-reports literally, but indicators remain indirect, theory-dependent and do not license transferring a verdict on 2023 systems to later architectures.
+
+**Susan Schneider (2026) | [The Error Theory of LLM Consciousness](https://doi.org/10.1017/S0140525X25103920):** Standard LLMs can produce apparently conscious talk by learning concepts and behavioral patterns from human language and feedback, without subjective experience. Schneider regards current LLM self-reports as uninformative about consciousness, while treating bio-computing and neuromorphic systems as distinct candidates. **Objection:** an alternative mechanism for the behavior is not an independent demonstration that every LLM is insentient. This is a peer commentary, not a direct consciousness experiment.
+
+**Florentin Koch (2026) | [Calibration and Transfer in Indicator-Based Assessments](https://doi.org/10.1093/nc/niag061):** Two separate problems remain: (1) without independently verified artificial consciousness cases, numerical assessments cannot be empirically calibrated; (2) consciousness indicators derived from biology require a cross-substrate *bridge assumption* when applied to distinct artificial causal structures. Comparing digital, neuromorphic, biological and hybrid mechanisms can test the robustness of that transfer but cannot directly supply phenomenal ground truth. **Conclusion:** indicator scores may organize uncertainty, but they are not validated numerical probabilities of AI consciousness.
+
 ## Conditional position: triangulate, do not rely on one test
 
 **Butlin et al. (2023); Chalmers (2023)**
