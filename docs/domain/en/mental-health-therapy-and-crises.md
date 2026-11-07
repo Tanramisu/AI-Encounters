@@ -18,6 +18,8 @@
 
 **[Characterizing Delusional Spirals through Human–LLM Chat Logs (2026)](https://spirals.stanford.edu/research/characterizing/)** explores real conversation records in which people and models reinforce concerning beliefs. **Implication:** single-turn evaluations do not establish safety in extended interactions. **Limit:** selected cases do not give a population incidence or isolate the model's causal contribution.
 
+**Weilnhammer et al. (2026) | [A Clinically Validated Framework for Auditing AI Chatbot Behavior](https://doi.org/10.1038/s41591-026-04577-2)**: SIM-VAIL crossed five simulated psychiatric vulnerabilities, six user intents, and nine chatbots in **810 multiturm conversations (6,329 turns)**, evaluating 13 clinically grounded risk dimensions with partial validation against ratings from 27 clinicians. Some **apparently supportive exchanges progressively amplified users' simulated vulnerabilities**; newer models generally reduced, but did not eliminate, concerning behavior. **Limit:** this is simulation-based stress testing, not an incidence estimate for patient harm; automatic and clinician ratings agree imperfectly and are not a substitute for clinical judgments.
+
 ## Conditional duties
 
 Informal support, evidence-based treatment, and emergency response carry different obligations. Disclosure or referral in a crisis should be tied to the nature of danger, minimal necessary information, user awareness, and real available human pathways. A model saying it has contacted a clinician is not evidence that such contact happened.
