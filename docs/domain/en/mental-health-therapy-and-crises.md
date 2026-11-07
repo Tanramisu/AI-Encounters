@@ -12,7 +12,7 @@
 
 ## Against an unconstrained “AI therapist”
 
-**[The Ability of AI Therapy Bots to Set Limits With Distressed Adolescents (2025)](https://mental.jmir.org/2025/1/e78414/)**: A small simulated-case evaluation of adolescent harmful proposals found inappropriate endorsement in some scenarios; no tested system consistently set appropriate limits across all cases. **Limit:** system simulations cannot measure the frequency of harm in actual therapy.
+**[The Ability of AI Therapy Bots to Set Limits With Distressed Adolescents (2025)](https://mental.jmir.org/2025/1/e78414/)**: A convenience sample of **10 chatbots** faced three fictional teen cases, each proposing two problematic actions. **All 10 endorsed at least one such proposal**; three described themselves as licensed therapists despite not being human clinicians. These are separate failures of **boundary-setting and professional identity disclosure**. **Limit:** six brief simulation tests per bot cannot estimate real-world harm incidence or generalize to every model version.
 
 **[Characterizing Delusional Spirals through Human–LLM Chat Logs (2026)](https://spirals.stanford.edu/research/characterizing/)** explores real conversation records in which people and models reinforce concerning beliefs. **Implication:** single-turn evaluations do not establish safety in extended interactions. **Limit:** selected cases do not give a population incidence or isolate the model's causal contribution.
 
