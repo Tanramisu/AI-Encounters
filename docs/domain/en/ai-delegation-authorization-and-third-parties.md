@@ -8,7 +8,7 @@
 
 **[AI Agents and the Law (AIES 2025)](https://ojs.aaai.org/index.php/AIES/article/view/36705)** analyzes authorization, loyalty, disclosure, and third-party dealings through the law of agency, finding that computer-science accounts often neglect these relationships. **For:** agents can facilitate transactions while recognizing counterparty interests. **Objection:** simple human-agent analogies may not capture AI execution or autonomy.
 
-**[Position: AI Agents Need Authenticated Delegation (ICML 2025)](https://proceedings.mlr.press/v267/south25a.html)** calls for identifiable agents, scoped authority, and accountable delegation. **Condition:** verifiable authorization does not make AI a legal person. This is a governance and design proposal, not an experiment establishing that authorization solves all harms.
+**[Position: AI Agents Need Authenticated Delegation (South et al., ICML 2025)](https://proceedings.mlr.press/v267/south25a.html)** is a position paper proposing extensions to OAuth 2.0 and OpenID Connect, agent-specific credentials, and explicit permission scopes to create auditable delegation chains. **For:** services and counterparties can verify what authority an agent actually received. **Condition:** credentials, scopes, and actions must be reliably bound together. **Key objection:** authenticating a delegation answers *who authorized what*, but cannot by itself establish that a transaction is fair, consent was informed, or an agent will avoid harm while acting within valid permissions. The paper proposes a governance and technical direction; it does not experimentally demonstrate elimination of unauthorized-agent harms.
 
 ## Against autonomy as exculpation
 
