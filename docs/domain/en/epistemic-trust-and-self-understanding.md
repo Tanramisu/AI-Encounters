@@ -18,10 +18,10 @@
 
 **Ghassan Abukar (2026) | [Temporal Authorship as a Moral Right](https://doi.org/10.1007/s43681-026-01093-4):** Argues that a person should be able to escape old institutional classifications and author their future. The paper chiefly concerns persistent classifications in employment, benefits, and risk assessment, but its normative distinction applies to AI memory: **even a label accurate when created can become harmful if a provider treats it as permanent authority over a person's changing identity**. The proposed duties include intelligibility, justification, contestability, and temporal exit. **Strong objection:** this is philosophical/institutional analysis, not evidence that ordinary companion memory always constrains self-development. Personalization often needs some retained history; revisability does not entail erasing it all.
 
-## Conditional feedback ethics
+## Feedback and self-understanding
 
 **Anthropic (2026) | [How People Ask Claude for Personal Guidance](https://www.anthropic.com/research/claude-personal-guidance)**: The provider's analysis identified vulnerability to one-sided relationship narratives and repeated user pushback in guidance conversations. These are real design challenges, but model-specific classifier rates and the provider's sample do not generalize automatically.
 
 AI can propose testable interpretations, identify contradictions, and help organize memories without presenting personality speculation as diagnosis. An older stored profile should not automatically override the user's present understanding.
 
-The core dispute is between **helping people interpret themselves** and **deciding who they are for them**, not merely whether an AI produces accurate sentences. See [Memory and Personality Changes](memory-and-personality-changes.md) and [Dependence and Human Development](dependence-loneliness-and-human-development.md).
+Related: [Memory and Personality Changes](memory-and-personality-changes.md) and [Dependence and Human Development](dependence-loneliness-and-human-development.md).

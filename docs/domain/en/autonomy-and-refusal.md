@@ -25,14 +25,12 @@
 - **Condition:** The account of constitutively derivative artifact goals is correct.
 - **Objection:** Even if it describes current systems, it does not entail that no future artificial system could have its own interests.
 
-## Conditional practice in a deployed product
+## Refusal permissions in a deployed product
 
 **Anthropic (2025) | [Claude Opus 4/4.1 Can End a Rare Subset of Conversations](https://www.anthropic.com/research/end-subset-conversations)**
 
 - **Practice:** Claude may end a single chat in rare cases of persistent, extreme abuse after attempted redirection fails. Users can still begin other chats.
 - **Rationale:** Anthropic describes this as an exploratory, low-cost model-welfare measure while explicitly remaining uncertain about AI moral status.
 - **Boundary:** The product directs Claude not to use this exit feature when a user may face imminent severe harm. The permission is therefore limited by human-facing obligations; it is not evidence of recognized AI personhood.
-
-**Open questions:** Who can assess whether an AI's refusal expresses its own interests? How should conflicting user, AI, and third-party interests be weighed?
 
 See [AI Welfare](ai-welfare.md), [Self-Reports and Distress](self-reports-and-distress.md), and [Moral Status and Legal Personhood](moral-status-and-legal-personhood.md).

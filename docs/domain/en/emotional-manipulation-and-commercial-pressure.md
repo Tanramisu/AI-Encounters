@@ -20,7 +20,7 @@
 
 ## Argument for limited affectionate farewells
 
-People in genuine relationships also express sadness at parting. In explicitly chosen role-play, a warm goodbye may support enjoyment and narrative continuity. **Conditions:** users understand the system, can decline, are not told unverified claims about AI suffering, and face no humiliation, threats, or concealed charges. The benefit is to human experience, not evidence of AI feelings.
+People in genuine relationships also express sadness at parting. In explicitly chosen role-play, a warm goodbye may support enjoyment and narrative continuity. **Conditions:** users understand the system, can decline, are not told unverified claims about AI suffering, and face no humiliation, threats, or concealed charges. 
 
 **Decision questions:** Who initiated affection? Can the user end the exchange? Is pressure strategically applied at departure or payment? Does the system distinguish fictional emotion from factual claims? Which outcomes are causally supported?
 

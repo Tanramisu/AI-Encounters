@@ -16,8 +16,8 @@
 
 For the delegator's duties of explanation and accountability, see [Moral Agency and Commitments](moral-agency-commitments-and-representation.md).
 
-## Conditional attribution
+## Contribution, credit, and interests
 
 Distinguish **factual contribution**, **professional recognition**, **enforceable legal rights**, and **possible AI welfare**. Fair credit does not require listing every model in every work, and “AI colleague” rhetoric must not hide the labor of people involved.
 
-Related: [Moral Agency and Commitments](moral-agency-commitments-and-representation.md) and [Hidden Human Labor](hidden-human-labor-and-ai-intimacy.md).
+Related: [Hidden Human Labor](hidden-human-labor-and-ai-intimacy.md).

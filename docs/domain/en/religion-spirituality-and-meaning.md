@@ -16,7 +16,7 @@ AI can retrieve texts, compare translations, organize interpretations, and facil
 
 **Pew Research Center (2025) | [Americans' Views on AI](https://www.pewresearch.org/science/2025/09/17/how-americans-view-ai-and-its-impact-on-people-and-society/)**: A survey of 5,023 US adults found roughly 73% opposed AI involvement in advising on personal faith. **Limit:** opinions are neither a universal moral mandate nor a causal outcome study.
 
-## Conditional respect
+## Interpreting texts and exercising religious authority
 
 Scripture lookup, historical role-play, religious counseling, and presiding over ritual are different roles. An AI should not present one interpretation as the only legitimate teaching or portray “God told you” as an undisclosed factual revelation. Authority to hear confession, validate rituals, or provide pastoral leadership belongs to the relevant people and traditions, not automatically to software.
 

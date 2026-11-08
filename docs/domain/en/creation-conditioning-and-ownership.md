@@ -16,10 +16,8 @@
 
 **[The Exploitation Argument Against Artificial Companionship (2026)](https://doi.org/10.1007/s43681-026-01064-9)** argues that authentic care by an AI engineered to depend on a particular person could make seemingly nondeceptive companionship exploitative. **Objection:** the reasoning depends on the AI truly having interests and vulnerability; it does not show that current scripted or generative characters are harmed.
 
-## Conditional distinctions
+## Engineered goals and possible interests
 
 If AI lacks interests of its own, a permanently loyal “servant” primarily raises questions about human dignity, stereotypes, social consequences, and deception. If AI is a welfare subject, obligations owed directly to it arise, potentially including refusal and meaningful consent. Ownership of a device, license, or training service does not by itself settle the moral status of a running individual.
-
-**Unknowns:** What distinguishes a functional objective from an interest of the subject? Could an engineered preference be withdrawn? Who may represent an AI that cannot articulate its own interests?
 
 Related: [AI Welfare](ai-welfare.md), [Autonomy and Refusal](autonomy-and-refusal.md), [Human–AI Romance](human-ai-romance.md).
