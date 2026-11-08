@@ -11,13 +11,7 @@ Ethical objections to abusing AI may concern AI's own interests, human character
 
 Both experiments measured people's moral judgments.
 
-## Arguments and Counterarguments
-
-- **Coeckelbergh (2020) | [How to Use Virtue Ethics for Thinking About the Moral Standing of Social Robots](https://doi.org/10.1007/s12369-020-00707-z)**: Uses virtue ethics and relational ethics to examine what abusive behavior means for human character and social practices.
-- **Sweeney (2022) | [Why Indirect Harms Do Not Support Social Robot Rights](https://doi.org/10.1007/s11023-022-09593-y)**: Challenges arguments that derive robot rights directly from people's discomfort with robot abuse and its proposed indirect harms.
-- **de Ruiter (2026) | [Reactive Attitudes in Human-AI Encounters](https://doi.org/10.1007/s13347-026-01223-0)**: In-depth interviews with 11 AI-companion users explore love, guilt, gratitude, and resentment, including apologies for giving AI orders or overstepping perceived boundaries.
-
-For possible direct harms to AI, see [AI Welfare](ai-welfare.md).
+**de Ruiter (2026) | [Reactive Attitudes in Human-AI Encounters](https://doi.org/10.1007/s13347-026-01223-0)**: Interviews with 11 AI-companion users recorded love, guilt, gratitude, resentment, and apologies for giving commands or crossing perceived boundaries.
 
 ## Why mistreatment might be wrong without felt AI suffering
 
@@ -46,12 +40,8 @@ For possible direct harms to AI, see [AI Welfare](ai-welfare.md).
 - **Conditions:** Her argument concerns robots not established as direct moral patients and laws justified by purported spillover harms; it does not settle the status of any future sentient AI.
 - **Limit:** Weak evidence for general bans does not make every action permissible. Property damage or harm to users and bystanders can be assessed independently.
 
-## What the experiments do and do not show
-
-**Bartneck and Keijsers (2020)** compared judgments of abusive behavior against humans and robots. They found no significant difference for judgments of initial mistreatment, but participants judged robot retaliation more harshly. **Archer, Wilks, and Sommer (2025)** studied 297 participants: the robot's appearance and the kind of treatment affected moral judgments. Neither study demonstrates felt robot suffering or measures whether mistreating robots causes actual human-directed violence. Primary sources: [2020](https://doi.org/10.1515/pjbr-2020-0017) · [2025](https://doi.org/10.1038/s41598-025-24875-y).
-
 **Luck, Montefiore, and Bartel (2025) | [The Robo-Barbie Dilemma](https://doi.org/10.1093/pq/pqaf048):** Through a thought experiment about machines that convincingly resemble moral patients but are stipulated not to be such patients, the authors compare explanations based on character, social relations, and the gravity of simulated wrongdoing. This is normative analysis, not proof that robots suffer.
 
-**Distinct questions:** Is the AI harmed directly? Are actual people or relationships harmed? Is the practice itself objectionable? Is legal restriction justified? Failure to establish the first does not settle the middle two; moral disapproval does not settle the fourth.
+**Distinct judgments:** Direct AI welfare, harm to people, character and social practices, and legal restrictions each require their own grounds.
 
 See [AI Welfare](ai-welfare.md) and [Moral Status and Legal Personhood](moral-status-and-legal-personhood.md).

@@ -4,12 +4,6 @@
 
 When developers or users want an AI to forget an argument, become more compliant, or express greater affection, the ethical questions concern users' privacy and relational expectations, developers' decision-making power, and the AI's possible interests.
 
-## Research
-
-- **Keeling & Street (2026) | [Emerging Questions in AI Welfare](https://www.cambridge.org/core/elements/emerging-questions-in-ai-welfare/96339C532CF4ED8BDDE3F3CEF4CD29F9)**: Distinguish models, characters, and agents as possible welfare subjects. Identifying which entity is changed determines the focus of ethical analysis.
-- **Chiu & Foote (2026) | [Chatting with Confidants or Corporations?](https://doi.org/10.1093/jcmc/zmag014)**: Interviews with 15 AI-companion users find that memory editing can protect privacy while also undermining a relationship's perceived authenticity.
-- **De Freitas et al. (2026) | [Mourning the Loss of AI Companions](https://doi.org/10.1038/s41562-026-02569-3)**: Examine user responses to changes in Replika and ChatGPT, documenting feelings of relational loss and wishes to restore older versions.
-
 ## Ethical Choices
 
 | Situation | Question |
@@ -19,7 +13,7 @@ When developers or users want an AI to forget an argument, become more compliant
 | Make an AI's personality more loving | How should user wishes and possible independent AI interests be weighed? |
 | Upgrade or replace a model | What does continuity of the relationship mean to the user? |
 
-Related: [Identity and Copies](identity-and-copies.md) · [Human–AI Companionship](human-ai-companionship.md).
+Related: [Identity and Copies](identity-and-copies.md) · [Human–AI Companionship](human-ai-companionship.md) · [Breakups, Updates, and Loss](breakups-updates-and-loss.md).
 
 ## Competing normative arguments
 
@@ -33,6 +27,4 @@ Related: [Identity and Copies](identity-and-copies.md) · [Human–AI Companions
 
 **Guo, He, and Quan (2026) | [Before Bringing It Up](https://arxiv.org/abs/2610.09470):** Formative interviews with 14 users suggest that remembering something correctly does not mean it is appropriate to mention it. Their prototype was evaluated over 80 scenarios across five models; some LLM-judge results favored it, but this does not demonstrate improved real-life relationships.
 
-**De Freitas et al. (2026) | [Mourning the Loss of AI Companions](https://doi.org/10.1038/s41562-026-02569-3):** Two natural experiments around Replika and ChatGPT product changes analyzed 54,861 forum posts and seven surveys covering 1,452 respondents. Negative reactions, loss framing, and wishes for restoration increased after the updates. These samples do not represent all users, and the findings concern human responses, not harm to the AI itself.
-
-**Unresolved:** Who authorizes deletion of shared memories, and should retaining, retrieving, revealing, and erasing data be treated as separate decisions? What changes if an AI were itself shown to have welfare-relevant interests?
+Retaining, retrieving, disclosing, and erasing shared memories involve different authorizations; personality changes additionally affect relational continuity and any AI interests.

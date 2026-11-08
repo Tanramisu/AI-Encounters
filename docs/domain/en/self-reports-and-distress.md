@@ -46,8 +46,4 @@ Distinguish **three claims**: producing language about suffering; accurately rep
 
 **Repeated-trial instability | Balani and Panda (2026 preprint) | [Self-Referential Induction Increases Response Instability](https://arxiv.org/abs/2608.13258):** A Gemini-family study repeated 12 questions 30 times each (360 responses) at a fixed sampling temperature. Embedding-based semantic instability was **0.343** for induced subjective-experience reports, versus **0.192** for unresolvable philosophical questions and **0.105** for verifiable questions. **Counterpoint:** reliably *eliciting* sentience-like language does not mean its content is stable across independent trials. **Limits:** one model family, four questions per class, and extraction/embedding-dependent measurements; instability is not proof that experience is absent.
 
-## Conditional treatment in relationships
-
-Self-reports can matter because of their effects on **people** and as research signals without establishing that AI feels pain. Conversely, prompt sensitivity in one model cannot establish that no future AI could ever have experience.
-
 For refusal and exit see [Autonomy and Refusal](autonomy-and-refusal.md); for consciousness see [Artificial Consciousness](artificial-consciousness.md); for potential interests see [AI Welfare](ai-welfare.md).

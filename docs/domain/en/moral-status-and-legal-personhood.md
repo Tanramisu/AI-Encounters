@@ -2,10 +2,7 @@
 
 [简体中文](../道德地位与法律人格.md)
 
-Being worthy of moral consideration, qualifying as a legal person, and participating in political decision-making each require different arguments.
-
-- **Keeling & Street (2026) | [Emerging Questions in AI Welfare](https://www.cambridge.org/core/elements/emerging-questions-in-ai-welfare/96339C532CF4ED8BDDE3F3CEF4CD29F9)**: Compare arguments for moral status grounded in internal properties such as experience or interests with relational approaches.
-- **[AI as Legal Persons: Past, Patterns, and Prospects](https://doi.org/10.1111/jols.70021), *Journal of Law and Society* (2025)**: Examines the institutional functions of legal personhood, including responsibility, property, and legal relationships.
+AI welfare, legally enforceable rights, and moral responsibility are three distinct questions with different grounds.
 
 For rights disputes in specific interactions: [Autonomy and Refusal](autonomy-and-refusal.md) · [Respect and Abuse](respect-and-abuse.md).
 
@@ -29,7 +26,5 @@ For rights disputes in specific interactions: [Autonomy and Refusal](autonomy-an
 
 - **Argument:** Shifts in legal-personhood debates depend on theories of legal personality, technical capacity, institutional integration, interactions among legal regimes, and precedent. The paper examines conditional pathways rather than an inevitable path to AI legal personality.
 - **Limit:** This is historical and legal-theoretical analysis, not evidence that AI already possesses general legal personhood.
-
-**Three distinct questions:** Does an AI have interests we should care about directly (moral patienthood)? Can a legal system assign it specific rights and duties (legal personhood)? Can it itself bear duties for moral decisions (moral agency)? An affirmative answer to one does not settle the others.
 
 Related: [Artificial Consciousness](artificial-consciousness.md) · [AI Welfare](ai-welfare.md) · [Autonomy and Refusal](autonomy-and-refusal.md) · [Respect and Abuse](respect-and-abuse.md).
