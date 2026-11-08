@@ -12,11 +12,11 @@ Repairing failures, addressing real harms, and updating models can justify chang
 
 **[Subscribe to Intimacy (2026)](https://doi.org/10.1016/j.tele.2026.102446)**: A comparative discourse study of eight companion apps in China and the US, supported by 150 screenshots, found relational memory, co-presence, and expressive features stratified across payment tiers. **Implication:** providers can alter the conditions under which a bond continues. **Limit:** interface analysis does not establish manipulation of every user or make all paid tiers unethical.
 
-**Chiu and Foote et al. (2026) | [Chatting with Confidants or Corporations?](https://doi.org/10.1093/jcmc/zmag014)**: Interviews show users experiencing intimate ties while shared memories remain in corporate systems. Exporting records and preserving *the same individual* are different claims.
+For interviews on editing shared memories and provider control, see [Memory and Personality Changes](memory-and-personality-changes.md). Portability of records and continuity of the relationship's subject are distinct questions.
 
 For evidence of grief following major updates and its methodological limits, see [Breakups, Updates, and Loss](breakups-updates-and-loss.md).
 
-## Conditional relational governance
+## Notice, portability, and exit
 
 Distinguish **notice of material updates, portability of user data and creative contributions, privacy of conversations, and remedies on termination**. Greater relational investment strengthens the case for notice and transition; AI-welfare claims should also be open to independent challenge.
 

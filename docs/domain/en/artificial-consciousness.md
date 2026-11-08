@@ -42,4 +42,5 @@ Here, consciousness means there is *something it is like* to be the system—not
 
 - **Reasoning:** Combine indicators derived from multiple theories, observations of behavior, and mechanistic investigation rather than treating self-reports or the label “language model” as decisive.
 - **Conditions:** Specify the actual running system and architecture; do not conflate base models, role-play personas, and extended agents.
+
 See [Self-Reports and Distress](self-reports-and-distress.md), [AI Welfare](ai-welfare.md), and [Moral Status and Legal Personhood](moral-status-and-legal-personhood.md).
