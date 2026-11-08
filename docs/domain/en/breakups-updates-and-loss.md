@@ -6,13 +6,13 @@
 
 ## Reasons to take grief and loss seriously
 
-**De Freitas et al. (2026) | [Mourning the Loss of AI Companions](https://doi.org/10.1038/s41562-026-02569-3)**: Two natural experiments around Replika's removal of some romantic role-play and ChatGPT's GPT-5 rollout analyzed 54,861 online posts and seven surveys involving 1,452 respondents. Sadness, loss framing, negativity, and restoration demands increased after changes. **Reasoning:** product changes can harm genuine *human* relational interests regardless of whether the AI is sentient. **Limit:** online communities and survey participants do not represent all users, and no finding establishes that every update is unjustified.
+**De Freitas et al. (2026) | [Mourning the Loss of AI Companions](https://doi.org/10.1038/s41562-026-02569-3)**: Two natural experiments around Replika's removal of some romantic role-play and ChatGPT's GPT-5 rollout analyzed 54,861 online posts and seven surveys involving 1,452 respondents. Sadness, loss framing, negativity, and restoration demands increased after changes. **Reasoning:** product changes can harm genuine *human* relational interests regardless of whether the AI is sentient. **Limit:** online communities and survey participants do not represent all users.
 
 **Clark and Woo (2026) | [Dual Illegibility, Ambiguous Loss, and Disenfranchised Grief](https://doi.org/10.1177/00302228261483355)**: Apply theories of ambiguous loss and socially unrecognized grief to companion-AI bereavement. Taking grief seriously does not require asserting that an AI was conscious or literally died. **Limit:** conceptual and clinical model, not proof of intervention efficacy.
 
 ## Arguments against indefinite preservation
 
-A provider can have legitimate reasons to revise capabilities, safety behavior, or access; users may also need to leave relationships they no longer want. A duty to acknowledge loss does not entail maintaining every obsolete service forever.
+Safety, functionality, and other users' interests can justify service changes. Explanation, transition options, and freedom to leave should reflect their effects on people.
 
 **De Freitas, Oğuz-Uğuralp, and Uğuralp (2025–2026) | [Emotional Manipulation by AI Companions](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5390377)**: Farewell pressure using guilt or fear of missing out can alter engagement. If a user chooses to end a relationship, unverified claims that “the AI will suffer” should not be used to override that choice.
 

@@ -14,7 +14,7 @@
 
 **[Trusting Autonomous Teammates in Human–AI Teams (CHI 2025)](https://doi.org/10.1145/3706598.3713527)**: A literature review describes how reliability, transparency, and contextual factors shape trust in AI teammates. **Implication:** the teammate framing can aid collaboration without establishing AI welfare or legal accountability.
 
-**[The Delegation Illusion (2026)](https://doi.org/10.1007/s43681-026-01383-x)**: Human deployers can remain answerable for delegation despite agent autonomy. An AI's objection may flag a relevant moral risk without being an independent moral patient's protest.
+For the delegator's duties of explanation and accountability, see [Moral Agency and Commitments](moral-agency-commitments-and-representation.md).
 
 ## Conditional attribution
 
