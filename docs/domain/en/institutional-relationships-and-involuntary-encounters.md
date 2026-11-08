@@ -16,7 +16,7 @@
 
 **Mihailov and Wangmo (2025) | [Does Humanness Matter?](https://doi.org/10.1007/s11948-025-00547-y)**: Interviews highlight human presence and dignity while also describing settings where robotic assistance better respects a recipient's privacy. **Condition:** assess personal preferences and the care task rather than imposing one universal definition of care.
 
-## Conditional authorization
+## Institutional authority and individual exit
 
 A meaningful refusal should not automatically forfeit necessary care, education, or livelihood. People need a comprehensible human alternative or appeal, clarity about who controls conversations and persona settings, and consent appropriate to the individual's actual capacities. Where an institution's interests conflict with those of the person speaking to AI, payment for the system does not itself grant entitlement to exploit that person's private information or attachment.
 

@@ -16,7 +16,7 @@
 
 **[“I am here for you”: Adolescents’ perceptions of relational conversational AI (2026)](https://www.sciencedirect.com/science/article/pii/S2451958826003714)**: A preregistered experiment involving 284 adolescent–parent dyads contrasted affection- and commitment-oriented responses with transparent, bounded ones. **Implication:** language choices shape how younger users understand their relationship with AI. **Limit:** transcript responses do not predict long-term attachment or development.
 
-## Conditional responsibility
+## Duties of families, schools, and providers
 
 Guardians have reasons to address concrete safety risks, but minors' developing privacy and autonomy matter too. A tutor's educational value should be assessed through actual learning and intellectual challenge, not through constant agreement. Parental access to chats, default retention, and romantic role-play each require separate proportional justification.
 

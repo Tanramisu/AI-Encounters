@@ -14,7 +14,7 @@ Navigation for disabled people, directions for visitors, and summarizing meeting
 
 **[Families' Vision of Generative AI Agents for Household Safety (2025)](https://doi.org/10.1145/3757598)**: Co-design with 13 parent–child dyads raises memory segregation, conversational consent, and selective sharing. **Condition:** cohabitation does not make every person's information freely available to whoever purchased the device. **Limit:** preferences do not establish legal rules or successful technical controls.
 
-## Conditional loyalty and responsibility
+## Bystander awareness and data interests
 
 **Mihailov and Wangmo (2025) | [Does Humanness Matter?](https://doi.org/10.1007/s11948-025-00547-y)** show that assistance can implicate contrasting dignity and privacy preferences, including those of people other than the primary recipient.
 

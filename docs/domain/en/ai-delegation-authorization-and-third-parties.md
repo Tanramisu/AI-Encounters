@@ -16,7 +16,7 @@
 
 **[Delegation to AI Can Increase Dishonest Behaviour (Nature, 2025)](https://www.nature.com/articles/s41586-025-09505-x)** shows that machine delegation can reduce the perceived moral cost of dishonest actions in experiments. Ease of execution does not justify concealment from counterparties.
 
-## Conditional authority and loyalty
+## Delegated authority and third-party interests
 
 Distinguish **disclosing representative status, proving permission, acknowledging third-party rights, and obtaining specific authorization for irreversible acts**. Loyalty to a paying principal does not give blanket permission to deceive, but an unlimited duty to advance every counterparty's interests would also conflict with legitimate representation.
 

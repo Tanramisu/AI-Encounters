@@ -20,7 +20,7 @@ AI may help people facing language barriers, strong emotion, or writing difficul
 
 **Direct relational outcomes | Levkovich and Alon (2026) | [Generative AI as a Third Voice in Human Couple Relationships](https://doi.org/10.1016/j.chbr.2026.101255):** A JBI/PRISMA systematic review of **21 studies from 11 countries across seven searched databases** investigated couple advice, conflict mediation, and AI-assisted communication. Users often experienced AI as empathic and some interventions reported short-term gains in satisfaction or communication, yet **the strongest controlled trial did not outperform an established reflective writing exercise**. **Condition:** measure benefits relative to realistic alternatives, not simply before/after satisfaction. **Limit:** heterogeneous designs and endpoints do not establish durable relationship improvement, nor do they prove all AI assistance ineffective.
 
-## Conditional assessment
+## When AI-assisted messages require disclosure
 
 Distinguish: editing a sender's actual views from secretly maintaining an entire relationship on their behalf; whether the recipient is materially misled about who is speaking; private third-party information; and the sender's ability to explain and own the message. Automated dating, delegated breakup, or presenting an AI as a real person raise stronger disclosure and responsibility concerns than spelling assistance.
 

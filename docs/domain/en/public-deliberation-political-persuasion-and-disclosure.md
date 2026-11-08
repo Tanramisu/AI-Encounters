@@ -24,7 +24,7 @@
 
 **Attitudes and real actions differ | Hackenburg, Hewitt et al. (2026) | [AI Can Persuade People to Take Political Actions](https://doi.org/10.1073/pnas.2611368123):** Two preregistered experiments in *PNAS* involved **14,779 UK adults and 17,950 participant sessions**. Rather than only asking opinions, the studies observed real petition signatures requiring a name and email, and donations from study compensation. Political AI dialogue significantly raised actual signing relative to nonpolitical conversation (**12.8 percentage points in Study 1; 19.7 percentage points in Study 2**). **Crucial counterpoint:** the size of an attitude shift did not reliably predict the size of a behavioral shift. **Limits:** paid short survey conversations and low-cost petition/donation actions are not long-term voting or large-scale real-world campaigns.
 
-## Conditional democratic boundaries
+## Disclosure of identity and purpose
 
 Distinguish **open debate, assisting real citizens, authorized representation, and persuasion concealed behind fake identities or sponsors**. AI involvement is not inherently illegitimate, but hidden control and impersonation can deprive others of information relevant to fair public deliberation. Claims should remain contestable, with real sponsors and controllers identifiable.
 
