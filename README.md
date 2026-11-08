@@ -4,7 +4,7 @@
 
 Ethical arguments for dilemmas in human–AI relationships, so readers can decide for themselves.
 
-Explore supporting, opposing, and conditional arguments drawn from philosophy and empirical research. Each topic connects claims to their original sources, underlying conditions, and points of disagreement.
+Explore philosophical arguments and empirical research with their original sources, relevant conditions, and substantive disagreements.
 
 - [Explore questions](docs/README.md)
 - [Contributing and documentation rules](AGENTS.md)

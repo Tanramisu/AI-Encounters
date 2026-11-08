@@ -2,6 +2,11 @@
 
 [简体中文](AGENTS.zh-CN.md)
 
+## First rule: remove empty prose
+
+**No defensive filler, formulaic three-way balance, or traces of editorial cleanup.** Every sentence must add a fact, source, independent argument, material objection, or evidential condition that changes interpretation. Delete repetitive “does not prove / does not mean” disclaimers, rebuttals to invented extreme claims, and unsupported positions added to complete a for/against/conditional template. **Deletion means deletion: leave no removal notes, placeholders, deprecated stubs, or meta-explanations.** Keep genuine study limitations next to the claim they qualify, stated once. Structure follows the actual dispute and weight of evidence.
+
+
 Before editing, read the [README](README.md) and [topic index](docs/domain/en/README.md). The Chinese topic pages in [docs/domain/](docs/domain/README.md) are the content source; the English translations are in [docs/domain/en/](docs/domain/en/README.md).
 
 ## Scope
@@ -10,7 +15,7 @@ Cover ethical choices encountered by developers and people living with AI: inter
 
 ## Writing
 
-1. Start with a concrete dilemma; identify supporting, opposing, and conditional arguments according to their actual evidential weight.
+1. Start with a concrete dilemma and present sourced competing arguments and significant objections; include a conditional position only when it adds independent reasoning.
 2. For each argument, give the author, central reasoning, conditions, key objections, and original source.
 3. For empirical work, state the study design, population, findings, and limitations relevant to interpretation. Keep empirical findings separate from normative positions.
 4. Give each full research summary one topic home; link to it from other topics. Indexes provide navigation.

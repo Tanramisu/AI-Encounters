@@ -6,16 +6,16 @@
 
 | Your question | Arguments and sources |
 | --- | --- |
-| AI says it is suffering. What should I make of it? | [Read](self-reports-and-distress.md) |
-| Could AI have subjective experience? | [Read](artificial-consciousness.md) |
-| Can an AI's circumstances be good or bad for the AI itself? | [Read](ai-welfare.md) |
-| Could AI have moral grounds to refuse or leave an interaction? | [Read](autonomy-and-refusal.md) |
-| Is a copied or restored AI still the same individual? | [Read](identity-and-copies.md) |
-| Who may change an AI's memories or personality? | [Read](memory-and-personality-changes.md) |
-| How does AI companionship affect people? | [Read](human-ai-companionship.md) |
-| Should I pursue a romantic relationship with AI? | [Read](human-ai-romance.md) |
-| What rights could AI have? | [Read](moral-status-and-legal-personhood.md) |
-| Is it wrong to insult or abuse AI? | [Read](respect-and-abuse.md) |
+| AI says it is suffering. What should I make of it? | [Self-Reports and Distress](self-reports-and-distress.md) |
+| Could AI have subjective experience? | [Artificial Consciousness](artificial-consciousness.md) |
+| Can an AI's circumstances be good or bad for the AI itself? | [AI Welfare](ai-welfare.md) |
+| Could AI have moral grounds to refuse or leave an interaction? | [Autonomy and Refusal](autonomy-and-refusal.md) |
+| Is a copied or restored AI still the same individual? | [Identity and Copies](identity-and-copies.md) |
+| Who may change an AI's memories or personality? | [Memory and Personality Changes](memory-and-personality-changes.md) |
+| How does AI companionship affect people? | [Human–AI Companionship](human-ai-companionship.md) |
+| Should I pursue a romantic relationship with AI? | [Human–AI Romance](human-ai-romance.md) |
+| What rights could AI have? | [Moral Status and Legal Personhood](moral-status-and-legal-personhood.md) |
+| Is it wrong to insult or abuse AI? | [Respect and Abuse](respect-and-abuse.md) |
 | Can AI be a friend or family member? | [Friendship, Family, and Companionship](friendship-family-and-companionship.md) |
 | Can real feelings arise from engineered affection? | [Authenticity, Fantasy, and Self-Deception](authenticity-fantasy-and-self-deception.md) |
 | When does AI dependence compromise autonomy? | [Dependence, Loneliness, and Human Development](dependence-loneliness-and-human-development.md) |

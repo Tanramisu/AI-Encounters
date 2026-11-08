@@ -4,9 +4,9 @@
 
 **Dilemma:** Providers can rewrite personalities, change subscription gates, inspect private records, and retire a character, while users may regard the relationship as a lasting commitment. How should product control and genuine human interests be reconciled?
 
-## For legitimate platform changes
+## Grounds and duties for platform changes
 
-Operators have reasons to fix unreliable features, address harms, or update models; recognizing user attachment does not imply an obligation to run every old version forever. **Condition:** explain material changes and feasible transitions. If a provider invokes AI welfare to justify a change, that claim needs reasons rather than treating company interests as the AI's verified wishes.
+Repairing failures, addressing real harms, and updating models can justify changes. Providers should explain material effects, reasons, and feasible transitions. A provider citing AI welfare as its reason should offer grounds that affected parties can challenge.
 
 ## Against renting the conditions of intimacy without recourse
 
@@ -14,10 +14,10 @@ Operators have reasons to fix unreliable features, address harms, or update mode
 
 **Chiu and Foote et al. (2026) | [Chatting with Confidants or Corporations?](https://doi.org/10.1093/jcmc/zmag014)**: Interviews show users experiencing intimate ties while shared memories remain in corporate systems. Exporting records and preserving *the same individual* are different claims.
 
-**De Freitas et al. (2026) | [Mourning the Loss of AI Companions](https://doi.org/10.1038/s41562-026-02569-3)**: Natural-experiment and survey evidence documents users' grief after significant updates. **Limit:** this establishes human stakes, not indefinite rights to a particular model.
+For evidence of grief following major updates and its methodological limits, see [Breakups, Updates, and Loss](breakups-updates-and-loss.md).
 
 ## Conditional relational governance
 
-Distinguish **notice of material updates, portability of user data and creative contributions, privacy of conversations, and remedies on termination**. Long personal investment strengthens the case for justification and transition, not a requirement that products never change. Providers should not be the sole unchallenged interpreters of possible AI welfare.
+Distinguish **notice of material updates, portability of user data and creative contributions, privacy of conversations, and remedies on termination**. Greater relational investment strengthens the case for notice and transition; AI-welfare claims should also be open to independent challenge.
 
 Related: [Breakups, Updates, and Loss](breakups-updates-and-loss.md) and [Memory and Personality Changes](memory-and-personality-changes.md).
