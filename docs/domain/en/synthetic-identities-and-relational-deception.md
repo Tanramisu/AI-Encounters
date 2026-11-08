@@ -16,8 +16,8 @@ People may adopt avatars to avoid exposing their names, disabilities, identities
 
 **[Griefbots, Deadbots, Postmortem Avatars (2024)](https://doi.org/10.1007/s13347-024-00744-w)** shows that reconstructing a recognizable person without authorization implicates that person's identity interests even when the implementation is a new model.
 
-## Conditional distinction
+## Fictional identities and false factual claims
 
-Disclosed fantasy can be legitimate storytelling. Deliberately claiming to be human or to have firsthand experiences to extract trust, secrets, intimacy, or money implicates meaningful informed choice. **Not copying a specific real person** does not establish **the absence of deception about being human**.
+Disclosed fantasy can be legitimate storytelling. Deliberately claiming to be human or to have firsthand experiences to extract trust, secrets, intimacy, or money implicates meaningful informed choice.
 
 Related: [Authenticity and Self-Deception](authenticity-fantasy-and-self-deception.md) and [AI-Mediated Human Relationships](ai-mediated-human-relationships.md).

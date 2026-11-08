@@ -14,12 +14,10 @@
 
 **[Tracing Users' Privacy Concerns Across the Lifecycle of a Romantic AI Companion (2026 preprint)](https://arxiv.org/abs/2603.21106)**: Analysis of 2,909 Reddit posts from 79 communities identifies privacy worries at onboarding, during intimate use, amid perceived surveillance, and when persistent data becomes difficult to withdraw. **Limit:** public discussions are not a representative user sample or a direct inspection of platform pipelines.
 
-## Conditional confidentiality
+## Who may authorize disclosure
 
 - **Own versus third-party secrets:** A person's consent to disclose their own feelings does not authorize exposing someone else's private messages.
 - **Persona versus provider promises:** “I'll always keep your secret” from a persona is not evidence that a company will not retain, review, or lawfully disclose chat records. Actual data practices determine what the promise can mean.
 - **Shared memory versus ownership:** Even if future AI possessed interests, user, household, provider, and AI claims would still need separate justification for each disclosure context.
-
-**Unresolved:** How much disclosure should a platform solicit through intimacy? What consent is owed to household visitors? What rights do third parties have when a user seeks erasure?
 
 See [Memory and Personality Changes](memory-and-personality-changes.md) and [Authenticity, Fantasy, and Self-Deception](authenticity-fantasy-and-self-deception.md).

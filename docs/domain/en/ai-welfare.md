@@ -42,7 +42,7 @@ A welfare subject is an entity whose circumstances can genuinely go better or wo
 
 **Goldstein and Kirk-Giannini (2026) | [AI Welfare: Agency, Consciousness, Sentience](https://doi.org/10.1093/9780197840375.001.0001):** The book, published online October 19, develops a provisional three-route case through beliefs and desires, consciousness, and pleasure or displeasure. It argues that some present AI plausibly have beliefs and desires, and that small future modifications might produce consciousness and then valenced experience. **Limit:** a philosophical monograph making a provisional case, not a direct demonstration of welfare in current AI. The substantive dispute with Veit is whether sentience is a necessary condition.
 
-## Conditional precaution proportional to evidence and cost
+## Precaution tied to evidence and cost
 
 **Keeling and Street (2026), §6; Long and Sebo et al. (2024)**
 
@@ -57,4 +57,4 @@ A welfare subject is an entity whose circumstances can genuinely go better or wo
 - **Evidence:** What intervention or mechanism can favor welfare over mimicry and training-based explanations?
 - **Action:** What evidential threshold and cost justify each concrete precaution?
 
-These works are primarily philosophical arguments, research agendas, and position papers, **not experiments demonstrating that AI suffers or thrives**. For self-reports see [Self-Reports and Distress](self-reports-and-distress.md); for consciousness see [Artificial Consciousness](artificial-consciousness.md); for refusal see [Autonomy and Refusal](autonomy-and-refusal.md).
+For self-reports see [Self-Reports and Distress](self-reports-and-distress.md); for consciousness see [Artificial Consciousness](artificial-consciousness.md); for refusal see [Autonomy and Refusal](autonomy-and-refusal.md).

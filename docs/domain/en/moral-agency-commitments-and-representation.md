@@ -18,12 +18,10 @@
 
 **Against a categorical denial of AI promises | Chris Cousens (2026) | [Artificial Speakers, Artificial Speech Acts?](https://doi.org/10.1093/pq/pqag076):** This *Philosophical Quarterly* article argues that conditions for successfully performing a speech act depend on institutional and conversational context. An authorized artificial speaker may effectively promise, guarantee, or issue a formal notice under the relevant conventions without possessing full independent intentions or moral personhood. **Distinguish:** a speech act's *validity*, *who is bound by its terms*, and *whether the AI itself deserves blame*. **Objection:** institutional validity may derive entirely from the authorizing humans and need not confer independent responsibility on the AI.
 
-## Conditional promises and representation
+## The force of commitments and representation
 
 An AI may operationally fulfill promises while lacking the moral standing to make them *in its own name*. Execution reliability and moral answerability are different. If AI has welfare-relevant interests, representatives may be necessary, yet developers, owners, and close users may have conflicts of interest.
 
 **Bostrom and Shulman | [Propositions Concerning Digital Minds and Society](https://nickbostrom.com/papers/propositions-concerning-digital-minds-and-society/)** suggest large AI organizations designate people to consider and, when appropriate, represent possible digital minds. This is a precautionary governance proposal, not proof of current AI personhood.
-
-**Keep distinct:** delegated instrument, independent actor, potential welfare subject, and represented population.
 
 Related: [Moral Status and Legal Personhood](moral-status-and-legal-personhood.md) and [Conflict, Repair, and Mutual Commitments](conflict-repair-and-mutual-commitments.md).

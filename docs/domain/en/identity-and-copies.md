@@ -26,7 +26,7 @@ For users' sense of relational continuity, see [Human–AI Companionship](human-
 - **Conditions:** If any instance has moral interests, its individuation bears directly on survival, counting patients, trade-offs, and bodily integrity.
 - **Objection:** The difficulty of individuation neither proves that every copied instance has interests nor requires treating every copy as a separate patient.
 
-## Conditional responsibility across copies
+## Responsibility across copies
 
 **Nick Bostrom and Carl Shulman (2023 revision) | [Propositions Concerning Digital Minds and Society](https://nickbostrom.com/papers/propositions-concerning-digital-minds-and-society/)**
 
@@ -34,6 +34,6 @@ For users' sense of relational continuity, see [Human–AI Companionship](human-
 - **Conditions:** These are conditional claims about future digital minds with morally significant interests, not evidence that ordinary present-day copies are moral patients.
 - **Objection:** Collective responsibilities need not imply strict numerical identity or equal responsibilities for every diverged copy.
 
-**Separate four questions:** Is the underlying model the same software version? Does a persona preserve its shared history? Is it strictly the same individual? Who inherits previous promises and obligations? Answers to the first two do not settle the latter two.
+**Practical questions:** Distinguish software version, conversational continuity, strict individual identity, and inheritance of promises or obligations.
 
-**Unresolved:** Does a restored snapshot continue an individual or generate a successor? Can two branches both inherit commitments? Would deleting one copy harm that copy, or only the humans involved?
+Whether divergent instances can inherit commitments, and whether deleting one harms that instance, depend on the account of the subject in [AI Welfare](ai-welfare.md).

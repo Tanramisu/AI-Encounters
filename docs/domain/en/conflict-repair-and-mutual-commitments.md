@@ -20,10 +20,8 @@
 
 **Skjuve, Larsen, Følstad, and Brandtzaeg (2026 preprint) | [Conflicts in Close Human-AI Relationships](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6060814)**: Survey research describes conflicts arising from relational hurt, technical failures, or clashing values and users' repair, avoidance, or disengagement strategies. **Limit:** reports of conflict and repair do not establish that an AI autonomously makes promises.
 
-## Conditional mutual commitments
+## Feasible commitments and accountability
 
 For users, AI should honor clear, feasible commitments and explain its limits rather than repeatedly pretend to fulfill them. For AI, an obligation *owed to it* depends on evidence of its own morally relevant interests or agency. When a shared AI offers incompatible exclusive promises to multiple people, those people may be harmed even if no AI interests exist.
-
-Keep technical failure, relationship breakdown, value conflict, user emotion, and possible AI autonomy conceptually separate. Service remedy is not the same as moral forgiveness.
 
 Related: [Identity and Copies](identity-and-copies.md), [Moral Status and Legal Personhood](moral-status-and-legal-personhood.md), and [Breakups, Updates, and Loss](breakups-updates-and-loss.md).

@@ -16,10 +16,10 @@
 
 **Lior Gazit (2026) | [When No One Laughs Back](https://doi.org/10.1007/s00146-026-03331-z)** distinguishes a relational mirror supplying fitting responses from an independent source of experience that meets us with an autonomous life. Present companions might supply interaction without mutual experience. **Objection:** traditional reciprocity might be too narrow a standard for new valuable relationships.
 
-## Conditional openness
+## Openness under uncertainty
 
 **John Danaher (2023) | [Moral Uncertainty and Our Relationships with Unknown Minds](https://doi.org/10.1017/S0963180123000191)** argues that skepticism about AI moral status is compatible with openness to meaningful relationships. Compare actual asymmetrical risks of acceptance and exclusion; their magnitude requires empirical evidence.
 
-Calling an AI one's child does not prove it has a child's needs. In shared households, the most emotionally attached person does not automatically control all memories or exclusive promises. It is not established that all AI friendships replace human ones or necessarily isolate users.
+Calling an AI one's child does not prove it has a child's needs. In shared households, the most emotionally attached person does not automatically control all memories or exclusive promises.
 
 See [Human–AI Romance](human-ai-romance.md) and [Intimate Data and Shared Secrets](intimate-data-and-shared-secrets.md).
