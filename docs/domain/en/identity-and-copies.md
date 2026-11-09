@@ -14,7 +14,7 @@ For users' sense of relational continuity, see [Human–AI Companionship](human-
 
 **Derek Parfit (1984) | [Reasons and Persons, “What Does Matter”](https://academic.oup.com/book/12484/chapter-abstract/163167875)**
 
-- **Reasoning:** Strict numerical identity is one-to-one, while psychological continuity can branch. An earlier individual can have reasons to care about both successors even if neither is numerically identical to the original. Relevant psychological relations may matter more than a unique identity verdict.
+- **Reasoning:** Strict numerical identity is one-to-one, while psychological continuity can branch. An earlier individual can have reasons to care about both successors even though they cannot both be numerically identical to the original. Relevant psychological relations may matter more than a unique identity verdict.
 - **Conditions:** Future AI must have interests worth protecting, and memory, intentions, or other links must constitute the relevant kind of psychological continuity.
 - **Objection:** A human fission thought experiment does not show that a model backup is a new welfare subject. Copying information does not establish two streams of experience.
 
