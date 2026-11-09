@@ -14,7 +14,7 @@
 
 **[Persuading Voters Using Human–AI Dialogues (Nature, 2025)](https://doi.org/10.1038/s41586-025-09771-9)**: Randomized studies in the settings of three real elections found that political AI conversations could shift some participants' candidate preferences. **Implication:** AI is a meaningful political influence channel, making undisclosed objectives especially relevant. **Limit:** experimental influence is not proof of altering real election outcomes at scale.
 
-**[LLM-Generated Messages Can Persuade Humans on Policy Issues (Nature Communications, 2025)](https://doi.org/10.1038/s41467-025-61345-5)**: Three preregistered experiments (N=4,829) found shifts in policy attitudes from AI-written messages compared with neutral controls, broadly comparable to lay human writing. **Implication:** both human and AI political speech can influence views.
+**[LLM-Generated Messages Can Persuade Humans on Policy Issues (Nature Communications, 2025)](https://doi.org/10.1038/s41467-025-61345-5)**: Three preregistered experiments (N=4,829) found shifts in policy attitudes from AI-written messages compared with neutral controls, broadly comparable to lay human writing. **Implication:** whether a message was written by a human or AI does not, by itself, determine its persuasive effect.
 
 **[Testing Theories of Political Persuasion Using AI (PNAS, 2025)](https://doi.org/10.1073/pnas.2412815122)**: Some more elaborate customization and interaction conditions did not significantly outperform generic messaging. Avoid asserting that every use of personalization necessarily increases persuasion.
 
