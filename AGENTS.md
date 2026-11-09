@@ -6,7 +6,6 @@
 
 **No defensive filler, formulaic three-way balance, or traces of editorial cleanup.** Every sentence must add a fact, source, independent argument, material objection, or evidential condition that changes interpretation. Delete repetitive “does not prove / does not mean” disclaimers, rebuttals to invented extreme claims, and unsupported positions added to complete a for/against/conditional template. **Deletion means deletion: leave no removal notes, placeholders, deprecated stubs, or meta-explanations.** Keep genuine study limitations next to the claim they qualify, stated once. Structure follows the actual dispute and weight of evidence.
 
-
 Before editing, read the [README](README.md) and [topic index](docs/domain/en/README.md). The Chinese topic pages in [docs/domain/](docs/domain/README.md) are the content source; the English translations are in [docs/domain/en/](docs/domain/en/README.md).
 
 ## Scope
