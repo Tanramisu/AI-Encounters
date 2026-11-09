@@ -16,6 +16,6 @@
 
 **[The Ethics of Bioinspired Animal–Robot Interaction (2025)](https://www.sciencedirect.com/science/article/pii/S2666659625000125)** examines using robots that appear to be conspecifics to interact with real animals. **Condition:** assess the living animal's stress, choice, and welfare rather than only experimental efficiency.
 
-Human companionship benefits, living-animal welfare, cultural attitudes toward animals, and possible robot moral status are distinct. Lack of proven robot consciousness does not settle the first three.
+Human companionship benefits, living-animal welfare, cultural attitudes toward animals, and possible robot moral status are distinct. 
 
 Related: [Elder and Disability Care](elder-patient-and-disability-care.md) and [Respect and Abuse](respect-and-abuse.md).

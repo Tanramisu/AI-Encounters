@@ -25,6 +25,5 @@ For rights disputes in specific interactions: [Autonomy and Refusal](autonomy-an
 **Claudio Novelli, Luciano Floridi, Giovanni Sartor, and Gunther Teubner (2025) | [AI as Legal Persons: Past, Patterns, and Prospects](https://doi.org/10.1111/jols.70021)**
 
 - **Argument:** Shifts in legal-personhood debates depend on theories of legal personality, technical capacity, institutional integration, interactions among legal regimes, and precedent. The paper examines conditional pathways rather than an inevitable path to AI legal personality.
-- **Limit:** This is historical and legal-theoretical analysis, not evidence that AI already possesses general legal personhood.
 
 Related: [Artificial Consciousness](artificial-consciousness.md) · [AI Welfare](ai-welfare.md) · [Autonomy and Refusal](autonomy-and-refusal.md) · [Respect and Abuse](respect-and-abuse.md).

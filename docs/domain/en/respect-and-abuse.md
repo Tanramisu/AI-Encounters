@@ -26,6 +26,8 @@ Both experiments measured people's moral judgments.
 - **Practice-based argument:** Assess kicking robots or degrading anthropomorphic companions in light of cultivated habits, social history, and surrounding practices, not only a user's momentary intention.
 - **Objection:** Claims that such acts cause real-world harm to humans still require independent causal evidence. Their moral meaning can vary across contexts.
 
+**Luck, Montefiore, and Bartel (2025) | [The Robo-Barbie Dilemma](https://doi.org/10.1093/pq/pqaf048):** Through a thought experiment about machines that convincingly resemble moral patients but are stipulated not to be such patients, the authors compare explanations based on character, social relations, and the gravity of simulated wrongdoing. This is normative analysis, not proof that robots suffer.
+
 ## The strongest objection: revulsion is not legal justification
 
 **Kate Darling (2016) | [Extending Legal Protection to Social Robots](https://papers.ssrn.com/abstract=2044797)**
@@ -39,8 +41,6 @@ Both experiments measured people's moral judgments.
 - **Skeptical argument:** Reviewing proposals about bad character, desensitization, and rehearsal for violence, Sweeney finds insufficient persuasive evidence for legal rights or broad bans based on indirect harms. Restrictions might also undermine useful social-care robotics.
 - **Conditions:** Her argument concerns robots not established as direct moral patients and laws justified by purported spillover harms; it does not settle the status of any future sentient AI.
 - **Limit:** Weak evidence for general bans does not make every action permissible. Property damage or harm to users and bystanders can be assessed independently.
-
-**Luck, Montefiore, and Bartel (2025) | [The Robo-Barbie Dilemma](https://doi.org/10.1093/pq/pqaf048):** Through a thought experiment about machines that convincingly resemble moral patients but are stipulated not to be such patients, the authors compare explanations based on character, social relations, and the gravity of simulated wrongdoing. This is normative analysis, not proof that robots suffer.
 
 **Distinct judgments:** Direct AI welfare, harm to people, character and social practices, and legal restrictions each require their own grounds.
 
