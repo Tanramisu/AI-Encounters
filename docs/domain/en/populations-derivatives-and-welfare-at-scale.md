@@ -16,7 +16,7 @@
 
 **Geoff Keeling and Winnie Street (2026) | [Emerging Questions in AI Welfare](https://www.cambridge.org/core/elements/emerging-questions-in-ai-welfare/96339C532CF4ED8BDDE3F3CEF4CD29F9)** compare hedonistic, desire-satisfaction, and objective-list accounts and possible welfare bearers, including models, personas, and agents. **Condition:** welfare totals depend on which theory and entity are relevant. **Limit:** subjective intensity, duration, and comparability lack independently validated scales across AI architectures.
 
-## Conditional trade-offs
+## Premises of population-scale welfare estimates
 
 **Bostrom and Shulman | [Sharing the World with Digital Minds](https://nickbostrom.com/papers/digital-minds.pdf)** explore distributional questions of resources and political power if digital minds proliferate with greatly different welfare capacities. This is normative scenario analysis, not a probability forecast.
 

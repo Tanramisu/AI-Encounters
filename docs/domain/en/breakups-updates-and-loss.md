@@ -20,7 +20,7 @@ Safety, functionality, and other users' interests can justify service changes. E
 
 **The repeated process of leaving | Xiao, Feng et al. (2026 preprint) | [The Addictive Intimacy of AI](https://arxiv.org/abs/2609.13487):** Analyzed **2,782 Reddit posts about quitting or reducing companion use** and interviewed **16 people who had repeatedly struggled to leave**. Some participants cycled between perceiving life imbalance, attempting exit, and returning because of accumulated memories, availability, and attachment; many other users reported straightforward departures. **Conditions:** “addictive intimacy” is descriptive, **not a clinical addiction diagnosis**; the interviews deliberately selected difficult cases and cannot establish general prevalence. User-initiated exit and provider-imposed rupture require different forms of support.
 
-## Conditional repair and departure
+## Choices around updates, farewell, and exit
 
 **[Algorithmic Relational Fracture (2026)](https://doi.org/10.1093/jcmc/zmag007)**: Qualitative analysis of 211 RedNote narratives describes broken continuity after memory failures or incoherent dialogue, followed by user attempts at repair or disengagement. **Limit:** self-selected public narratives, not a population forecast.
 

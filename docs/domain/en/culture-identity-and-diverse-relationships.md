@@ -20,7 +20,7 @@ For linguistic and doctrinal differences in religious-question benchmarks, see [
 
 Using someone's language for accessibility, representing a fictional cultural role for learning, and falsely impersonating a real minority identity are distinct. **Objection to blanket restrictions:** forbidding style adaptation can itself reduce access to support.
 
-## Conditional fairness
+## Individual accommodation and group stereotypes
 
 Users should be able to select boundaries suited to their age, language, ability, and relationships, without using accommodation to justify harm to others. Cultural trends are variables to investigate, not fixed traits of every East Asian, Western, or minority user. Claims of fairness require evidence from the actual people and regions concerned.
 

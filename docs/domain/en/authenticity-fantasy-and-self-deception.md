@@ -18,7 +18,7 @@
 
 **Identity disclosure and user responses | Chen, Sun et al. (2026) | [Effects of AI Identity Disclosure on User Responses](https://doi.org/10.1016/j.im.2026.104411):** A meta-analysis of **62 papers, 98 data sets, and 262 effect sizes** found a **small negative overall effect** of AI-identity disclosure on user evaluations, attitudes, and behavior, with important participant and task-context moderators. **Strong objection:** compulsory disclosure can sometimes diminish valuable interactions. **Normative distinction:** preferences about disclosure and informed knowledge of a partner's identity are separate considerations.
 
-## Conditional distinction
+## Disclosing identities during fiction
 
 - **Disclosure:** An artificial identity, human operators, and engineered affection differ from explicitly fictional role-play identities.
 - **Imagination:** Consensual storytelling does not authorize claims outside the fiction that an AI literally suffers or loves, or guilt appeals for payment.

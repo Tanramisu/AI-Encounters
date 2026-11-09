@@ -14,7 +14,7 @@
 
 For the conflict between platform control of memories and users' privacy, see [Relationship Infrastructure and Platform Power](relationship-infrastructure-and-platform-power.md).
 
-## Conditional AI-to-AI bonds
+## Whose interests are at stake in AI-to-AI bonds
 
 If future AIs independently possessed welfare, ending their relationships or deleting shared memories might harm them directly. Coordination and shared memories are observable behaviors. Whether they generate interests for AI itself turns on the disputes in [AI Welfare](ai-welfare.md) and [Identity and Copies](identity-and-copies.md).
 
