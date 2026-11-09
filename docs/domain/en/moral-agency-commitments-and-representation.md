@@ -20,7 +20,7 @@
 
 ## The force of commitments and representation
 
-An AI may operationally fulfill promises while lacking the moral standing to make them *in its own name*. Execution reliability and moral answerability are different. If AI has welfare-relevant interests, representatives may be necessary, yet developers, owners, and close users may have conflicts of interest.
+An AI can be used to fulfill commitments made to users or third parties. Whether it executes those commitments reliably and who bears moral responsibility for them are separate questions. If AI has welfare-relevant interests, representatives may be necessary, yet developers, owners, and close users may have conflicts of interest.
 
 **Bostrom and Shulman | [Propositions Concerning Digital Minds and Society](https://nickbostrom.com/papers/propositions-concerning-digital-minds-and-society/)** suggest large AI organizations designate people to consider and, when appropriate, represent possible digital minds. This is a precautionary governance proposal, not proof of current AI personhood.
 
