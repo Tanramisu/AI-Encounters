@@ -2,9 +2,16 @@
 
 [简体中文](AGENTS.zh-CN.md)
 
-## First rule: remove empty prose
+## First rule: writing failures to eliminate
 
-**No defensive filler, formulaic three-way balance, or traces of editorial cleanup.** Every sentence must add a fact, source, independent argument, material objection, or evidential condition that changes interpretation. Delete repetitive “does not prove / does not mean” disclaimers, rebuttals to invented extreme claims, and unsupported positions added to complete a for/against/conditional template. **Deletion means deletion: leave no removal notes, placeholders, deprecated stubs, or meta-explanations.** Keep genuine study limitations next to the claim they qualify, stated once. Structure follows the actual dispute and weight of evidence.
+**Keep facts, arguments, and evidential limits that change interpretation. Fix the following problems in the text itself; never compensate with additional explanations:**
+
+- **Defensive filler:** Repeated “does not prove / does not mean” rebuttals to extreme claims nobody made, or closing disclaimers already covered in the argument. State a material objection or scope limit once, alongside the claim it qualifies.
+- **Artificial balance and empty conclusions:** Inventing positions or equal-length sections to fill a for/against/conditional template, or ending with “consider all factors” instead of a judgment. Let actual disagreements and evidential weight determine sections, headings, and conclusions; merge or delete conditional sections without independent reasoning.
+- **Evidence substitution:** Turning interviews, attitude ratings, short-term intentions, or correlations into population rates, long-term outcomes, or causal effects; treating a normative proposal as an empirical finding or attributing an editor's inference to an author. Report what a study actually measured and found.
+- **One study, multiple homes:** Repeating a study's design, sample, and results across topics or restating the same principle in multiple endings. Keep one full summary in its most relevant topic; elsewhere add only the topic-specific inference and a link.
+- **Damage during cleanup:** Losing unique facts, sources, or navigation; leaving truncated conclusions, orphaned labels, or empty sections; or causing Chinese and English arguments, numbers, or scope to diverge. Reread the affected paragraphs and complete pages; check sources, relative links, and both languages.
+- **Editorial residue:** Deletion is final. Leave no “removed” notices, instructions not to write something here, review notes, deprecated stubs, placeholders, or explanations of deleted text.
 
 Before editing, read the [README](README.md) and [topic index](docs/domain/en/README.md). The Chinese topic pages in [docs/domain/](docs/domain/README.md) are the content source; the English translations are in [docs/domain/en/](docs/domain/en/README.md).
 
@@ -14,7 +21,7 @@ Cover ethical choices encountered by developers and people living with AI: inter
 
 ## Writing
 
-1. Start with a concrete dilemma and present sourced competing arguments and significant objections; include a conditional position only when it adds independent reasoning.
+1. Start with a concrete dilemma and organize sourced arguments and significant objections by their actual evidential strength.
 2. For each argument, give the author, central reasoning, conditions, key objections, and original source.
 3. For empirical work, state the study design, population, findings, and limitations relevant to interpretation. Keep empirical findings separate from normative positions.
 4. Give each full research summary one topic home; link to it from other topics. Indexes provide navigation.
