@@ -23,16 +23,16 @@ For users' sense of relational continuity, see [Human–AI Companionship](human-
 **Christopher Register (2025) | [Individuating Artificial Moral Patients](https://doi.org/10.1007/s11098-025-02409-6)**
 
 - **Reasoning:** Even supposing artificial moral patients are possible, multiple instances of the same model may be one patient or many. Existing identity accounts do not settle the boundaries of consciousness, information sharing, physical implementation, and levels of abstraction.
-- **Conditions:** If any instance has moral interests, its individuation bears directly on survival, counting patients, trade-offs, and bodily integrity.
+- **Conditions:** If AI has interests of its own, identifying how many individuals exist and which instances they are is necessary to assess the moral costs of copying, replacing, shutting down, or transferring benefits.
 - **Objection:** The difficulty of individuation neither proves that every copied instance has interests nor requires treating every copy as a separate patient.
 
 ## Responsibility across copies
 
 **Nick Bostrom and Carl Shulman (2023 revision) | [Propositions Concerning Digital Minds and Society](https://nickbostrom.com/papers/propositions-concerning-digital-minds-and-society/)**
 
-- **Reasoning:** Related AI instances could sometimes share collective rights and responsibilities. Their ability to reproduce may magnify the problem of engineered consent.
-- **Conditions:** These are conditional claims about future digital minds with morally significant interests, not evidence that ordinary present-day copies are moral patients.
-- **Objection:** Collective responsibilities need not imply strict numerical identity or equal responsibilities for every diverged copy.
+- **Reasoning:** Related AI instances might share rights and responsibilities depending on the actual relations between instances. Mass copying could also magnify the problem of consent shaped by design.
+- **Conditions:** The relevant digital minds have morally significant interests, and the links between copies matter to how responsibility should be allocated.
+- **Objection:** These are normative proposals about future digital minds, not empirical findings about current products, legal personhood, or consciousness in copied instances.
 
 **Practical questions:** Distinguish software version, conversational continuity, strict individual identity, and inheritance of promises or obligations.
 
