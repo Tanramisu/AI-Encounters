@@ -16,7 +16,7 @@
 
 **[Ethical Considerations in the Use of Social Robots for Supporting Mental Health… (2025)](https://pmc.ncbi.nlm.nih.gov/articles/PMC11994439/)** identifies access inequity, consent, substitution of human care, and infantilization in long-term care. **Limit:** ethical case analysis does not establish that robotic assistance necessarily increases isolation.
 
-## Conditional allocation
+## Consent by care task
 
 Consent separately to task assistance, emotional companionship, monitoring, and physical restraint. Cognitive decline does not erase all decision-making capacity in every domain. Robotics may expand autonomy while also enabling surveillance or institutional neglect; compare actual user preferences, available alternatives, and measurable outcomes rather than deciding by whether the robot resembles a human.
 

@@ -16,7 +16,7 @@ A user may reasonably choose voice, appearance, or behavior for accessibility an
 
 **[The A(I) Team (2025)](https://doi.org/10.1002/job.70009)**: Three randomized studies (total N=1,155) examined how anthropomorphism and gendered traits shape initial trust and willingness to work with AI teammates. **Implication:** presentation affects trust and allocation even if the AI lacks welfare. **Limit:** immediate evaluations are not long-term workplace outcomes.
 
-## Conditional fairness
+## Personalization and product defaults
 
 Differentiate elective role-play, product-wide defaults, and demonstrable consequences for human groups. Accessibility accommodation for disabled users and minorities should be assessed by substantive opportunity and usability, not merely matching labels.
 

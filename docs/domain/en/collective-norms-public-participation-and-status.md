@@ -16,7 +16,7 @@
 
 **[AI as Legal Persons: Past, Patterns, and Prospects (2025)](https://doi.org/10.1111/jols.70021)** analyzes legal personality as a divisible institution of specified rights and responsibilities. **Condition:** actual political powers and accountable representation must be argued for, not inferred from fluent speech.
 
-## Conditional participation
+## Social participation versus political standing
 
 AI used to summarize or simulate views, AI claiming its own interests, AI acquiring legal standing, and AI receiving voting rights are distinct proposals. Humans marginalized for having AI relationships may have claims grounded in their own dignity and equality even without proof of AI consciousness.
 

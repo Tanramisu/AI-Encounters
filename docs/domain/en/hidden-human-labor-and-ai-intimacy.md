@@ -16,7 +16,7 @@
 
 **[Towards an Experiential Ethics of AI and Robots (2025)](https://www.sciencedirect.com/science/article/pii/S0040162525002951)** synthesizes hidden work, emotional entanglement, shifted responsibility, and transparency problems across empirical research.
 
-## Conditional transparency
+## Disclosing live intervention and backstage labor
 
 Live humans actually speaking in an AI's persona create different consent issues from offline annotation or ordinary maintenance. Distinguish whether private conversations are watched in real time; do not assert without evidence that all AI romances are human-operated.
 

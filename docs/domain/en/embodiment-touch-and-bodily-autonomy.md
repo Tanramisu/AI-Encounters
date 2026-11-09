@@ -16,7 +16,7 @@
 
 A robot's friendliness does not authorize unsolicited touching. Owning the device, permitting routine assistance, agreeing to a hug, and consenting to physical restraint are different acts.
 
-## Conditional autonomy
+## Consent to touch and withdrawal
 
 Specify whose body, what action, when it happens, and how consent can be withdrawn. A patient's silence, especially where communication is impaired, is not sufficient evidence of agreement. Affection for a robot may matter to human welfare, but does not by itself establish an AI right to bodily integrity; that requires a distinct moral-patient argument.
 

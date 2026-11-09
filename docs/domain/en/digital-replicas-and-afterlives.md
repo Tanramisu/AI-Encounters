@@ -16,7 +16,7 @@
 
 **[Synthetic Afterlives: Deathbots as Affective Infrastructures of Memory (2025)](https://doi.org/10.1017/mem.2025.10013)** analyzes how commercial afterlife platforms turn complex memories into interactive products. Its criticism of commercialization does not show that every transparent, consented memorial interaction is wrong.
 
-## Conditional boundaries
+## Authorization and survivors' privacy
 
 Distinguish **prior authorization, data inheritance, third-party privacy, living users' agency, and revocable access**. A model saying “I forgive you” is not proof of the deceased person's posthumous wishes. Account inheritance is not automatic moral authority to reconstruct someone's romantic promises. Simulating the younger identity of a person living with dementia must not eclipse that person's present dignity and choices.
 

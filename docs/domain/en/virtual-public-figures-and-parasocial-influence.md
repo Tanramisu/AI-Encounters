@@ -16,7 +16,7 @@
 
 **[Artificial Yet Credible (2025)](https://doi.org/10.1016/j.jbusres.2025.115940)** distinguishes authenticity of the virtual persona from credibility of messages, product claims, and endorsed values. **Implication:** disclosing “virtual influencer” does not establish that every claim is true.
 
-## Conditional disclosure and attribution
+## Advertising and identity disclosure
 
 Support synthetic creative figures and voluntarily chosen parasocial ties while distinguishing fiction from product testing, advertiser control, and impersonation of real performers. Fan investment may justify explanations around major persona changes but does not automatically confer ownership. Public and political positions expressed by a character should remain attributable to those actually controlling and authorizing it.
 
