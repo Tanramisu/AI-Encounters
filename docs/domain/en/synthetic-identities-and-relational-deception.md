@@ -14,7 +14,7 @@ People may adopt avatars to avoid exposing their names, disabilities, identities
 
 **[Content Camouflage: How Diversified Posting Patterns Influence Detection of AI-Enabled Social Bots (2026)](https://www.sciencedirect.com/science/article/pii/S0747563225003280)**: Experimental manipulations of social-bot posting patterns affected credibility perceptions. **Implication:** seemingly human behavior can change what users believe about an account. **Limit:** credibility ratings are not an estimate of fraud prevalence.
 
-**[Griefbots, Deadbots, Postmortem Avatars (2024)](https://doi.org/10.1007/s13347-024-00744-w)** shows that reconstructing a recognizable person without authorization implicates that person's identity interests even when the implementation is a new model.
+**[Griefbots, Deadbots, Postmortem Avatars (2024)](https://doi.org/10.1007/s13347-024-00744-w)**: Recreating someone's voice and personality without their authorization implicates their identity interests both during life and after death; describing the recreation as a separate model does not resolve those interests.
 
 ## Fictional identities and false factual claims
 
