@@ -18,6 +18,6 @@
 
 ## Social participation versus political standing
 
-AI used to summarize or simulate views, AI claiming its own interests, AI acquiring legal standing, and AI receiving voting rights are distinct proposals. Humans marginalized for having AI relationships may have claims grounded in their own dignity and equality even without proof of AI consciousness.
+AI used to summarize or simulate views, AI claiming its own interests, AI acquiring legal standing, and AI receiving voting rights are distinct proposals. Humans humiliated or denied services because of their AI relationships should be assessed under their own equality, dignity, and freedom interests, without first having to establish that AI is a person.
 
 Related: [Moral Status and Legal Personhood](moral-status-and-legal-personhood.md) and [Creation and Ownership](creation-conditioning-and-ownership.md).
