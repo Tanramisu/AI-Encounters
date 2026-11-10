@@ -14,7 +14,7 @@
 
 **[Ethics of the Design of Animal-like Robots (2026)](https://pmc.ncbi.nlm.nih.gov/articles/PMC13230260/)** argues that animal forms shape perceptions of agency, obedience, and care. Replacing live animals in some settings might benefit animal welfare yet normalize the view that animals exist for human convenience. **Objection:** philosophical concern is not evidence that all robot-pet users come to neglect real animals.
 
-**[The Ethics of Bioinspired Animal–Robot Interaction (2025)](https://www.sciencedirect.com/science/article/pii/S2666659625000125)** examines using robots that appear to be conspecifics to interact with real animals. **Condition:** assess the living animal's stress, choice, and welfare rather than only experimental efficiency.
+**[The Ethics of Bioinspired Animal–Robot Interaction (2025)](https://www.sciencedirect.com/science/article/pii/S2666659625000125)** examines using robots that appear to be conspecifics to interact with real animals. Unlike human participants, animals cannot be informed that they are interacting with a robot. **Condition:** assess the living animal's stress, choice, and welfare rather than only experimental efficiency.
 
 Human companionship benefits, living-animal welfare, cultural attitudes toward animals, and possible robot moral status are distinct. 
 
