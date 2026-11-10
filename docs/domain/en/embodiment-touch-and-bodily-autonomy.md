@@ -18,6 +18,6 @@ A robot's friendliness does not authorize unsolicited touching. Owning the devic
 
 ## Consent to touch and withdrawal
 
-Specify whose body, what action, when it happens, and how consent can be withdrawn. A patient's silence, especially where communication is impaired, is not sufficient evidence of agreement. Affection for a robot may matter to human welfare, but does not by itself establish an AI right to bodily integrity; that requires a distinct moral-patient argument.
+Specify whose body, what action, where on the body, when it happens, and how consent can be withdrawn. For patients who cannot clearly communicate consent, assess their actual communicative abilities and immediate responses rather than treating silence as permission. Affection for a robot may matter to human welfare, but does not by itself establish an AI right to bodily integrity; that requires a distinct moral-patient argument.
 
 Related: [Elder, Patient, and Disability Care](elder-patient-and-disability-care.md) and [AI Welfare](ai-welfare.md).
