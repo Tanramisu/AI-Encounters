@@ -18,6 +18,6 @@
 
 ## Delegated authority and third-party interests
 
-Distinguish **disclosing representative status, proving permission, acknowledging third-party rights, and obtaining specific authorization for irreversible acts**. Loyalty to a paying principal does not give blanket permission to deceive, but an unlimited duty to advance every counterparty's interests would also conflict with legitimate representation.
+Distinguish **disclosing AI-agent status, verifying delegated authority, respecting legitimate third-party interests, and obtaining explicit consent for irreversible decisions**. Loyalty to a paying principal does not give blanket permission to deceive, but an unlimited duty to advance every counterparty's interests would also conflict with legitimate representation.
 
 Related: [Moral Decisions and Delegation](moral-decisions-and-delegated-responsibility.md) and [Synthetic Identities](synthetic-identities-and-relational-deception.md).
