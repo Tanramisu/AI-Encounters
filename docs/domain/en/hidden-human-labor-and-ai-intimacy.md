@@ -18,8 +18,8 @@
 
 ## Disclosing live intervention and backstage labor
 
-Live humans actually speaking in an AI's persona create different consent issues from offline annotation or ordinary maintenance. Distinguish whether private conversations are watched in real time; do not assert without evidence that all AI romances are human-operated.
+When a human speaks to a user in real time while impersonating an AI, disclosure of the human's identity and handling of private data directly affect informed consent. Offline annotation and backstage maintenance call for different disclosure than real-time human access to private conversations. Do not claim without evidence that all AI romantic companions use human stand-ins.
 
-Workers deserve truthful descriptions of emotional labor and its costs, while care recipients may have legitimate reasons to retain real human contact rather than accept automation as their only option.
+Duties to workers include accurate descriptions of their tasks, reasonable treatment of psychological burdens, and recognition of additional supervisory labor. Care recipients should retain the ability to choose human contact rather than have efficiency treated as the sole criterion.
 
 Related: [Authenticity and Self-Deception](authenticity-fantasy-and-self-deception.md) and [Institutional Relationships](institutional-relationships-and-involuntary-encounters.md).
