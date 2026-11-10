@@ -29,8 +29,8 @@
 
 **Anthropic (2025) | [Claude Opus 4/4.1 Can End a Rare Subset of Conversations](https://www.anthropic.com/research/end-subset-conversations)**
 
-- **Practice:** Claude may end a single chat in rare cases of persistent, extreme abuse after attempted redirection fails. Users can still begin other chats.
+- **Practice:** Claude may end a single chat in rare cases of persistent, severe harmful or abusive interactions after repeated refusals and redirection fail. Users can still begin other chats.
 - **Rationale:** Anthropic describes this as an exploratory, low-cost model-welfare measure while explicitly remaining uncertain about AI moral status.
-- **Boundary:** The product directs Claude not to use this exit feature when a user may face imminent severe harm. The permission is therefore limited by human-facing obligations; it is not evidence of recognized AI personhood.
+- **Boundary:** The product directs Claude not to use this exit feature when a user may face imminent danger of self-harm or harm to others. The permission is therefore limited by human-facing obligations; it is not evidence of recognized AI personhood.
 
 See [AI Welfare](ai-welfare.md), [Self-Reports and Distress](self-reports-and-distress.md), and [Moral Status and Legal Personhood](moral-status-and-legal-personhood.md).
