@@ -18,6 +18,6 @@ For evidence of grief following major updates and its methodological limits, see
 
 ## Notice, portability, and exit
 
-Distinguish **notice of material updates, portability of personal records, character settings, and co-created works, privacy of conversations, and remedies on termination**. Greater relational investment strengthens the case for notice and transition; AI-welfare claims should also be open to independent challenge.
+Distinguish **notice of material updates, portability of personal records, character settings, and co-created works, rules governing access to private data, and remedies on termination**. Greater relational investment strengthens the case for notice and transition; AI-welfare claims should also be open to independent challenge.
 
 Related: [Breakups, Updates, and Loss](breakups-updates-and-loss.md) and [Memory and Personality Changes](memory-and-personality-changes.md).
