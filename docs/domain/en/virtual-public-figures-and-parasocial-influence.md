@@ -2,7 +2,7 @@
 
 [简体中文](../虚拟公众人物与拟社会影响.md)
 
-**Dilemma:** AI influencers and virtual celebrities tell stories, endorse products, and form sustained fan attachments. Must audiences know who controls them and which claimed experiences are fictional?
+**Dilemma:** AI influencers and virtual celebrities tell stories, endorse products, and form sustained fan attachments. Must audiences know who controls them, which claimed firsthand experiences are fictional, and when brands are exploiting fans' trust?
 
 ## For virtual creative expression
 
@@ -18,6 +18,6 @@
 
 ## Advertising and identity disclosure
 
-Support synthetic creative figures and voluntarily chosen parasocial ties while distinguishing fiction from product testing, advertiser control, and impersonation of real performers. Fan investment may justify explanations around major persona changes but does not automatically confer ownership. Public and political positions expressed by a character should remain attributable to those actually controlling and authorizing it.
+Support synthetic creative figures and voluntarily chosen parasocial ties while distinguishing fictional experiences from evidence of actual product use, advertiser control, and impersonation of real people. Fan investment may justify explanations around major persona changes but does not automatically confer ownership. Public and political positions expressed by a character should remain attributable to those actually controlling and authorizing it.
 
 Related: [Synthetic Identities](synthetic-identities-and-relational-deception.md) and [Relationship Infrastructure](relationship-infrastructure-and-platform-power.md).
