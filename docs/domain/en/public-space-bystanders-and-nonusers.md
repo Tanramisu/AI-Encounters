@@ -2,7 +2,7 @@
 
 [简体中文](../公共空间旁观者与非用户.md)
 
-**Dilemma:** Public robots, smart-home cameras, meeting assistants, and wearable AI observe people who never selected the service. What choice and remedy should bystanders have?
+**Dilemma:** Public robots, smart-home cameras, meeting assistants, and wearable AI record and analyze people who never selected the service. How can bystanders refuse or seek remedies?
 
 ## For useful environmental assistance
 
@@ -16,7 +16,7 @@ Navigation for disabled people, directions for visitors, and summarizing meeting
 
 ## Bystander awareness and data interests
 
-**Mihailov and Wangmo (2025) | [Does Humanness Matter?](https://doi.org/10.1007/s11948-025-00547-y)** show that assistance can implicate contrasting dignity and privacy preferences, including those of people other than the primary recipient.
+**Mihailov and Wangmo (2025) | [Does Humanness Matter?](https://doi.org/10.1007/s11948-025-00547-y)** discuss how bodily assistance and human contact in care may involve different dignity and privacy interests. **Implication:** serving one person with a robot also requires attention to the boundaries of others present.
 
 Separate active users, bystanders, and particularly vulnerable people. Ask whether ongoing tracking is required, whether processing can remain ephemeral, and whether affected people understand the observation. Declining a conversation, declining recording, and demanding the absence of all sensors are different claims.
 
