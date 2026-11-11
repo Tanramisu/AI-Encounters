@@ -14,7 +14,7 @@
 
 **[Artificial Intelligence, Emotional Labor, and the Quest for Sociological and Political Imagination (2025)](https://academic.oup.com/policyandsociety/article/44/1/116/7900406)**: Empirical and sociological work finds that failures of automation can move problem-solving and emotional labor back onto human workers. **Implication:** saying a robot has “taken over” does not demonstrate that work disappeared. **Limit:** findings vary by setting.
 
-**[Towards an Experiential Ethics of AI and Robots (2025)](https://www.sciencedirect.com/science/article/pii/S0040162525002951)** synthesizes hidden work, emotional entanglement, shifted responsibility, and transparency problems across empirical research.
+**[Towards an Experiential Ethics of AI and Robots (2025)](https://www.sciencedirect.com/science/article/pii/S0040162525002951)** synthesizes hidden work, emotional entanglement, shifted responsibility, and transparency problems across empirical research. **Condition:** examine both direct users and the people whose work keeps the system running.
 
 ## Disclosing live intervention and backstage labor
 
