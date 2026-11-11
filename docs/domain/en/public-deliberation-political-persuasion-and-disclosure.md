@@ -2,7 +2,7 @@
 
 [简体中文](../公共讨论政治劝服与知情.md)
 
-**Dilemma:** AI may help people understand public issues and reduce hostility, or covertly impersonate citizens and influence political views. The ethical distinction concerns identity, purpose, and informed participation, not merely persuasive effectiveness.
+**Dilemma:** AI may help people understand public issues and reduce hostility between groups, or pose as ordinary citizens and exert political influence in private conversations. The ethical distinction concerns identity, purpose, and whether the other person can knowingly refuse the interaction, not merely persuasive effectiveness.
 
 ## For understanding across disagreement
 
