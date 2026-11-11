@@ -12,12 +12,12 @@
 
 ## Against treating AI teammates as independently responsible
 
-**[Trusting Autonomous Teammates in Human–AI Teams (CHI 2025)](https://doi.org/10.1145/3706598.3713527)**: A literature review describes how reliability, transparency, and contextual factors shape trust in AI teammates. **Implication:** the teammate framing can aid collaboration without establishing AI welfare or legal accountability.
+**[Trusting Autonomous Teammates in Human–AI Teams (CHI 2025)](https://doi.org/10.1145/3706598.3713527)**: A literature review describes how reliability, transparency, and contextual factors shape trust in AI teammates. **Implication:** the teammate framing can aid collaboration without establishing that AI has interests of its own or bears legal responsibility.
 
 For the delegator's duties of explanation and accountability, see [Moral Agency and Commitments](moral-agency-commitments-and-representation.md).
 
 ## Contribution, credit, and interests
 
-Distinguish **factual contribution**, **professional recognition**, **enforceable legal rights**, and **possible AI welfare**. Fair credit does not require listing every model in every work, and “AI colleague” rhetoric must not hide the labor of people involved.
+Distinguish **factual contribution**, **professional recognition**, **enforceable legal rights**, and **possible AI moral interests**. Fair credit does not require listing every model in every work, and “AI colleague” rhetoric must not hide the labor of people involved.
 
 Related: [Hidden Human Labor](hidden-human-labor-and-ai-intimacy.md).
