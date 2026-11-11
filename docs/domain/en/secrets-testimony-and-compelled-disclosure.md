@@ -16,7 +16,7 @@
 
 **[From Prompt to Production (Colorado Lawyer, 2026)](https://cl.cobar.org/features/from-prompt-to-production/)** analyzes discovery, stored-communications restrictions, and privilege in US civil litigation. Relevant evidence can serve justice, while indiscriminate production of deeply personal chats may expose substantial unrelated information. **Limit:** doctrines vary by jurisdiction and proceeding.
 
-**[Federal Rule of Evidence 902](https://www.law.cornell.edu/rules/fre/rule_902)** distinguishes authentication from admissibility and reliability: showing that a log genuinely came from a system does not prove its output is true. **[Evidence Law’s AI Problem (Vanderbilt, 2026)](https://law.vanderbilt.edu/how-the-hearsay-rule-can-solve-evidence-laws-ai-problem/)** proposes applying hearsay doctrine to AI assertions that cannot be cross-examined; it is a scholarly proposal, not a universal operative rule.
+**[Federal Rule of Evidence 902](https://www.law.cornell.edu/rules/fre/rule_902)** distinguishes authentication from admissibility and reliability: showing that a log genuinely came from a system does not prove its output is true. An AI assertion that an event occurred is not itself evidence that the event occurred. **[Evidence Law’s AI Problem (Vanderbilt, 2026)](https://law.vanderbilt.edu/how-the-hearsay-rule-can-solve-evidence-laws-ai-problem/)** proposes applying hearsay doctrine to AI assertions that cannot be cross-examined; it is a scholarly proposal, not a universal operative rule.
 
 ## Admissibility and scope of AI conversation disclosure
 
