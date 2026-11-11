@@ -22,6 +22,6 @@ Using someone's language for accessibility, representing a fictional cultural ro
 
 ## Individual accommodation and group stereotypes
 
-Users should be able to select boundaries suited to their age, language, ability, and relationships, without using accommodation to justify harm to others. Cultural trends are variables to investigate, not fixed traits of every East Asian, Western, or minority user. Claims of fairness require evidence from the actual people and regions concerned.
+Users should be able to set boundaries compatible with their age, language, communication abilities, and way of life, without using accommodation to justify harm to others. Cultural trends are variables to investigate, not fixed traits of every East Asian, Western, or minority user. Claims of fairness require evidence from the actual people and regions concerned.
 
 Related: [Religion and Meaning](religion-spirituality-and-meaning.md) and [Authenticity and Self-Deception](authenticity-fantasy-and-self-deception.md).
