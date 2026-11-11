@@ -10,7 +10,7 @@
 
 ## Against a single-owner presumption
 
-**[Multi-User Large Language Model Agents (2026)](https://digitaleconomy.stanford.edu/publication/multi-user-large-language-model-agents/)** tests agents under conflicting users, privileges, and goals and finds unstable prioritization, multi-turn privacy violations, and coordination failures. **Ethical implication:** the most recent or powerful user should not automatically control another person's data. **Limit:** multi-principal task evaluations do not settle whether a companion AI has welfare.
+**[Multi-User Large Language Model Agents (2026)](https://digitaleconomy.stanford.edu/publication/multi-user-large-language-model-agents/)** tests agents under conflicting users, privileges, and goals and finds unstable prioritization, multi-turn privacy violations, and coordination failures. **Ethical implication:** the person who gave the latest instruction should not automatically gain greater authority to access, modify, or delete another person's confidential information. **Limit:** multi-principal task evaluations do not settle whether a companion AI has welfare.
 
 For the conflict between platform control of memories and users' privacy, see [Relationship Infrastructure and Platform Power](relationship-infrastructure-and-platform-power.md).
 
