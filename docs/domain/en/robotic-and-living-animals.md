@@ -6,7 +6,7 @@
 
 ## For companionship and reducing animal use
 
-**[Effect of a Robot Pet Companion on the Mood of Older Adults (2025/2026)](https://doi.org/10.1016/j.jagp.2025.12.007)**: A single-blind pilot randomized trial with 50 older-adult/caregiver dyads found possible psychosocial benefits over four weeks; robot pets also served as a focus of family interaction. **Condition:** recipients genuinely prefer this form of support. **Limit:** small pilot sample; no equivalent plush-toy or live-animal comparison.
+**[Effect of a Robot Pet Companion on the Mood of Older Adults (2025/2026)](https://doi.org/10.1016/j.jagp.2025.12.007)**: A single-blind pilot randomized trial with 50 older-adult/caregiver dyads found possible psychosocial benefits over four weeks; robot pets also served as a focus for conversations with family and friends. **Condition:** recipients are willing to choose this form of companionship. **Limit:** small pilot sample; no equivalent plush-toy or live-animal comparison.
 
 **[From Dogs to Robots: Pet-Assisted Interventions for Depression in Older Adults (2026)](https://pubmed.ncbi.nlm.nih.gov/41516969/)**: A network meta-analysis compares live- and robotic-animal interventions across randomized studies. **Implication:** evaluate outcomes rather than deciding by whether an intervention is alive. **Limit:** heterogeneity and study quality constrain comparisons.
 
