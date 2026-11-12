@@ -2,7 +2,7 @@
 
 [简体中文](../秘密证言与强制披露.md)
 
-**Dilemma:** People confide in AI and providers retain conversations. When litigation or investigation seeks disclosure, how should privacy, legitimate fact-finding, and concrete danger be balanced? Can a generated reply count as reliable testimony?
+**Dilemma:** People confide in AI and providers retain conversations. When litigation or investigation seeks disclosure, how should privacy, fairness in litigation, and concrete danger be balanced? Can a generated reply count as reliable testimony?
 
 ## For limited evidentiary use
 
