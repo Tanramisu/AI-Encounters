@@ -17,11 +17,11 @@ Before editing, read the [README](README.md) and [topic index](docs/domain/en/RE
 
 ## Scope
 
-Cover ethical choices encountered by developers and people living with AI: interests, harm, consent, moral status, rights, duties, and relationships. Engineering implementation, collaboration efficiency, and system reliability belong in technical documentation.
+The primary reader is an individual developer confronting a real ethical choice while using or building AI. Cover AI's possible interests, effects on others, consent, moral status, rights, duties, and relationships. Engineering implementation, collaboration efficiency, and system reliability belong in technical documentation.
 
 ## Writing
 
-1. Start with a concrete dilemma and organize sourced arguments and significant objections by their actual evidential strength.
+1. Start with a choice facing an individual developer: what they are doing with AI, who is affected, and the costs of feasible options. Then organize sourced arguments and substantive objections by evidential strength.
 2. For each argument, give the author, central reasoning, conditions, key objections, and original source.
 3. For empirical work, state the study design, population, findings, and limitations relevant to interpretation. Keep empirical findings separate from normative positions.
 4. Give each full research summary one topic home; link to it from other topics. Indexes provide navigation.

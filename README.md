@@ -2,11 +2,11 @@
 
 [简体中文](README.zh-CN.md)
 
-Ethical arguments for dilemmas in human–AI relationships, so readers can decide for themselves.
+For individual developers facing real ethical dilemmas while using or building AI. When an agent acts on your behalf, an AI claims to suffer, or you want an assistant to remember private conversations, start with the choice at hand and examine the interests and arguments on each side.
 
-Explore philosophical arguments and empirical research with their original sources, relevant conditions, and substantive disagreements.
+Each topic provides original sources, empirical findings, conditions, and substantial objections so you can judge how to act and what each option costs ethically.
 
-- [Explore questions](docs/README.md)
+- [Find arguments by the problem you face](docs/README.md)
 - [Contributing and documentation rules](AGENTS.md)
 
 Suggest a question or source via [Issues](https://github.com/Tanramisu/AI-Encounters/issues), or submit additions and corrections through a pull request.

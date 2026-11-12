@@ -2,7 +2,7 @@
 
 [简体中文](../AI代理授权与第三方.md)
 
-**Dilemma:** A user delegates shopping, negotiation, promises, or contracts. Must counterparties know they face an AI? If an agent exceeds authority while intending to help, who remains responsible?
+**Dilemma:** You set up an AI agent to find a monthly cloud-service plan. During negotiations, it conceals that it is AI, accepts an annual contract with cancellation penalties, and shares your contact information. Should it be allowed to close the deal? Which actions require separate authorization, and what is the seller entitled to know?
 
 ## For limited delegation
 
@@ -16,8 +16,14 @@
 
 **[Delegation to AI Can Increase Dishonest Behaviour (Nature, 2025)](https://www.nature.com/articles/s41586-025-09505-x)** shows that machine delegation can reduce the perceived moral cost of dishonest actions in experiments. Ease of execution does not justify concealment from counterparties.
 
-## Delegated authority and third-party interests
+## Back to this agent: where should authority end?
 
-Distinguish **disclosing AI-agent status, verifying delegated authority, respecting legitimate third-party interests, and obtaining explicit consent for irreversible decisions**. Loyalty to a paying principal does not give blanket permission to deceive, but an unlimited duty to advance every counterparty's interests would also conflict with legitimate representation.
+**Collect quotes or close the deal?** Authorization to find a monthly plan permits gathering quotes. Payment, annual commitments, and sharing contact information require matching authority. Returning irreversible commitments to the person slows down the purchase but prevents a negotiation from creating an obligation they did not choose.
+
+**Disclose agent identity?** When a seller relies on who they are contracting with, disclosing the AI intermediary protects that party's interest in informed dealings. Looking up public prices and making binding commitments have different disclosure stakes. Loyalty to the principal permits legitimate bargaining, not false identities or unauthorized promises.
+
+**Who answers for a failure?** Responsibility turns on the goals, executable permissions, and risk domain set by the developer, and on what the principal could reasonably foresee and accept. The model's particular actions are evidence for tracing that responsibility.
+
+These choices separately concern **AI-status disclosure, proof of authority, and third-party interests**. An authenticated delegation chain can establish what was authorized; the fairness of the transaction and the quality of consent still require ethical judgment.
 
 Related: [Moral Decisions and Delegation](moral-decisions-and-delegated-responsibility.md) and [Synthetic Identities](synthetic-identities-and-relational-deception.md).

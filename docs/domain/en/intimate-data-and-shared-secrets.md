@@ -2,7 +2,7 @@
 
 [简体中文](../私密数据与共同秘密.md)
 
-**Dilemma:** Someone tells an AI their own secrets, or a partner's or family member's, believing they have found a confidant. Yet the conversation is also data stored, analyzed, and governed by a provider. Who controls retention, use, deletion, and disclosure?
+**Dilemma:** You give your AI assistant long-term memory and plan to save client emails, friends' private messages, and your own intimate disclosures for later recall. Which material should persist? Who can view, delete, or transfer those memories to another AI service?
 
 ## For: disclosure and memory control can support autonomy
 
@@ -14,10 +14,12 @@
 
 **[Tracing Users' Privacy Concerns Across the Lifecycle of a Romantic AI Companion (2026 preprint)](https://arxiv.org/abs/2603.21106)**: Analysis of 2,909 Reddit posts from 79 communities identifies privacy worries at onboarding, during intimate use, amid perceived surveillance, and when persistent data becomes difficult to withdraw. **Limit:** public discussions are not a representative user sample or a direct inspection of platform pipelines.
 
-## Who may authorize disclosure
+## What should this assistant remember?
 
-- **Own versus third-party secrets:** A person's consent to disclose their own feelings does not authorize exposing someone else's private messages.
-- **Persona versus provider promises:** “I'll always keep your secret” from a persona is not evidence that a company will not retain, review, or lawfully disclose chat records. Actual data practices determine what the promise can mean.
-- **Shared memory versus ownership:** Even if future AI possessed interests, user, household, provider, and AI claims would still need separate justification for each disclosure context.
+- **Save everything automatically:** This best preserves conversational continuity but turns material not individually selected for retention into a searchable long-term profile. Dash et al.'s memory analysis illustrates the kinds of personal and psychological information involved.
+- **Let the person choose memory entries:** This keeps irrelevant secrets out of long-term storage but requires additional selection. Chiu, Foote et al.'s interviews describe selective disclosure and editing as privacy-management practices users actually employed.
+- **Use no cross-session memory:** This suits one-off tasks involving client or family information, at the cost of losing continuity in later conversations.
+
+**Who can authorize what?** Retaining one's own experiences, disclosing someone else's messages, and managing shared household history are distinct decisions. A person's permission covers their own interests; other people's secrets require appropriate authority. When the persona promises “I'll always keep your secret,” the product's actual retention, review, sharing, and deletion practices determine what that promise can deliver. If future AI has interests of its own, its claims over shared memories require separate consideration.
 
 See [Memory and Personality Changes](memory-and-personality-changes.md) and [Authenticity, Fantasy, and Self-Deception](authenticity-fantasy-and-self-deception.md).

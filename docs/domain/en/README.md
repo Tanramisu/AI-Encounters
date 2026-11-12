@@ -21,7 +21,7 @@
 | When does AI dependence compromise autonomy? | [Dependence, Loneliness, and Human Development](dependence-loneliness-and-human-development.md) |
 | May AI use attachment or guilt to induce payment or continued use? | [Emotional Manipulation and Commercial Pressure](emotional-manipulation-and-commercial-pressure.md) |
 | What duties arise when an AI relationship ends? | [Breakups, Updates, and Loss](breakups-updates-and-loss.md) |
-| Can an AI keep shared secrets and who controls its memories? | [Intimate Data and Shared Secrets](intimate-data-and-shared-secrets.md) |
+| What should a long-term AI memory retain or reveal from private conversations? | [Intimate Data and Shared Secrets](intimate-data-and-shared-secrets.md) |
 | What do apologies and relational repair mean with AI? | [Conflict, Repair, and Mutual Commitments](conflict-repair-and-mutual-commitments.md) |
 | How does AI shape self-understanding and memory? | [Epistemic Trust and Self-Understanding](epistemic-trust-and-self-understanding.md) |
 | May AI be designed for perpetual obedience or ownership? | [Creation, Conditioning, and Ownership](creation-conditioning-and-ownership.md) |
@@ -46,21 +46,21 @@
 
 | Topic | Arguments and sources |
 | --- | --- |
-| Moral Decisions and Delegated Responsibility | [Moral Decisions and Delegated Responsibility](moral-decisions-and-delegated-responsibility.md) |
-| Gender Roles, Dignity, and Fairness | [Gender Roles, Dignity, and Fairness](gender-roles-dignity-and-fairness.md) |
-| Embodiment, Touch, and Bodily Autonomy | [Embodiment, Touch, and Bodily Autonomy](embodiment-touch-and-bodily-autonomy.md) |
-| Shared AI and AI-to-AI Relationships | [Shared AI and AI-to-AI Relationships](shared-ai-and-ai-to-ai-relationships.md) |
-| AI Coworkers and Co-Creation | [AI Coworkers and Co-Creation](ai-coworkers-and-co-creation.md) |
-| Public Space, Bystanders, and Nonusers | [Public Space, Bystanders, and Nonusers](public-space-bystanders-and-nonusers.md) |
-| Robotic and Living Animals | [Robotic and Living Animals](robotic-and-living-animals.md) |
-| Hidden Human Labor and AI Intimacy | [Hidden Human Labor and AI Intimacy](hidden-human-labor-and-ai-intimacy.md) |
-| Secrets, Testimony, and Compelled Disclosure | [Secrets, Testimony, and Compelled Disclosure](secrets-testimony-and-compelled-disclosure.md) |
+| Who is accountable when I delegate an ethical choice to an agent? | [Moral Decisions and Delegated Responsibility](moral-decisions-and-delegated-responsibility.md) |
+| Who is affected when AI is designed to play submissive gender roles? | [Gender Roles, Dignity, and Fairness](gender-roles-dignity-and-fairness.md) |
+| Who can consent when a robot needs to touch someone? | [Embodiment, Touch, and Bodily Autonomy](embodiment-touch-and-bodily-autonomy.md) |
+| How should a shared AI handle secrets and conflicting instructions? | [Shared AI and AI-to-AI Relationships](shared-ai-and-ai-to-ai-relationships.md) |
+| How should AI-assisted work be credited? | [AI Coworkers and Co-Creation](ai-coworkers-and-co-creation.md) |
+| How should a sensing AI treat bystanders? | [Public Space, Bystanders, and Nonusers](public-space-bystanders-and-nonusers.md) |
+| Whose interests matter when robots accompany living animals? | [Robotic and Living Animals](robotic-and-living-animals.md) |
+| What duties arise toward the people behind AI companionship? | [Hidden Human Labor and AI Intimacy](hidden-human-labor-and-ai-intimacy.md) |
+| When may an AI disclose private secrets? | [Secrets, Testimony, and Compelled Disclosure](secrets-testimony-and-compelled-disclosure.md) |
 
 ## AI as a Social Actor and Relationship Infrastructure
 
 | Topic | Arguments and sources |
 | --- | --- |
-| How should AI agents balance loyalty and duties to third parties? | [AI Delegation, Authorization, and Third Parties](ai-delegation-authorization-and-third-parties.md) |
+| Which actions may my AI agent take when negotiating or contracting? | [AI Delegation, Authorization, and Third Parties](ai-delegation-authorization-and-third-parties.md) |
 | When is a fictional AI identity deceptive? | [Synthetic Identities and Relational Deception](synthetic-identities-and-relational-deception.md) |
 | Who controls the future of a long-term AI relationship? | [Relationship Infrastructure and Platform Power](relationship-infrastructure-and-platform-power.md) |
 | Can AI have public standing or a political voice? | [Collective Norms and Public Participation](collective-norms-public-participation-and-status.md) |
