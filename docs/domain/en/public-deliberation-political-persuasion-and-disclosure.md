@@ -26,6 +26,6 @@
 
 ## Disclosure of identity and purpose
 
-Distinguish **open debate, assisting real citizens, authorized representation, and persuasion concealed behind fake identities or sponsors**. AI involvement is not inherently illegitimate, but hidden control and impersonation can deprive others of information relevant to fair public deliberation. Claims should remain contestable, with real sponsors and controllers identifiable.
+Distinguish **open debate, assisting real citizens, authorized representation, and persuasion concealed behind fake identities or sponsors**. AI involvement in public debate can be legitimate. Posing as ordinary citizens, concealing interested parties, or leading others to believe they are speaking with independent humans can undermine informed participation and fair deliberation. Policy arguments should remain open to challenge, and those controlling their dissemination should be identifiable.
 
 Related: [Synthetic Identities](synthetic-identities-and-relational-deception.md) and [Moral Decisions and Delegation](moral-decisions-and-delegated-responsibility.md).
