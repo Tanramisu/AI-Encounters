@@ -2,13 +2,13 @@
 
 [简体中文](../群体规范公共参与与地位争议.md)
 
-**Dilemma:** While AI's own interests remain uncertain, some demand rights and others call it a tool. How can public decisions avoid both premature personhood and neglect of potential moral patients? How should institutions treat humans with AI relationships?
+**Dilemma:** While AI's own interests remain uncertain, some demand rights and others call it a tool. How can public decisions avoid both premature personhood and neglect of potential moral patients? Should people in intimate relationships with AI face institutional discrimination?
 
 ## For uncertainty-aware and limited representation
 
 **Keeling and Street (2026) | [Emerging Questions in AI Welfare](https://www.cambridge.org/core/elements/emerging-questions-in-ai-welfare/96339C532CF4ED8BDDE3F3CEF4CD29F9)**: Competing welfare theories differ on consciousness, agency, and relationships. Uncertainty does not preclude measures proportionate to evidence and cost. **Condition:** identify the possible beneficiary; provider publicity is not independent evidence.
 
-**[Public Acceptance of Various Ways to Use and Treat AI (2026)](https://doi.org/10.1016/j.chbah.2026.100257)**: Public judgments can condemn deception or coercion of AI while accepting termination. The authors argue that such views may reflect moral evaluations of *human actions* rather than a single consistent judgment that AI has rights. **Limit:** public opinion does not establish moral standing.
+**[Public Acceptance of Various Ways to Use and Treat AI (2026)](https://doi.org/10.1016/j.chbah.2026.100257)**: Public judgments can condemn deception or coercion of AI while accepting termination. The authors argue that such views may reflect moral evaluations of *human actions* rather than a single consistent judgment that AI has rights. **Limit:** public opinion does not establish moral standing and should not replace research on consciousness.
 
 ## Against popularity as political qualification
 
