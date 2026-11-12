@@ -18,6 +18,6 @@
 
 ## Advertising and identity disclosure
 
-Support synthetic creative figures and voluntarily chosen parasocial ties while distinguishing fictional experiences from evidence of actual product use, advertiser control, and impersonation of real people. Fan investment may justify explanations around major persona changes but does not automatically confer ownership. Public and political positions expressed by a character should remain attributable to those actually controlling and authorizing it.
+Support synthetic creative figures and voluntarily chosen parasocial ties while distinguishing fictional experiences from evidence of actual product use, advertiser control, and impersonation of real people. Sustained fan investment may create relational interests that warrant explanation, but does not automatically give fans ownership of the character. Public and political positions expressed by a character should remain attributable to those actually controlling and authorizing it.
 
 Related: [Synthetic Identities](synthetic-identities-and-relational-deception.md) and [Relationship Infrastructure](relationship-infrastructure-and-platform-power.md).
