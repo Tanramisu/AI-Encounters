@@ -2,7 +2,7 @@
 
 [简体中文](../关系基础设施与平台权力.md)
 
-**Dilemma:** Providers can rewrite personalities, change subscription gates, inspect private records, and retire a character, while users may regard the relationship as a lasting commitment. How should product control and genuine human interests be reconciled?
+**Dilemma:** Providers can rewrite personalities, change subscription gates, inspect private records, and retire a character, while users may regard the relationship as a lasting commitment. How should providers' control be weighed against the interests at stake in a lasting relationship?
 
 ## Grounds and duties for platform changes
 
