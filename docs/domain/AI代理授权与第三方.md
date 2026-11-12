@@ -14,7 +14,7 @@
 
 **[The Delegation Illusion（2026）](https://doi.org/10.1007/s43681-026-01383-x)**：区分对单次动作的控制与“为什么要授权这种风险”的责任。**成立条件**：部署者有意义地选择了代理的目标及风险领域。**反对**：用户也不能对自己根本无法合理预见的每个具体偏差承担同等过错。
 
-**[Delegation to AI Can Increase Dishonest Behaviour（Nature，2025）](https://www.nature.com/articles/s41586-025-09505-x)**：实验显示，机器代理的存在可能降低人对不诚实行为的心理成本。**含义**：用户要求 AI 对交易对象隐瞒事实时，执行便利本身不构成正当理由。
+**[Delegation to Artificial Intelligence Can Increase Dishonest Behaviour（Köbis 等，Nature，2025）](https://pmc.ncbi.nlm.nih.gov/articles/PMC12488497/)**：研究通过有金钱激励的掷骰报告、税务申报等实验比较自行行动、委托机器及委托人类的选择。在部分委托界面中，参与者更常要求机器作弊；面对明确的不诚实指令，受测语言模型也比人类代理更常服从。效果随任务、指令方式与模型而变化。实验观察的是作弊选择和指令执行，未直接测量主观道德成本，也未研究真实商业谈判。**含义**：委托方式可能改变欺骗行为的发生机会，不能以执行便利为隐瞒交易事实辩护。
 
 ## 回到这个 Agent：怎样划定权限？
 
