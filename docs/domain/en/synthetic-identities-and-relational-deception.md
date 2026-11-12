@@ -6,7 +6,7 @@
 
 ## For pseudonyms and chosen fiction
 
-People may adopt avatars to avoid exposing their names, disabilities, identities, or locations. A fictional identity does not necessarily solicit money or deceptive intimacy, and people can knowingly play with artificial characters. **Condition:** recipients understand material facts relevant to significant relational or economic choices.
+People may adopt avatars to avoid exposing their names, disabilities, identities, or locations. A fictional identity does not necessarily solicit money or deceptive intimacy, and people can knowingly play with artificial characters. **Condition:** the other person knows the material facts and is not led by a mistaken belief that they are speaking with a human to make significant intimate or economic decisions they would otherwise reject.
 
 ## Against concealing material identity facts
 
