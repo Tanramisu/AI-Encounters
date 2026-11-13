@@ -12,7 +12,7 @@
 
 ## Attribution and accountability
 
-**ACM, [authorship and AI-use policy (2026)](https://2027.sigcse-ts.acm.org/info/policies-ai)**: Academic authorship carries responsibility for the correctness and integrity of the work. ACM requires methodological disclosure when AI is used in research activities directly relevant to its conclusions, but no longer requires disclosure of AI assistance used only in writing a submission; named authors remain accountable for its contents. **Rationale:** in publishing systems that require accountability, recording contributions and assigning authorship serve distinct purposes. **Key objection:** a publisher's accountability rules allocate responsibility for papers; they do not settle what professional recognition AI contributions deserve or whether AI has moral interests of its own.
+**ACM, [authorship and AI-use policy (2026)](https://www.acm.org/publications/policies/new-acm-policy-on-authorship)**: Academic authorship carries responsibility for the correctness and integrity of the work. ACM requires methodological disclosure when AI is used in research activities directly relevant to its conclusions, but no longer requires disclosure of AI assistance used only in writing a submission; named authors remain accountable for its contents. **Rationale:** in publishing systems that require accountability, recording contributions and assigning authorship serve distinct purposes. **Key objection:** a publisher's accountability rules allocate responsibility for papers; they do not settle what professional recognition AI contributions deserve or whether AI has moral interests of its own.
 
 ## Empirical evidence on trust in AI teammates
 
