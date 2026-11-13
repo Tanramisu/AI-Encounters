@@ -12,7 +12,7 @@
 
 ## Against treating AI teammates as independently responsible
 
-**[Trusting Autonomous Teammates in Human–AI Teams (CHI 2025)](https://doi.org/10.1145/3706598.3713527)**: A literature review describes how reliability, transparency, and contextual factors shape trust in AI teammates. **Implication:** the teammate framing can aid collaboration without establishing that AI has interests of its own or bears legal responsibility.
+**Wen Duan et al., [Trusting Autonomous Teammates in Human–AI Teams (CHI 2025)](https://doi.org/10.1145/3706598.3713527)**: This systematic review examined 57 empirical studies of human trust in autonomous AI teammates published from 2008 to 2022. Fourteen papers provided sufficient statistics to aggregate 18 effect sizes for eight agent-related factors. Reliability and transparency both influenced trust, although transparency had a smaller pooled effect and studies operationalized “trust” inconsistently. Of the 57 studies, 33 used military task settings and 44 studied two-member teams of one human and one AI; physically embodied robots were excluded. **Implication:** trust in collaboration has observable task and interaction determinants; whether AI has interests or independent legal responsibility requires separate arguments. **Limit:** the review measures human trust in AI, with concentrated task and team settings, rather than long-term creative partnerships.
 
 For the delegator's duties of explanation and accountability, see [Moral Agency and Commitments](moral-agency-commitments-and-representation.md).
 
