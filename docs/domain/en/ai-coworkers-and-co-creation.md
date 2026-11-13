@@ -6,7 +6,7 @@
 
 ## For accounting for different contributions
 
-**[Which Contributions Deserve Credit? (CHI 2025)](https://arxiv.org/abs/2502.18357)**: A survey of 155 knowledge workers found that perceived deserved credit varied with contribution type, amount, and initiative. **Implication:** a binary AI-used label poorly describes actual work. **Limit:** perceptions are neither copyright law nor evidence of AI moral standing.
+**Jessica He, Stephanie Houde, and Justin D. Weisz, [Which Contributions Deserve Credit? (CHI 2025)](https://arxiv.org/html/2502.18357v1)**: In a scenario-based survey of 155 knowledge workers, participants were randomly assigned a human or AI writing partner and one of three writing contexts, then rated deserved authorship credit across contribution types, amounts, and initiative. Credit judgments varied by contribution, and AI partners consistently received less credit than human partners for equivalent contributions. **Implication:** both the nature of a contribution and the partner's identity shape credit judgments; a binary AI-use label misses these distinctions. **Limit:** these are judgments about hypothetical writing scenarios, not observed attribution behavior, copyright entitlements, or AI moral rights.
 
 **[Engaging the Many-Hands Problem of Generative-AI Outputs (2024)](https://doi.org/10.1007/s43681-024-00440-7)** offers an analytic framework for distinguishing contributions by human workers and automated systems across training, development, and the creative process. **Objection:** contributing is not sufficient to establish identical legal authorship rights.
 
