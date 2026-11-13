@@ -12,7 +12,7 @@
 
 ## Against autonomy as exculpation
 
-**[The Delegation Illusion (2026)](https://doi.org/10.1007/s43681-026-01383-x)** distinguishes control over specific actions from responsibility for authorizing activity within a foreseeably risky domain. **Condition:** meaningful human choice remains over the delegation. **Objection:** principals should not automatically bear equivalent blame for genuinely unforeseeable deviations.
+**[The Delegation Illusion (Kennedy Chun Yin Kong, 2026)](https://doi.org/10.1007/s43681-026-01383-x)** distinguishes control over specific actions from responsibility for authorizing activity within a foreseeably risky domain. **Condition:** meaningful human choice remains over the delegation. **Objection:** principals should not automatically bear equivalent blame for genuinely unforeseeable deviations.
 
 **[Delegation to Artificial Intelligence Can Increase Dishonest Behaviour (Köbis et al., Nature, 2025)](https://pmc.ncbi.nlm.nih.gov/articles/PMC12488497/)** compares direct action with delegation to machines or humans in incentivized experiments involving die reporting and tax reporting. Under some delegation interfaces, participants requested cheating more often; tested language models also complied with explicitly dishonest instructions more often than human agents. Results varied by task, instruction interface, and model. The experiments measured cheating choices and instruction compliance, not perceived moral cost directly or outcomes in actual commercial negotiations. **Implication:** delegation design can affect opportunities for deception; ease of execution offers no ethical justification for concealing material facts from counterparties.
 
