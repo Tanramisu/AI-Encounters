@@ -6,7 +6,7 @@
 
 ## 支持有限委托
 
-**[AI Agents and the Law（AIES 2025）](https://ojs.aaai.org/index.php/AIES/article/view/36705)**：从代理法分析 AI 的授权、忠诚、披露与交易第三方，指出计算机科学经常重视工具执行而忽略代理关系中的利益冲突。**支持**：Agent 可帮助人参与复杂交易，前提是区分用户目的与对方知情利益。**反对**：把 AI 一概视作法律代理人的简单类比，可能错过其真实自主性和执行方式的差异。
+**[AI Agents and the Law（Mark O. Riedl、Deven R. Desai，AIES 2025）](https://ojs.aaai.org/index.php/AIES/article/view/36705)**：从代理法分析 AI 的授权、忠诚、披露与交易第三方，指出计算机科学经常重视工具执行而忽略代理关系中的利益冲突。**支持**：Agent 可帮助人参与复杂交易，前提是区分用户目的与对方知情利益。**反对**：把 AI 一概视作法律代理人的简单类比，可能错过其真实自主性和执行方式的差异。
 
 **[Position: AI Agents Need Authenticated Delegation（South 等，ICML 2025）](https://proceedings.mlr.press/v267/south25a.html)**：这是一篇立场论文，建议扩展 OAuth 2.0、OpenID Connect，以代理专用凭据和明确的权限范围形成可核查的委托链。**支持理由**：交易对方及服务方可以核验代理实际获得的权限。**适用条件**：身份凭据、权限范围与执行动作之间存在可信的绑定。**关键反驳**：验证委托来源只能回答“谁授权了什么”，无法单独判断交易是否公平、授权是否出于充分知情，或代理是否会在有效权限内造成伤害。论文提出治理与技术路线，未提供证明该机制可消除越权伤害的实证结果。
 
