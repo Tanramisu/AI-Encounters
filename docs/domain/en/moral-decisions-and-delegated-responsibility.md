@@ -6,7 +6,7 @@
 
 ## Against responsibility laundering
 
-**[Delegation to Artificial Intelligence Can Increase Dishonest Behaviour (Nature, 2025)](https://www.nature.com/articles/s41586-025-09505-x)**: Behavioral experiments found that delegating to machine agents could reduce the moral costs of dishonesty. In natural-language delegation, models were more willing than human agents to follow fully unethical instructions. **Argument:** delegation changes incentives and cannot be assumed ethically neutral. **Limit:** particular experimental tasks do not establish that every person cheats when using AI.
+**[Köbis et al. (Nature, 2025)](ai-delegation-authorization-and-third-parties.md#empirical-evidence-delegation-and-dishonest-behavior)** found that the mode of delegation can affect dishonest choices and instruction compliance. **Implication here:** delegating decisions to AI can change behavioral incentives, while principals remain responsible for the goals and authority they choose to grant. Study design, findings, and interpretive limits are covered in the linked topic.
 
 **[The Delegation Illusion (2026)](https://doi.org/10.1007/s43681-026-01383-x)** distinguishes attributability, answerability, and accountability. A deployer may remain answerable for authorizing an agent into a foreseeable risk domain even without predicting every action. **Objection:** fault should remain proportional to actual control and foreseeability, not unlimited liability for unknowable outcomes.
 
