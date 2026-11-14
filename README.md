@@ -1,4 +1,4 @@
-# AI Encounters
+# Dear AI
 
 [简体中文](README.zh-CN.md)
 
@@ -9,4 +9,4 @@ Each topic provides original sources, empirical findings, conditions, and substa
 - [Find arguments by the problem you face](docs/README.md)
 - [Contributing and documentation rules](AGENTS.md)
 
-Suggest a question or source via [Issues](https://github.com/Tanramisu/AI-Encounters/issues), or submit additions and corrections through a pull request.
+Suggest a question or source via [Issues](https://github.com/Tanramisu/Dear-AI/issues), or submit additions and corrections through a pull request.

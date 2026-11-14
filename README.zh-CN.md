@@ -1,4 +1,4 @@
-# 与 AI 相处｜AI Encounters
+# 与 AI 相处｜Dear AI
 
 [English](README.md)
 
@@ -9,4 +9,4 @@
 - [按遇到的问题查找论证](docs/README.zh-CN.md)
 - [资料维护约定](AGENTS.zh-CN.md)
 
-通过 [Issues](https://github.com/Tanramisu/AI-Encounters/issues) 提出伦理困惑或推荐来源，通过 Pull Request 补充和修正资料。
+通过 [Issues](https://github.com/Tanramisu/Dear-AI/issues) 提出伦理困惑或推荐来源，通过 Pull Request 补充和修正资料。
